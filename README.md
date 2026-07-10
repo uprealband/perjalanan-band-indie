@@ -2,26 +2,24 @@
 
 Perjalanan Uprealband adalah arsip digital dan memori kolektif band indie asal Depok yang telah berjalan sejak tahun 2004.
 
-Berisi kisah, timeline, tokoh, tempat, lagu, studio, tour, dan berbagai cabang cerita yang membentuk semesta Uprealband dari masa lalu, masa kini, hingga masa depan.
+Berisi kisah, timeline, tokoh, tempat, lagu, studio, tour, dokumentasi, eksperimen DIY, hingga berbagai cabang cerita yang membentuk semesta Uprealband dari masa lalu, masa kini, hingga masa depan.
 
-Bukan sekadar dokumentasi sebuah band, melainkan jejak beberapa orang yang kebetulan mempunyai band dan memilih untuk terus berjalan bersama di tengah perubahan zaman.
+Bukan sekadar dokumentasi sebuah band, melainkan jejak perjalanan beberapa orang yang memilih terus berkarya, belajar, dan berkembang bersama di tengah perubahan zaman.
 
-Karena Uprealband tidak pernah menjadi band yang terkenal. Tetapi perjalanan ini terlalu berharga untuk ikut lenyap.
+Karena Uprealband mungkin tidak pernah menjadi band paling terkenal. Tetapi setiap perjalanan memiliki cerita yang layak dikenang, dipelajari, dan diwariskan.
 
 ---
 
 ## 📖 Pembuka
 
-📖 [INTRO - Selamat Datang di Perjalanan Ini](intro.md)
+📖 **[INTRO - Selamat Datang di Perjalanan Ini](intro.md)**
 
 ---
 
-## 🎸 Track Perjalanan UprealBand (Cerita)
+## 🎸 Daftar Track Perjalanan Uprealband
 
-Berikut adalah daftar lengkap kisah Perjalanan UprealBand yang disusun dalam format track. Setiap track merupakan satu bab yang saling terhubung dan dapat dibaca secara mandiri maupun berurutan.
+Berikut adalah daftar lengkap kisah **Perjalanan Uprealband** yang disusun dalam format **Track**. Setiap Track merupakan satu bab yang mendokumentasikan perjalanan band indie asal Depok sejak tahun 2004, mulai dari pembangunan studio musik, perjalanan personel, proses kreatif, lagu, festival band, kehidupan sehari-hari, eksperimen DIY, hingga berbagai momen yang membentuk semesta Uprealband.
 
-- 🎵 Track 01 • [Operasi Merayu Gerry](track/track-01-operasi-merayu-gerry.md)
-- 🎵 Track 02 • [Misi Mangga Dua dan Kedatangan dari Weleri](track/track-02-misi-mangga-dua-dan-kedatangan-dari-weleri.md)
 - 🎵 Track 01 • [Operasi Merayu Gerry](track/track-01-operasi-merayu-gerry.md)
 - 🎵 Track 02 • [Misi Mangga Dua dan Kedatangan dari Weleri](track/track-02-misi-mangga-dua-dan-kedatangan-dari-weleri.md)
 - 🎵 Track 03 • [Sersan (Serius Tapi Santai) Alur Tersasar](track/track-03-sersan-serius-tapi-santai-alur-tersasar.md)
@@ -40,7 +38,7 @@ Berikut adalah daftar lengkap kisah Perjalanan UprealBand yang disusun dalam for
 - 🎵 Track 16 • [Papan Nama Up Real Studio](track/track-16-papan-nama-up-real-studio.md)
 - 🎵 Track 17 • [Suzuki Tornado 2 Tak dan Studio yang Akhirnya Jalan](track/track-17-suzuki-tornado-2-tak-dan-studio-yang-akhirnya-jalan.md)
 - 🎵 Track 18 • [Ulang Tahun Rini dan Stick Brush Gaya Banget](track/track-18-ulang-tahun-rini-dan-stick-brush-gaya-banget.md)
-- 🎵 Track 19 • [DVD Konser dan Apoy 100 km/jam](track/track-19-dvd-konser-dan-apoy-100-km-jam.md)
+- 🎵 Track 19 • [DVD Konser dan Apoy 100 km/Jam](track/track-19-dvd-konser-dan-apoy-100-km-jam.md)
 - 🎵 Track 20 • [Band Terbaik yang Gak Tahu Kalau Menang](track/track-20-band-terbaik-yang-gak-tahu-kalau-menang.md)
 - 🎵 Track 21 • [Perpisahan Derry dan Video Dua Kamera](track/track-21-perpisahan-derry-dan-video-dua-kamera.md)
 - 🎵 Track 22 • [Radio Gelap Jati Jajar](track/track-22-radio-gelap-jatijajar.md)
@@ -56,25 +54,29 @@ Berikut adalah daftar lengkap kisah Perjalanan UprealBand yang disusun dalam for
 
 ---
 
-## 🚧 Sedang Dibangun dan masih berlanjut ...
+## 🚧 Sedang Dibangun dan Akan Terus Bertambah
 
-* Timeline Uprealband
-* Universe Tokoh
-* Markas Studio
-* Album Evolution
-* Tempat dan Kota
-* Dokumentasi Foto
-* Podcast Per Bab
-* Arsip dan Artefak
-* Lore dan Cabang Cerita
+Repository ini akan terus berkembang seiring ditemukannya arsip lama maupun lahirnya cerita baru.
+
+Rencana pengembangan meliputi:
+
+- Timeline Uprealband
+- Universe Tokoh
+- Markas Studio
+- Album Evolution
+- Tempat dan Kota
+- Dokumentasi Foto
+- Podcast Per Bab
+- Arsip dan Artefak
+- Lore dan Cabang Cerita
 
 ---
 
-## Filosofi
+## 📜 Filosofi
 
-** Rock N Real **
+> **Rock N Real**
 
-** Rock N Rules **
+> **Rock N Rules**
 
 Selamat datang di perjalanan ini.
 
