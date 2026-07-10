@@ -1,23 +1,38 @@
 # Perjalanan UprealBand
 
-Perjalanan UprealBand adalah arsip digital resmi yang mendokumentasikan sejarah, perjalanan, karya, studio, personel, dokumentasi, dan perkembangan **UprealBand**, sebuah band indie asal Depok, Jawa Barat, Indonesia yang berdiri sejak tahun **2004**.
+Perjalanan UprealBand adalah arsip digital resmi yang mendokumentasikan sejarah, perjalanan, karya, studio musik, personel, dokumentasi, serta perkembangan **UprealBand**, sebuah band indie asal **Depok, Jawa Barat, Indonesia** yang berdiri sejak **tahun 2004**.
 
-Repository ini menjadi pusat dokumentasi Perjalanan UprealBand yang menghubungkan cerita, timeline, lagu, studio musik, dokumentasi foto, proyek DIY, festival band, serta berbagai arsip yang membentuk perjalanan UprealBand dari tahun 2004 hingga sekarang.
+Repository ini menjadi pusat dokumentasi Perjalanan UprealBand yang menghubungkan cerita, timeline, lagu, studio musik, dokumentasi foto, video, proyek DIY, festival band, arsip, hingga berbagai cabang cerita yang membentuk semesta UprealBand dari tahun 2004 hingga sekarang.
 
-Bukan sekadar dokumentasi sebuah band, melainkan catatan perjalanan beberapa orang yang memilih untuk terus berkarya, belajar, bereksperimen, dan berkembang bersama melewati berbagai fase kehidupan.
+Seluruh dokumentasi disusun berdasarkan pengalaman, dokumentasi, foto, arsip, catatan, serta ingatan para personel. Repository ini akan terus diperbarui seiring bertambahnya dokumentasi dan perjalanan baru UprealBand.
 
 ---
 
-## ℹ️ Informasi
+# 📑 Daftar Isi
+
+- [ℹ️ Informasi](#ℹ️-informasi)
+- [📖 Pembuka](#-pembuka)
+- [🏷️ Topik Repository](#️-topik-repository)
+- [🎸 Daftar Track Perjalanan UprealBand](#-daftar-track-perjalanan-uprealband)
+- [🗂️ Struktur Dokumentasi](#️-struktur-dokumentasi)
+- [🚧 Sedang Dibangun](#-sedang-dibangun)
+- [📚 Tentang Repository](#-tentang-repository)
+- [🔄 Pembaruan](#-pembaruan)
+- [📜 Filosofi](#-filosofi)
+
+---
+
+# ℹ️ Informasi
 
 | Keterangan | Isi |
 |------------|-----|
-| Nama Band | UprealBand |
+| Nama | UprealBand |
 | Asal | Depok, Jawa Barat, Indonesia |
 | Berdiri | 2004 |
 | Genre | Pop Rock / Alternative Rock |
-| Jenis Repository | Arsip Digital |
-| Status | Aktif dan terus diperbarui |
+| Jenis | Band Indie |
+| Repository | Arsip Digital |
+| Status | Aktif |
 
 ---
 
@@ -27,7 +42,30 @@ Mulailah perjalanan dari halaman pembuka berikut.
 
 📖 **[INTRO – Selamat Datang di Perjalanan Ini](intro.md)**
 
-Halaman pembuka menjelaskan tujuan repository, latar belakang Perjalanan UprealBand, serta cara membaca setiap Track.
+Halaman pembuka menjelaskan latar belakang Perjalanan UprealBand, tujuan repository, struktur dokumentasi, dan cara membaca setiap Track.
+
+---
+
+# 🏷️ Topik Repository
+
+Repository ini mendokumentasikan berbagai topik yang saling berhubungan, antara lain:
+
+- UprealBand
+- Perjalanan UprealBand
+- Band Indie Indonesia
+- Band Indie Depok
+- Sejarah Band
+- Timeline
+- Studio Musik
+- Recording
+- Album
+- Lagu
+- Personel
+- Festival Band
+- DIY Studio
+- Dokumentasi
+- Arsip Digital
+- Musik Indonesia
 
 ---
 
@@ -35,7 +73,7 @@ Halaman pembuka menjelaskan tujuan repository, latar belakang Perjalanan UprealB
 
 Seluruh cerita disusun dalam format **Track**.
 
-Setiap Track merupakan satu bab yang menceritakan sebuah peristiwa dalam perjalanan UprealBand. Seluruh Track saling terhubung membentuk kronologi perjalanan sejak tahun 2004 dan dapat dibaca secara berurutan maupun secara mandiri.
+Setiap Track merupakan satu bab yang mendokumentasikan sebuah peristiwa dalam perjalanan UprealBand. Seluruh Track saling terhubung membentuk kronologi perjalanan sejak tahun 2004 dan dapat dibaca secara berurutan maupun secara mandiri.
 
 - 🎵 Track 01 • [Operasi Merayu Gerry](track/track-01-operasi-merayu-gerry.md)
 - 🎵 Track 02 • [Misi Mangga Dua dan Kedatangan dari Weleri](track/track-02-misi-mangga-dua-dan-kedatangan-dari-weleri.md)
@@ -73,9 +111,9 @@ Setiap Track merupakan satu bab yang menceritakan sebuah peristiwa dalam perjala
 
 # 🗂️ Struktur Dokumentasi
 
-Repository ini dibangun sebagai pusat dokumentasi Perjalanan UprealBand.
+Repository ini disusun sebagai dokumentasi utama Perjalanan UprealBand.
 
-Dokumentasi akan terus berkembang dan saling terhubung melalui berbagai kategori berikut.
+Dokumentasi dikelompokkan ke dalam beberapa bagian yang saling terhubung.
 
 - 📖 Intro
 - 🎸 Track Perjalanan
@@ -83,7 +121,7 @@ Dokumentasi akan terus berkembang dan saling terhubung melalui berbagai kategori
 - 👥 Universe Tokoh
 - 🎙️ Album dan Lagu
 - 🎛️ Studio Musik
-- 🛠️ Proyek DIY
+- 🛠️ DIY Project
 - 📷 Dokumentasi Foto
 - 🎥 Dokumentasi Video
 - 🎙️ Podcast
@@ -94,11 +132,11 @@ Dokumentasi akan terus berkembang dan saling terhubung melalui berbagai kategori
 
 # 🚧 Sedang Dibangun
 
-Repository ini akan terus diperbarui seiring ditemukannya arsip lama maupun bertambahnya cerita baru.
+Repository ini akan terus berkembang.
 
-Dokumentasi yang sedang dipersiapkan antara lain:
+Dokumentasi berikut sedang dipersiapkan.
 
-- Timeline Perjalanan UprealBand
+- Timeline UprealBand
 - Universe Tokoh
 - Markas Studio
 - Album Evolution
@@ -113,11 +151,19 @@ Dokumentasi yang sedang dipersiapkan antara lain:
 
 # 📚 Tentang Repository
 
-Perjalanan UprealBand merupakan dokumentasi sejarah sebuah band indie yang disusun berdasarkan pengalaman, dokumentasi, foto, arsip, catatan, serta ingatan para personel sejak tahun 2004.
+Repository ini merupakan pusat dokumentasi resmi Perjalanan UprealBand.
 
-Setiap Track dapat dibaca sebagai cerita tersendiri, namun seluruh Track saling melengkapi sehingga membentuk satu perjalanan panjang mengenai musik, studio, persahabatan, kreativitas, kehidupan, dan perkembangan UprealBand dari masa ke masa.
+Seluruh cerita ditulis berdasarkan dokumentasi, pengalaman, arsip, foto, video, catatan, serta ingatan para personel sejak tahun 2004.
 
-Repository ini akan terus berkembang sebagai pusat dokumentasi resmi Perjalanan UprealBand.
+Setiap Track dapat dibaca sebagai cerita tersendiri maupun sebagai bagian dari perjalanan yang lebih besar. Seluruh Track saling melengkapi dan membentuk dokumentasi mengenai sejarah UprealBand, proses kreatif, studio musik, lagu, personel, persahabatan, serta perkembangan band dari masa ke masa.
+
+Repository ini akan terus diperbarui sebagai referensi utama mengenai Perjalanan UprealBand.
+
+---
+
+# 🔄 Pembaruan
+
+Dokumentasi akan terus diperbarui seiring ditemukannya arsip lama, dokumentasi baru, foto, video, maupun cerita yang belum pernah dipublikasikan.
 
 ---
 
