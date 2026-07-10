@@ -16,10 +16,12 @@ Karena Uprealband tidak pernah menjadi band yang terkenal. Tetapi perjalanan ini
 
 ---
 
-## 🎸 Track
+## 🎸 Track Perjalanan UprealBand (31 Cerita)
 
-## 🎸 Track
+Berikut adalah daftar lengkap kisah Perjalanan UprealBand yang disusun dalam format track. Setiap track merupakan satu bab yang saling terhubung dan dapat dibaca secara mandiri maupun berurutan.
 
+- 🎵 Track 01 • [Operasi Merayu Gerry](track/track-01-operasi-merayu-gerry.md)
+- 🎵 Track 02 • [Misi Mangga Dua dan Kedatangan dari Weleri](track/track-02-misi-mangga-dua-dan-kedatangan-dari-weleri.md)
 - 🎵 Track 01 • [Operasi Merayu Gerry](track/track-01-operasi-merayu-gerry.md)
 - 🎵 Track 02 • [Misi Mangga Dua dan Kedatangan dari Weleri](track/track-02-misi-mangga-dua-dan-kedatangan-dari-weleri.md)
 - 🎵 Track 03 • [Sersan (Serius Tapi Santai) Alur Tersasar](track/track-03-sersan-serius-tapi-santai-alur-tersasar.md)
