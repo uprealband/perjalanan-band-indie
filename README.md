@@ -16,7 +16,7 @@ Karena Uprealband tidak pernah menjadi band yang terkenal. Tetapi perjalanan ini
 
 ---
 
-## 🎸 Track Perjalanan UprealBand (31 Cerita)
+## 🎸 Track Perjalanan UprealBand (Cerita)
 
 Berikut adalah daftar lengkap kisah Perjalanan UprealBand yang disusun dalam format track. Setiap track merupakan satu bab yang saling terhubung dan dapat dibaca secara mandiri maupun berurutan.
 
@@ -56,7 +56,7 @@ Berikut adalah daftar lengkap kisah Perjalanan UprealBand yang disusun dalam for
 
 ---
 
-## 🚧 Sedang Dibangun
+## 🚧 Sedang Dibangun dan masih berlanjut ...
 
 * Timeline Uprealband
 * Universe Tokoh
