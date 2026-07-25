@@ -106,6 +106,12 @@ Misi merayu Gerry pun beres.
 
 Sekarang, petualangan Uprealband, band indie asal Depok, untuk mencari manusia yang bisa menggebuk drum dimulai
 
+<p>
+  <a href="../audio/track-01-operasi-merayu-gerry.mp3">
+    ▶️ Putar Lagu Track 01
+  </a>
+</p>
+
 ---
 
 ## Tokoh
