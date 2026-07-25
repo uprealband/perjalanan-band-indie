@@ -121,16 +121,45 @@ Sekarang, petualangan UprealBand, band indie asal Depok, untuk mencari manusia y
   Browser Anda tidak mendukung pemutar audio.
 </audio>
 
+---
+lirik lagu
+---
+Tak mudah mengubah arah
+Saat asa perlahan sirna
+Namun demi satu mimpi
+Ia tetap bertahan
+
+Tak ia biarkan mimpi terhenti
+Semua saling mengisi
+
+Gerry... demi kita semua
+Kau rela jalan berbeda
+Satu nada, satu irama
+demi mimpi tetap menyala
+
+Gerry... tak pernah ragu
+Melangkah bersama waktu
+Dengan petik sederhana
+Mengubah semua cerita
+
+Gerry... demi kita semua
+Kau rela jalan berbeda
+Satu nada, satu irama
+demi mimpi tetap menyala
+
+Gerry... tak pernah ragu
+Melangkah bersama waktu
+Dengan petik sederhana
+Mengubah semua cerita
+
+aaa... aaaa... aaaa... aaaa...
+Tetap menyala...
+aaa... aaaa... aaaa... aaaa...
+Selamanya...
+
 ### 📥 Unduh Lagu
 
 - [⬇️ Download MP3](../audio/track-01-operasi-merayu-gerry.mp3)
-
----
-
-## Tokoh
----
-
-## Tokoh
 
 ---
 
