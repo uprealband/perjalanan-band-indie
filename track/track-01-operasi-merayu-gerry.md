@@ -128,7 +128,6 @@ Tak mudah mengubah arah
 Saat asa perlahan sirna
 Namun demi satu mimpi
 Ia tetap bertahan
-
 Tak ia biarkan mimpi terhenti
 Semua saling mengisi
 
