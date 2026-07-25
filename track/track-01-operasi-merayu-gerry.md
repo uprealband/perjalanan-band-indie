@@ -114,15 +114,6 @@ Sekarang, petualangan UprealBand, band indie asal Depok, untuk mencari manusia y
 
 <h2>🎵 Soundtrack Track 01</h2>
 
-<a href="/perjalanan-uprealband/audio/track-01-operasi-merayu-gerry.mp3" target="_blank">
-🎵 Putar Lagu
-</a>
-
-
----
-
-## 🎵 Soundtrack Track 01
-
 **🎧 Dengarkan Lagu**
 
 <audio controls preload="metadata" style="width:100%;">
