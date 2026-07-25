@@ -112,20 +112,15 @@ Sekarang, petualangan UprealBand, band indie asal Depok, untuk mencari manusia y
 
 ---
 
-## 🎵 Dengarkan Soundtrack Track 01
+<h2>🎵 Soundtrack Track 01</h2>
 
-Cerita baru saja dimulai. Dengarkan lagu yang terinspirasi dari momen "Operasi Merayu Gerry" sambil melanjutkan perjalanan Buku Perjalanan UprealBand.
-
-<audio controls preload="metadata" style="width:100%;">
-  <source src="../audio/track-01-operasi-merayu-gerry.mp3" type="audio/mpeg">
-  Browser Anda tidak mendukung pemutar audio.
+<audio id="track01" preload="metadata">
+    <source src="/perjalanan-uprealband/audio/track-01-operasi-merayu-gerry.mp3" type="audio/mpeg">
 </audio>
 
-<p>
-<a href="../audio/track-01-operasi-merayu-gerry.mp3" target="_blank">
-▶️ Putar / Download MP3
-</a>
-</p>
+<button onclick="document.getElementById('track01').play()">
+▶️ Putar Lagu
+</button>
 
 ---
 
