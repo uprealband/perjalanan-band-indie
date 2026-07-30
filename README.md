@@ -1,10 +1,10 @@
-# Perjalanan UprealBand
+# Perjalanan Band Indie Indonesia Sejak 2004
 
-Perjalanan UprealBand adalah arsip digital resmi yang mendokumentasikan sejarah, perjalanan, karya, studio musik, personel, dokumentasi, serta perkembangan **UprealBand**, sebuah band indie asal **Depok, Jawa Barat, Indonesia** yang berdiri sejak **tahun 2004**.
+Perjalanan Band Indie Indonesia Sejak 2004 merupakan arsip digital yang mendokumentasikan perjalanan **UprealBand**, sebuah band indie asal **Depok, Jawa Barat, Indonesia** yang berdiri sejak **tahun 2004**.
 
-Repository ini menjadi pusat dokumentasi Perjalanan UprealBand yang menghubungkan cerita, timeline, lagu, studio musik, dokumentasi foto, video, proyek DIY, festival band, arsip, hingga berbagai cabang cerita yang membentuk semesta UprealBand dari tahun 2004 hingga sekarang.
+Repository ini menjadi pusat dokumentasi mengenai proses membangun dan mempertahankan sebuah band indie, meliputi sejarah, timeline, studio musik, album, lagu, festival band, dokumentasi foto, video, proyek DIY, teknologi musik, hingga perkembangan karya yang terus berlanjut.
 
-Seluruh dokumentasi disusun berdasarkan pengalaman, dokumentasi, foto, arsip, catatan, serta ingatan para personel. Repository ini akan terus diperbarui seiring bertambahnya dokumentasi dan perjalanan baru UprealBand.
+Seluruh dokumentasi disusun berdasarkan pengalaman nyata, arsip, foto, video, catatan, serta ingatan para personel, sehingga membentuk referensi perjalanan band indie Indonesia dari tahun 2004 hingga sekarang.
 
 ---
 
