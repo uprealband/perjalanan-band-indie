@@ -66,7 +66,7 @@ Repository ini membahas berbagai topik, antara lain:
 
 ---
 
-# 🎸 Daftar Track Perjalanan UprealBand
+# 🎸 Daftar Track Perjalanan Band Indie
 
 Seluruh cerita disusun dalam format **Track**.
 
