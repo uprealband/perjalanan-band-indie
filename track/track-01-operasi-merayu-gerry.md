@@ -659,44 +659,6 @@ Dan pencarian itu akan membawa mereka ke petualangan berikutnya.
 
 ---
 
-## 🎵 Soundtrack Track 01
-
-*(Tetap menggunakan soundtrack dan tautan yang sudah ada pada versi sebelumnya.)*
-
-## 📼 Artefak Sejarah
-
-**Video klip formasi UprealBand bersama Eka**
-
-https://www.youtube.com/watch?v=2_cIB5c5EEg
-
-Visual direkam di rumah Paman Kawit dengan personel Bany, Jon, Gerry, dan Eka. Audio menggunakan rekaman EP sebelumnya dengan permainan bass oleh Glen serta permainan drum oleh Gerry yang kemudian dipoles oleh Obhik menggunakan Fruity Loops.
-
-## Tokoh
-
-* Bany
-* Jon
-* Gerry
-* Glen
-* Eka
-* Ismanu
-* Obhik
-* Ikah
-* Aga Maulana
-* Benny Tahir
-* Mbah Surip
-* Paman Kawit
-
-## Tempat
-
-* Depok
-* Rumah Paman Kawit
-* Pasar Festival Ancol
-* Wings Studio
-
-## Tahun
-
-**2004**
-
 <h2>🎵 Soundtrack Track 01</h2>
 
 <p>
@@ -750,6 +712,44 @@ Selamanya...
 </audio>
 
 ---
+
+## 📼 Artefak Sejarah
+
+**Video klip formasi UprealBand bersama Eka**
+
+https://www.youtube.com/watch?v=2_cIB5c5EEg
+
+[![Video Klip Formasi UprealBand 2004](https://img.youtube.com/vi/2_cIB5c5EEg/hqdefault.jpg)](https://www.youtube.com/watch?v=2_cIB5c5EEg)
+
+Visual direkam di rumah Paman Kawit dengan personel Bany, Jon, Gerry, dan Eka. Audio menggunakan rekaman EP sebelumnya dengan permainan bass oleh Glen serta permainan drum oleh Gerry yang kemudian dipoles oleh Obhik menggunakan Fruity Loops.
+
+## Tokoh
+
+* Bany
+* Jon
+* Gerry
+* Glen
+* Eka
+* Ismanu
+* Obhik
+* Ikah
+* Aga Maulana
+* Benny Tahir
+* Mbah Surip
+* Paman Kawit
+
+## Tempat
+
+* Depok
+* Rumah Paman Kawit
+* Pasar Festival Ancol
+* Wings Studio
+
+## Tahun
+
+**2004**
+
+
 
 ## Tokoh
 
