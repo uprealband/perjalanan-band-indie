@@ -50,24 +50,19 @@ Halaman pembuka menjelaskan latar belakang Perjalanan UprealBand, tujuan reposit
 
 # 🏷️ Topik Repository
 
-Repository ini mendokumentasikan berbagai topik yang saling berhubungan, antara lain:
+Repository ini membahas berbagai topik, antara lain:
 
-band-indie
-indie-band
-musik-indonesia
-music
-history
-band
-depok
-uprealband
-studio
-recording
-album
-rock
-alternative-rock
-diy
-archive
-documentation
+- Band Indie Indonesia
+- UprealBand
+- Sejarah Band
+- Studio Musik
+- Recording & Mixing
+- Album Evolution
+- Festival Band
+- DIY Studio
+- Dokumentasi Foto & Video
+- Arsip Digital
+- AI dalam Produksi Musik
 
 ---
 
