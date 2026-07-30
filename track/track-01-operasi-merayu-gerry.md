@@ -157,7 +157,9 @@ Selamanya...
 
 ### 📥 Unduh Lagu
 
-- [⬇️ Download MP3](../audio/track-01-operasi-merayu-gerry.mp3)
+<audio controls style="width:100%;">
+  <source src="https://uprealband.github.io/perjalanan-band-indie/audio/soundtrack/track-01-operasi-merayu-gerry.mp3" type="audio/mpeg">
+</audio>
 
 ---
 
