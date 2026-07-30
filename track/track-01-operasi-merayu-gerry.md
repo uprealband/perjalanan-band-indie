@@ -239,6 +239,8 @@ Namun bertahun-tahun kemudian, video tersebut berubah menjadi dokumen sejarah ya
 
 https://www.youtube.com/watch?v=2_cIB5c5EEg
 
+[![Video Klip Formasi UprealBand 2004](https://img.youtube.com/vi/2_cIB5c5EEg/hqdefault.jpg)](https://www.youtube.com/watch?v=2_cIB5c5EEg)
+
 Video direkam di rumah Paman Kawit. Visual menampilkan formasi bersama Eka sebagai bassist, sedangkan audio menggunakan rekaman EP sebelumnya dengan permainan bass oleh Glen dan permainan drum oleh Gerry yang kemudian dipoles Obhik menggunakan Fruity Loops.
 
 ---
