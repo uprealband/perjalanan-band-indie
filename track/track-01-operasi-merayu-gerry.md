@@ -1,116 +1,699 @@
-# TRACK 1: OPERASI MERAYU GERRY
+# TRACK 01
 
-Tahun 2004. Keadaan Uprealband, band indie asal Depok, sebenarnya sedang tidak ideal. Kalau dihitung-hitung, personel yang masih tersisa hanyalah Bany di vokal, Jon di gitar, dan Gerry di drum. Formasi yang agak membingungkan. Band masih ada, lagu-lagu juga sudah siap, tetapi posisi bassist justru kosong melompong. Semakin lama, aroma bubar mulai terasa menyengat.
+# OPERASI MERAYU GERRY
 
-Suatu sore, Bany dan Jon bersama beberapa teman dari Wings Studio pergi ke Pasar Festival Ancol untuk menonton pertunjukan musik. Di antara para penampil sore itu, ada seorang pria berambut gimbal dengan gaya santai dan penuh humor. Bany masih mengingat jelas salah satu lagu yang dibawakannya, "Setan-setan kesurupan manusia..."
+> *"Sebuah band tidak selalu diuji saat belum memiliki lagu. Kadang ujian terbesarnya justru datang setelah mimpi itu mulai terlihat nyata."*
 
-Suasana sore itu terasa sangat cair. Sosok tersebut, yang bertahun-tahun kemudian dikenal luas masyarakat Indonesia sebagai Mbah Surip, terlihat bersenang-senang bersama penonton. Namun di tengah keriuhan itu, Bany kembali teringat nasib Uprealband.
+## Tahun 2004
 
-"Bahaya nih. Kalau begini terus, kita bisa bubar."
+Tahun 2004 menjadi salah satu tahun yang paling menentukan dalam perjalanan UprealBand.
 
-Jon hanya mengangguk pasrah. Mencari bassist baru memang bukan perkara mudah, apalagi Uprealband sebelumnya sudah dua kali berganti bassist dan semuanya berujung zonk. Trauma bongkar pasang personel dari luar membuat mereka mulai skeptis.
+Saat itu kami hanyalah sekumpulan anak muda dari Depok yang dipersatukan oleh kecintaan terhadap musik. Belum ada media sosial untuk mempromosikan karya. Belum ada platform digital tempat mengunggah lagu dengan mudah. Kalau ingin dikenal, kami harus berani tampil di panggung, membagikan demo, dan terus berlatih.
 
-"Iya Jon," lanjut Bany, mendadak melankolis mengingat perjuangan mereka. "'Kan sayang, band kita kemarin sempat juara dua festival kelurahan yang ala Betawi itu, hahaha."
+Meski dengan segala keterbatasan, kami memiliki satu keyakinan.
 
-Jon langsung menyahut, memorinya terlempar ke momen kocak itu.
+Suatu hari nanti, lagu-lagu kami akan didengar lebih banyak orang.
 
-"Udah gitu, sebelum manggung kita didandanin dulu muka sama pakaian kita sama Ikah, kakaknya Aga itu lho!"
+Perlahan keyakinan itu mulai menemukan bentuk.
 
-Bany tertawa lepas mengingat muka mereka saat itu.
+Kami tidak lagi hanya memainkan lagu milik band lain. Kami mulai menciptakan lagu sendiri. Lirik demi lirik lahir dari pengalaman yang kami alami sebagai anak muda, sementara aransemennya berkembang dari latihan demi latihan.
 
-"Malah enggak taunya, jurinya itu Benny Tahir, vokalis Whizkid!"
+Perjuangan itu akhirnya membuahkan hasil.
 
-Jon menunjuk ke arah panggung di depan mereka.
+Kami berhasil merekam beberapa lagu menjadi sebuah EP.
 
-"Nah 'kan... Pengen juga lah kita bisa manggung di panggung gede yang suasananya cair kayak Mbah Surip gitu ya."
+Bagi orang lain mungkin itu hanyalah rekaman sederhana.
 
-Kenangan-kenangan absurd tapi manis itulah yang membuat mereka berat untuk melepas band yang telah mereka bangun. Tiba-tiba, Bany seperti teringat satu detail krusial lagi soal kelakuan drummer mereka saat latihan.
+Namun bagi kami, EP tersebut adalah bukti bahwa mimpi itu benar-benar mulai berjalan.
 
-"Lu enggak perhatiin Jon, kemarin-kemarin kita latihan sama bassist yang lama, eh si Gerry yang drummer malah sibuk begini-begitu ke permainan bass mulu... Nah, gimana tuh?"
+Di balik proses rekaman itu, ada satu sosok yang jasanya selalu kami ingat.
 
-Jon langsung terenyak, mengiyakan dalam hati. Di kepala Bany, semua potongan puzzle itu mulai menyatu.
+Namanya **Glen**.
 
-"Gerry itu 'kan dulu sama H2O. Si Ismanu bassist-nya malah dapat penghargaan The Best Bassist. Gue dengar, yang ngajarin Ismanu main bass itu malah si Gerry."
+Glen bukan personel tetap UprealBand.
 
-Jon langsung teringat momen festival tersebut.
+Ia adalah seorang bassist senior yang bersedia membantu mengisi permainan bass dalam proses rekaman EP. Pengalamannya menjadi pelajaran berharga bagi kami. Bertahun-tahun kemudian, Glen pula yang banyak membimbing Gerry ketika mulai serius mendalami permainan bass.
 
-"Iya ya! Band kita sama H2O sama-sama enggak menang, malah Ismanu doang yang bawa pulang piala. Ironis banget, orang yang ngajarin malah si Gerry."
+Saat itu kami belum tahu bahwa bantuan kecil tersebut akan memiliki arti besar di kemudian hari.
 
-Daripada berjudi lagi mencari bassist ketiga dari luar yang belum tentu sefrekuensi, modal "bakat ngerecok" dan rekam jejak Gerry tadi memicu Jon untuk melontarkan sebuah ide out-of-the-box.
+EP akhirnya selesai.
 
-"Gimana kalau besok-besok kita ke rumahnya? Kita rayu dia biar pindah posisi jadi bassist."
+Kami berkumpul mendengarkan hasil rekaman itu berkali-kali.
 
-"Nah! Semoga dia mau," sahut Bany. "Terus baru kita cari drummer baru."
+Sesekali mengkritik.
 
-Menurut logika mereka saat itu, mencari drummer baru terasa jauh lebih mudah. Lagipula, lagu-lagu Uprealband sebelumnya tidak terlalu bergantung pada permainan drum fisik Gerry, karena sebagian besar polanya sudah diutak-atik ulang oleh Obhik menggunakan komputer.
+Sesekali tertawa.
 
-"Toh kemarin lagu-lagu kita ujung-ujungnya drumnya malah diubah pakai komputer. Fruity Loops... apa Guitar Track gitu, gue enggak ngerti dah. Itu Obhik yang ngoprek."
+Sesekali membayangkan bagaimana rasanya jika suatu hari lagu-lagu itu diputar di radio.
 
-Jon tertawa. Posisi yang kosong adalah bass, tapi mereka malah lebih percaya diri mencari drummer baru demi menyiasati keadaan. Di tengah obrolan santai di Pasar Festival Ancol itulah lahir sebuah misi rahasia: bukan mencari orang baru, melainkan "membajak" drummer mereka sendiri.
+Rasanya menyenangkan.
 
-Keberuntungan seperti sudah diatur. Beberapa waktu sebelumnya, Jon sempat membeli sebuah bass bekas Maison warna hijau. Alasannya sederhana: karena murah. Tidak ada rencana besar, bahkan saat dibeli pun belum tahu siapa yang akan memainkannya. Seperti banyak hal lain dalam perjalanan Uprealband, alat musiknya selalu siap lebih dulu daripada pemainnya.
+Namun kebahagiaan itu tidak bertahan lama.
 
-Di tengah perjalanan pulang, Jon kembali meyakinkan diri.
+## Kehilangan Seorang Bassist
 
-"Lagian, kalau Gerry bisa ngajarin Ismanu sampai jadi The Best Bassist, masa dia sendiri enggak bisa main bass?"
+Tidak lama setelah rekaman EP selesai, Ismanu memutuskan untuk tidak lagi melanjutkan perjalanan bersama UprealBand.
 
-Beberapa hari kemudian, misi pun dieksekusi. Sesampainya di rumah Gerry, Bany memilih menunggu di luar karena sudah paham betul karakter temannya itu. Sementara Jon melangkah masuk ke dalam rumah.
+Tidak ada pertengkaran.
 
-"Ger... Gerry... Gerryyyy..."
+Tidak ada perpisahan yang dramatis.
 
-Tak lama kemudian terdengar suara dari dalam.
+Setiap orang memiliki jalan hidupnya masing-masing.
 
-"Masuk, Jon!"
+Kepergian Ismanu membuat posisi bassist kembali kosong.
 
-Begitu bertatap muka, Gerry langsung tersenyum penuh curiga.
+Padahal kami baru saja memiliki modal yang sangat berharga.
 
-"Ada apa nih? Kayak ada yang mencurigakan. Abang lu sampai nunggu di luar gitu."
+Kami sudah mempunyai lagu.
 
-Jon tertawa.
+Kami sudah mempunyai rekaman.
 
-"Hooh. Sebenarnya gini, Ger. Kita ada ide. 'Kan kita gak ada bassist nih..."
+Kami mulai percaya diri melangkah lebih jauh.
 
-Gerry hanya mengangguk pelan.
+Kini kami kembali dihadapkan pada pertanyaan yang sama.
 
-"Hmmm... makin mencurigakan lu."
+Siapa yang akan mengisi posisi bass?
 
-Jon langsung menembak to the point.
+Pilihan akhirnya jatuh kepada Eka, tetangga kami di Gang Rinjani.
 
-"Gimana kalau lu aja yang jadi bassist? Toh lu yang ngajarin Ismanu. Lagipula, kemarin gue iseng beli bass second Maison warna hijau. Lumayan lah buat nemenin lu latihan di rumah."
+Ajakan itu disambut baik.
 
-Mendengar tawaran itu, Gerry terdiam sejenak, menimbang-nimbang logika absurd teman-temannya.
+Eka kemudian bergabung sebagai bassist baru UprealBand.
 
-"Iye juga sih... Lha terus, drumnya siapa? Terus ini bass buat gue?"
+Semangat kami kembali tumbuh.
 
-Jon langsung tertawa terbahak-bahak.
+Latihan kembali berjalan.
 
-"Kagak! Tapi boleh lu pakai kok!"
+Harapan yang sempat meredup perlahan kembali menyala.
 
-Dan di luar dugaan, Gerry bersedia. Misi nekat yang berawal dari obrolan santai di Pasar Festival Ancol itu akhirnya berhasil total. Jon segera keluar rumah dengan senyum lebar, dihampiri oleh Bany yang sudah tidak sabar menunggu di halaman.
+## Festival Musik Bertema Betawi
 
-"Gimana, Jon?"
+Tidak lama setelah bergabung, Eka langsung ikut bersama kami mengikuti sebuah festival musik tingkat kelurahan bertema Betawi.
+
+Kami mulai berdiskusi menentukan lagu.
+
+Pilihan akhirnya jatuh pada lagu legendaris Benyamin Sueb berjudul **"Begini Begitu."**
+
+Alasannya sederhana.
+
+Liriknya paling mudah dihafal.
+
+Strategi yang terdengar lucu, tetapi cukup ampuh mengurangi rasa gugup.
+
+Menjelang hari penampilan, kami mendapat bantuan dari **Ikah**, kakak Aga Maulana yang juga masih memiliki hubungan keluarga dengan Eka.
+
+Kalau sudah soal penampilan, Ikah benar-benar total.
+
+Bukan hanya wajah kami yang dipoles make up.
+
+Ia juga mengurus pakaian yang akan kami kenakan.
+
+Karena festival tersebut mengangkat tema Betawi, kami semua mengenakan **celana batik khas Betawi** agar lebih sesuai dengan suasana acara.
+
+Melihat satu sama lain dengan wajah penuh make up membuat ruang persiapan dipenuhi gelak tawa.
+
+"Buset... kita jadi kayak artis."
+
+Yang lain ikut tertawa.
+
+Biasanya kami hanya memakai kaus dan jins saat latihan.
+
+Hari itu kami tampil jauh lebih rapi.
+
+Begitu naik ke atas panggung, rasa malu perlahan menghilang.
+
+Yang tersisa hanyalah semangat memainkan musik sebaik mungkin.
+
+Saat itulah kami mengetahui salah satu juri festival adalah **Benny Tahir**, mantan vokalis Whizzkid.
+
+Mendengar nama itu, rasa percaya diri kami justru sedikit menurun.
+
+"Ya udah... main aja."
+
+Dan memang hanya itu yang kami lakukan.
+
+Kami bermain tanpa memikirkan hasil.
+
+Sampai akhirnya tiba saat pengumuman pemenang.
+
+"Juara II..."
+
+"...UprealBand!"
+
+Kami saling berpandangan.
+
+"Hah?"
+
+Tidak ada yang menyangka.
+
+Datang hanya untuk ikut meramaikan festival.
+
+Pulang membawa piala.
+
+Kalau mengingat hari itu sekarang, saya masih sering tertawa.
+
+> "Yang paling niat hari itu kayaknya bukan latihan kita... tapi Ikah. Outfit diurus, muka dipoles make up, kita disulap jadi anak Betawi. Eh... malah pulang bawa piala."
+
+Kemenangan kecil itu membuat semangat kami semakin besar.
+
+Kami mulai berpikir bahwa sebuah band bukan hanya membutuhkan lagu.
+
+Band juga membutuhkan identitas.
+
+Akhirnya kami sepakat membuat kaus sablon dengan logo **UprealBand**.
+
+Mungkin bagi band besar itu hanyalah kaus biasa.
+
+Namun bagi kami, kaus itu terasa sangat membanggakan.
+
+Untuk pertama kalinya kami memiliki identitas yang benar-benar bisa dikenakan.
+
+Tidak ada yang menyangka bahwa kaus sederhana itu kemudian ikut menjadi bagian dari sejarah UprealBand.
+
+
+## Video Klip Pertama
+
+Semangat setelah membawa pulang piala membuat kami semakin yakin bahwa UprealBand harus terus melangkah.
+
+Saat itu kami memang belum memiliki manajemen.
+
+Belum memiliki studio.
+
+Bahkan markas pun belum ada.
+
+Namun kami mempunyai semangat yang rasanya jauh lebih besar daripada segala keterbatasan yang kami miliki.
+
+Di tengah obrolan sederhana, muncul sebuah keinginan.
+
+"Kalau lagu udah ada... kenapa enggak sekalian bikin video klip?"
+
+Tentu saja bukan video klip seperti yang sering muncul di televisi.
+
+Yang kami bayangkan hanyalah sebuah dokumentasi sederhana. Yang penting, suatu hari nanti kami bisa melihat kembali seperti apa wajah UprealBand pada masa-masa awal.
+
+Kesempatan itu datang melalui **Paman Kawit**, paman Bany.
+
+Rumah beliau memiliki seperangkat alat band yang cukup lengkap. Bagi kami, tempat itu terasa seperti surga kecil. Untuk pertama kalinya kami bisa membuat video dengan latar alat musik yang lengkap tanpa harus menyewa studio.
+
+Begitu semuanya siap, kami pun datang membawa perlengkapan seadanya.
+
+Kaus sablon berlogo **UprealBand** yang belum lama selesai dibuat langsung kami kenakan.
+
+Rasanya bangga.
+
+Logo yang sebelumnya hanya berupa gambar di atas kertas kini benar-benar menempel di dada kami.
+
+Hari itu mungkin menjadi kali pertama identitas visual UprealBand terekam dalam sebuah video.
+
+Kalau diperhatikan baik-baik, kaus tersebut masih dapat terlihat jelas pada video yang hingga hari ini menjadi salah satu arsip visual paling awal perjalanan UprealBand.
+
+Namun di balik video sederhana itu tersimpan sebuah cerita yang menarik.
+
+Visual yang terlihat memperlihatkan formasi UprealBand bersama Eka sebagai bassist.
+
+Tetapi audio yang digunakan berasal dari rekaman yang lebih dulu dibuat.
+
+Suara bass yang terdengar bukan permainan Eka.
+
+Bass tersebut dimainkan oleh **Glen** saat proses rekaman EP.
+
+Begitu pula permainan drum yang terdengar bukan hasil pengambilan gambar hari itu.
+
+Drum tersebut merupakan permainan **Gerry** yang kemudian dipoles kembali oleh **Obhik** menggunakan **Fruity Loops** agar terdengar lebih rapi.
+
+Tanpa disengaja, video itu akhirnya menjadi sebuah kolase sejarah.
+
+Visualnya merekam satu periode.
+
+Sementara audionya menyimpan jejak periode yang lain.
+
+Mungkin saat itu kami tidak pernah berpikir sejauh itu.
+
+Kami hanya ingin memiliki sebuah video.
+
+Namun bertahun-tahun kemudian, video tersebut berubah menjadi dokumen sejarah yang sangat berharga.
+
+🎬 **Artefak Sejarah**
+
+**Video klip formasi UprealBand bersama Eka**
+
+https://www.youtube.com/watch?v=2_cIB5c5EEg
+
+Video direkam di rumah Paman Kawit. Visual menampilkan formasi bersama Eka sebagai bassist, sedangkan audio menggunakan rekaman EP sebelumnya dengan permainan bass oleh Glen dan permainan drum oleh Gerry yang kemudian dipoles Obhik menggunakan Fruity Loops.
+
+---
+
+## Rumah yang Ikut Menjadi Bagian dari Sejarah
+
+Bagi Bany, rumah Paman Kawit bukan sekadar lokasi pengambilan gambar.
+
+Rumah itu menyimpan jauh lebih banyak kenangan.
+
+Jauh sebelum UprealBand berdiri, ketika Paman Kawit masih tinggal bersama keluarga, hampir setiap hari rumah itu dipenuhi suara musik.
+
+Dari tape kaset sederhana mengalun lagu-lagu **Queen**, **Nicky Astria**, **Ebiet G. Ade**, dan banyak musisi lain yang menjadi teman keseharian.
+
+Saat itu Bany hanyalah seorang anak yang senang ikut mendengarkan.
+
+Belum mengerti progresi akor.
+
+Belum memahami teknik vokal.
+
+Belum pernah membayangkan akan memiliki sebuah band.
+
+Namun tanpa disadari, musik-musik yang diputar Paman Kawit perlahan membentuk telinga musikalnya.
+
+Mungkin Paman Kawit sendiri tidak pernah membayangkan bahwa kebiasaan sederhana memutar kaset itu suatu hari nanti ikut menjadi salah satu benih lahirnya UprealBand.
+
+Beberapa tahun kemudian, rumah yang sama menjadi tempat empat anak muda datang membawa gitar, bass, drum, kamera, dan mimpi-mimpi mereka.
+
+Ketika buku ini ditulis, Paman Kawit telah lebih dahulu berpulang.
+
+Namun setiap kali Bany kembali menonton video klip sederhana tersebut, rasanya rumah itu kembali hidup.
+
+Suara tawa para personel.
+
+Kabel yang berserakan.
+
+Alat musik yang memenuhi ruangan.
+
+Semuanya seperti membawa ingatan kembali ke masa itu.
+
+Entah mengapa, bagi Bany, sosok Paman Kawit tidak pernah benar-benar terasa pergi.
+
+Mungkin memang begitulah cara sebagian orang tetap hidup.
+
+Bukan karena namanya terus disebut.
+
+Melainkan karena kebaikan yang pernah mereka berikan terus hidup dalam kenangan orang-orang yang pernah mereka sayangi.
+
+Paman Kawit bukan personel UprealBand.
+
+Namun tanpa disadari, beliau telah menjadi salah satu saksi awal lahirnya perjalanan band ini.
+
+---
+
+## Sebuah Jadwal Manggung
+
+Setelah festival dan video klip selesai dibuat, semangat kami semakin besar.
+
+Tidak lama kemudian, UprealBand kembali mendapat kesempatan tampil.
+
+Sebuah jadwal manggung sudah menanti.
+
+Karena sebagian besar personel mulai memiliki kesibukan masing-masing, menyamakan waktu latihan bukan lagi perkara mudah.
+
+Ada yang harus pulang kerja lebih cepat.
+
+Ada yang rela mengorbankan waktu istirahat.
+
+Semua berusaha hadir.
+
+Kami sadar, tampil kompak di atas panggung hanya bisa dicapai melalui latihan bersama.
+
+Namun menjelang hari latihan, terjadi sebuah peristiwa yang sampai sekarang masih sering kami kenang sambil tertawa.
+
+Di saat semua personel sudah berusaha meluangkan waktu...
+
+Eka justru sedang sibuk memanfaatkan promo pembukaan sebuah bengkel baru.
+
+**Servis motor gratis.**
+
+Kalau dipikir-pikir sekarang, memang lucu.
+
+Kesempatannya memang sayang untuk dilewatkan.
+
+Tetapi waktunya benar-benar tidak tepat.
+
+Bany masih sering tertawa ketika mengingatnya.
+
+> "Kita udah bela-belain nyocokin jadwal latihan buat manggung... eh bassist kita malah lagi servis motor gratis."
+
+Tidak pernah ada rapat yang memutuskan Eka dikeluarkan.
+
+Tidak pernah ada pertengkaran.
+
+Tidak ada pula surat pengunduran diri.
+
+Hanya saja, sejak kejadian itu, perjalanan kami perlahan mengambil arah yang berbeda.
+
+Eka tidak lagi diajak melanjutkan perjalanan bersama UprealBand.
+
+Kadang sejarah memang berubah bukan karena konflik besar.
+
+Kadang...
+
+cukup karena sebuah promo servis motor gratis.
+
+Sekali lagi, posisi bassist kembali kosong.
+
+Dan untuk kedua kalinya, UprealBand berada di ambang kehilangan arah.
+
+## Pasar Festival Ancol
+
+Posisi bassist kembali kosong.
+
+Untuk kedua kalinya.
+
+Kalau hanya melihat dari luar, mungkin persoalannya terdengar sederhana.
+
+"Tinggal cari bassist baru."
+
+Namun kenyataannya tidak semudah itu.
+
+Kami sudah pernah kehilangan seorang bassist.
+
+Lalu kembali mengajak orang baru.
+
+Dan kini harus mengulang semuanya lagi.
+
+Kalau terus begini, kapan band ini benar-benar bisa berjalan?
+
+Pertanyaan itu terus berputar di kepala kami.
+
+Suatu hari, Bany dan Jon bersama beberapa teman dari Wings Studio memutuskan pergi ke Pasar Festival Ancol untuk menikmati pertunjukan musik.
+
+Tempat itu pada masa itu menjadi salah satu ruang berkumpul para musisi dan penikmat musik. Banyak penampil datang silih berganti, membawa warna musik yang berbeda-beda.
+
+Sore itu perhatian kami tertuju pada seorang pria berambut gimbal.
+
+Penampilannya sederhana.
+
+Gayanya santai.
+
+Sesekali ia melontarkan candaan yang membuat penonton tertawa.
+
+Salah satu lagu yang masih diingat Bany hingga sekarang memiliki lirik:
+
+> *"Setan-setan kesurupan manusia..."*
+
+Saat itu kami belum mengenal siapa penyanyi tersebut.
+
+Bertahun-tahun kemudian, Indonesia mengenalnya sebagai **Mbah Surip**.
+
+Namun sore itu, kami tidak sedang membicarakan penyanyi di atas panggung.
+
+Pikiran kami justru kembali kepada UprealBand.
+
+Jon memecah keheningan.
+
+"Gimana nih, Ban?"
+
+Bany menghela napas panjang.
+
+"Kalau begini terus... band kita bisa bubar."
+
+Kalimat itu keluar begitu saja.
+
+Bukan karena putus asa.
+
+Tetapi karena lelah mengulang persoalan yang sama.
+
+Band sudah memiliki lagu.
+
+Sudah punya rekaman EP.
+
+Sudah pernah membawa pulang piala.
+
+Bahkan sudah sempat membuat video klip.
+
+Tetapi semua itu terasa percuma jika personelnya terus berubah.
+
+Mereka terdiam cukup lama.
+
+Sesekali masih memperhatikan pertunjukan musik di depan.
+
+Namun pikiran mereka sedang berada di tempat lain.
+
+Tiba-tiba Bany seperti teringat sesuatu.
+
+"Jon..."
+
+"Hm?"
+
+"Lu sadar enggak... waktu latihan, Gerry yang paling sering ngomentarin permainan bass."
+
+Jon langsung menoleh.
+
+"Iya juga ya..."
+
+Bany kembali melanjutkan.
+
+"Terus inget enggak? Dulu yang ngajarin Ismanu main bass siapa?"
+
+Jon berpikir sejenak.
+
+"Wah... iya!"
+
+"Gerry."
+
+Keduanya saling berpandangan.
+
+Seketika muncul sebuah ide yang terdengar gila.
+
+"Kalau..."
+
+"...Gerry aja yang jadi bassist?"
+
+Jon langsung tersenyum.
+
+"Iya juga ya."
+
+Daripada mencari orang baru lagi, bukankah lebih baik mengajak orang yang sudah mereka kenal?
+
+Orang yang sudah memahami karakter masing-masing.
+
+Orang yang sudah mengetahui lagu-lagu UprealBand.
+
+Orang yang bahkan ikut merekam drum pada EP mereka.
+
+Logikanya sederhana.
+
+Kalau Gerry bisa mengajari Ismanu bermain bass hingga berkembang menjadi pemain yang baik, seharusnya Gerry sendiri juga mampu memainkan bass.
+
+Masalah berikutnya tinggal satu.
+
+Siapa yang berani membujuknya?
+
+Mereka pun tertawa.
+
+Karena mereka sama-sama tahu.
+
+Gerry bukan tipe orang yang mudah diyakinkan.
+
+---
+
+## Bass Maison Hijau
+
+Beberapa hari sebelum obrolan di Pasar Festival itu terjadi, Jon sebenarnya baru saja membeli sebuah bass bekas.
+
+Merek **Maison**.
+
+Warnanya hijau.
+
+Alasannya sangat sederhana.
+
+Karena harganya murah.
+
+Saat membelinya pun Jon belum tahu siapa yang akan memainkannya.
+
+Bass itu hanya tersimpan di rumah.
+
+Menunggu pemiliknya.
+
+Kini, setelah ide "merayu Gerry" muncul, bass Maison hijau itu seperti menemukan tujuannya.
+
+"Kalau dia mau..."
+
+"...bass ini buat latihan."
+
+Mereka pun sepakat.
+
+Misi dimulai.
+
+---
+
+## Operasi Merayu Gerry
+
+Beberapa hari kemudian Bany dan Jon mendatangi rumah Gerry.
+
+Sesampainya di sana, Bany memilih menunggu di luar.
+
+Ia sengaja membiarkan Jon yang berbicara lebih dulu.
+
+Menurut Bany, Jon lebih pandai membuka percakapan.
+
+Jon mengetuk pintu.
+
+"Ger..."
+
+Tak lama kemudian Gerry muncul.
+
+"Wih... tumben berdua."
+
+Belum sempat Jon berbicara, Gerry sudah memasang wajah curiga.
+
+"Kenapa nih? Kayaknya ada maunya."
+
+Jon hanya tertawa.
+
+"Ya... ada dikit."
+
+"Apa?"
+
+"Kita lagi enggak punya bassist."
+
+Gerry langsung mengangguk.
+
+"Iya... terus?"
+
+Jon menarik napas pelan.
+
+"Gimana kalau... lu aja yang jadi bassist?"
+
+Gerry terdiam.
+
+Beberapa detik tidak ada yang berbicara.
+
+"Lha..."
+
+"...terus drumnya siapa?"
+
+Jon spontan tertawa.
+
+"Itu urusan nanti."
+
+Gerry kemudian melihat bass Maison hijau yang dibawa Jon.
+
+"Lho... ini bass buat gue?"
+
+Jon buru-buru menjawab.
+
+"Kagak!"
+
+Mereka langsung tertawa bersama.
+
+"Tapi..."
+
+"...boleh lu pakai buat latihan."
+
+Suasana kembali hening.
+
+Gerry masih berpikir.
+
+Bagaimanapun juga, selama ini ia adalah drummer.
+
+Berpindah instrumen bukan keputusan kecil.
+
+Namun di sisi lain, ia juga tahu kondisi UprealBand.
+
+Band itu sedang membutuhkan bantuan.
+
+Beberapa saat kemudian Gerry mengangkat wajah.
+
+"Ya udah..."
+
+"...gue coba."
+
+Kalimat sederhana itu langsung mengubah segalanya.
+
+Jon tersenyum lebar.
+
+Ia segera berpamitan.
+
+Begitu keluar rumah, Bany yang sejak tadi mondar-mandir di depan langsung menghampiri.
+
+"Gimana?"
 
 Jon mengacungkan jempol.
 
-"Mau tuh dia."
+"Mau."
 
-Bany bernapas lega.
+Bany spontan mengembuskan napas panjang.
 
-"Nah, PR kita selanjutnya... cari drummer!"
+"Alhamdulillah..."
 
-Kalau diingat-ingat sekarang, logika mereka saat itu memang ajaib, atau lebih tepatnya tipikal pikiran bocah. Mereka merasa urusan mencari drummer baru bakal jauh lebih gampang, karena kalaupun nanti tidak mendapatkan orang yang cocok, toh permainannya tinggal digantikan oleh komputer. Sebuah penyederhanaan masalah yang luar biasa naif, tetapi begitulah cara mereka bertahan kepala di tengah ancaman bubar.
+Hari itu mereka memang belum mendapatkan drummer baru.
 
-Di masa itu, sebagian pola drum lagu-lagu Uprealband bahkan sudah banyak diutak-atik menggunakan komputer oleh Obhik. Karena itulah, Bany dan Jon merasa mencari drummer baru tidak akan sesulit mencari bassist yang sefrekuensi.
+Masih ada satu kursi yang kosong.
 
-Misi merayu Gerry pun beres.
+Masih ada pekerjaan yang harus diselesaikan.
 
-Sekarang, petualangan Uprealband, band indie asal Depok, untuk mencari manusia yang bisa menggebuk drum dimulai
+Namun satu persoalan terbesar akhirnya berhasil mereka atasi.
 
-Misi merayu Gerry pun beres.
+Kalau dikenang sekarang, keputusan memindahkan Gerry dari drum ke bass mungkin terdengar nekat.
 
-Sekarang, petualangan UprealBand, band indie asal Depok, untuk mencari manusia yang bisa menggebuk drum dimulai.
+Namun justru keputusan sederhana itulah yang menyelamatkan UprealBand.
+
+Tanpa Gerry yang bersedia berpindah posisi, mungkin EP yang sudah direkam hanya akan menjadi koleksi pribadi.
+
+Video klip sederhana bersama Eka mungkin hanya akan menjadi arsip tanpa kelanjutan.
+
+Piala Juara II festival mungkin hanya akan menjadi kenangan singkat.
+
+Tetapi sejarah memilih jalan yang berbeda.
+
+Seorang drummer bersedia meletakkan stiknya.
+
+Mengambil sebuah bass.
+
+Dan membuka babak baru perjalanan UprealBand.
+
+**Operasi Merayu Gerry berhasil.**
+
+Bukan sekadar memindahkan seorang drummer menjadi bassist.
+
+Melainkan menyelamatkan UprealBand yang telah susah payah membangun mimpi dan merekam karya.
+
+Namun perjalanan mereka belum selesai.
+
+Satu kursi masih kosong.
+
+**Drummer.**
+
+Dan pencarian itu akan membawa mereka ke petualangan berikutnya.
+
+➡️ **Track 02: Misi Mangga Dua dan Kedatangan dari Weleri**
 
 ---
+
+## 🎵 Soundtrack Track 01
+
+*(Tetap menggunakan soundtrack dan tautan yang sudah ada pada versi sebelumnya.)*
+
+## 📼 Artefak Sejarah
+
+**Video klip formasi UprealBand bersama Eka**
+
+https://www.youtube.com/watch?v=2_cIB5c5EEg
+
+Visual direkam di rumah Paman Kawit dengan personel Bany, Jon, Gerry, dan Eka. Audio menggunakan rekaman EP sebelumnya dengan permainan bass oleh Glen serta permainan drum oleh Gerry yang kemudian dipoles oleh Obhik menggunakan Fruity Loops.
+
+## Tokoh
+
+* Bany
+* Jon
+* Gerry
+* Glen
+* Eka
+* Ismanu
+* Obhik
+* Ikah
+* Aga Maulana
+* Benny Tahir
+* Mbah Surip
+* Paman Kawit
+
+## Tempat
+
+* Depok
+* Rumah Paman Kawit
+* Pasar Festival Ancol
+* Wings Studio
+
+## Tahun
+
+**2004**
 
 <h2>🎵 Soundtrack Track 01</h2>
 
