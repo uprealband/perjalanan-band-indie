@@ -44,7 +44,7 @@ Mulailah perjalanan dari halaman pembuka berikut.
 
 📖 **[INTRO – Selamat Datang di Perjalanan Ini](intro.md)**
 
-Halaman pembuka menjelaskan latar belakang Perjalanan UprealBand, tujuan repository, struktur dokumentasi, dan cara membaca setiap Track.
+Sebelum melangkah ke setiap Track, bacalah halaman pembuka ini. Di sinilah perjalanan dimulai, dari sebuah pertanyaan sederhana yang perlahan membawa kita menelusuri kisah UprealBand selama lebih dari dua dekade.
 
 ---
 
