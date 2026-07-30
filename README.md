@@ -6,6 +6,8 @@ Repository ini menjadi pusat dokumentasi mengenai proses membangun dan mempertah
 
 Seluruh dokumentasi disusun berdasarkan pengalaman nyata, arsip, foto, video, catatan, serta ingatan para personel, sehingga membentuk referensi perjalanan band indie Indonesia dari tahun 2004 hingga sekarang.
 
+Arsip digital perjalanan band indie Indonesia sejak 2004. Dokumentasi studio musik, album, festival band, DIY, sejarah, foto, video, dan perjalanan UprealBand.
+
 ---
 
 # 📑 Daftar Isi
@@ -50,22 +52,22 @@ Halaman pembuka menjelaskan latar belakang Perjalanan UprealBand, tujuan reposit
 
 Repository ini mendokumentasikan berbagai topik yang saling berhubungan, antara lain:
 
-- UprealBand
-- Perjalanan UprealBand
-- Band Indie Indonesia
-- Band Indie Depok
-- Sejarah Band
-- Timeline
-- Studio Musik
-- Recording
-- Album
-- Lagu
-- Personel
-- Festival Band
-- DIY Studio
-- Dokumentasi
-- Arsip Digital
-- Musik Indonesia
+band-indie
+indie-band
+musik-indonesia
+music
+history
+band
+depok
+uprealband
+studio
+recording
+album
+rock
+alternative-rock
+diy
+archive
+documentation
 
 ---
 
