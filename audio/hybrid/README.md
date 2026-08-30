@@ -1,6 +1,6 @@
 # Hybrid
 
-Folder ini berisi versi Hybrid dari lagu-lagu UprealBand.
+Folder ini berisi versi Hybrid dari lagu-lagu UprealBand
 
 Hybrid adalah karya yang menggabungkan materi asli UprealBand dengan teknologi produksi modern, seperti AI, remaster, rekaman baru, maupun aransemen baru, tanpa menghilangkan identitas lagu aslinya.
 
