@@ -17,6 +17,38 @@
       "featured": true
     },
     {
+      "id": "sambutlah-groove-hybrid",
+      "type": "music",
+      "title": "Sambutlah",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Alt. Rock",
+      "version": "Groove Hybrid",
+      "universe": "HYBRID",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/sambutlah-groove-hybrid.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/hybrid/Uprealband-Sambutlah-Groove-Hybrid.mp3",
+      "duration": "4:13",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
+      "id": "sambutlah-reggae-hybrid",
+      "type": "music",
+      "title": "Sambutlah",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Reggae",
+      "version": "Reggae Hybrid",
+      "universe": "HYBRID",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/sambutlah-reggae-hybrid.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/hybrid/Uprealband-Sambutlah-Reggae-Hybrid.mp3",
+      "duration": "2:20",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
       "id": "ku-menantimu-akustik-hybrid",
       "type": "music",
       "title": "Ku Menantimu",
