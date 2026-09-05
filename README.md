@@ -49,3 +49,16 @@ The workflow:
 The Blogger frontend reads:
 
 `https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/catalog.json`
+
+
+## Podcast numbering policy
+Podcast entries are intentionally not numbered. Do not auto-generate Season/Episode values.
+Podcast identity is driven by title, release date/year, metadata, cover, and audio.
+Track number may remain blank in Mp3tag.
+
+
+## V5: Catatan Perjalanan dari /track
+
+Folder `track/` sekarang menjadi sumber Catatan Perjalanan. Generator membaca file `.md`, `.markdown`, dan `.txt` di dalam `track/` (termasuk subfolder), lalu memasukkannya ke `catalog.json` sebagai `stories[]`.
+
+Front matter opsional yang didukung: `title`, `chapter`, `year`, `date`, `excerpt`, `cover`, `ttsAudio`, `ttsVoice`, `soundtrackId`, dan `duration`. Jika tidak ada front matter, judul/chapter/tahun akan diturunkan dari heading atau nama file.
