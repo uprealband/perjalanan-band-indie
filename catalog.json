@@ -97,6 +97,38 @@
       "featured": false
     },
     {
+      "id": "sambutlah-groove-hybrid",
+      "type": "music",
+      "title": "Sambutlah",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Alt. Rock",
+      "version": "Groove Hybrid",
+      "universe": "UNIVERSE",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/sambutlah-groove-hybrid.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/universe/Uprealband-Sambutlah-Groove-Hybrid.mp3",
+      "duration": "4:13",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
+      "id": "sambutlah-house-ai-version",
+      "type": "music",
+      "title": "Sambutlah",
+      "artist": "uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Music",
+      "version": "House Ai Version",
+      "universe": "UNIVERSE",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/sambutlah-house-ai-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/universe/Uprealband-Sambutlah-House-AI-Version.mp3",
+      "duration": "4:54",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
       "id": "lepaslah-ai-edm-version",
       "type": "music",
       "title": "Lepaslah",
