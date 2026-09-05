@@ -114,6 +114,22 @@
       "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri.mp3",
       "duration": "2:29",
       "releaseDate": "2026-01-01"
+    },
+    {
+      "id": "podcast-musik-ai-berbahaya-apa-pendapat-bany-uprealband",
+      "type": "podcast",
+      "season": "S01",
+      "episode": "EP 02",
+      "title": "Musik AI berbahaya? Apa pendapat bany uprealband?",
+      "description": "AI bikin musik makin gampang. Tapi Bany Uprealband justru melihat sesuatu yang jarang disadari… dan itu bisa mengubah cara kita melihat musik ke depan.\n\nDengerin karya Uprealband di Spotify:\n\nhttps://open.spotify.com/artist/2Vfcaljl3bc0DNJedutB4f⁠�\n\n© 2026 Uprealband. All Rights Reserved.",
+      "artist": "Uprealband",
+      "album": "Rock n Real / Rock n Rules",
+      "year": "2026",
+      "genre": "podcast",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-musik-ai-berbahaya-apa-pendapat-bany-uprealband.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/Musik AI berbahaya？ Apa pendapat bany uprealband.mp3",
+      "duration": "5:53",
+      "releaseDate": "2026-01-01"
     }
   ]
 }
