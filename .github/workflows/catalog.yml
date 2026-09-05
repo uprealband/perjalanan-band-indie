@@ -1,14 +1,13 @@
 name: Build Music Hub Catalog
 
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - main
     paths:
       - 'audio/**/*.mp3'
+      - 'artwork/**'
       - 'scripts/generate_catalog.py'
       - '.github/workflows/catalog.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,7 +15,6 @@ permissions:
 jobs:
   build-catalog:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,20 +24,20 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install mutagen
+      - name: Install metadata reader
         run: pip install mutagen
 
-      - name: Generate catalog
+      - name: Generate catalog.json
         run: python scripts/generate_catalog.py
 
-      - name: Commit catalog
+      - name: Commit catalog.json
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalog.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add catalog.json artwork/
           if git diff --cached --quiet; then
-            echo "No catalog changes."
+            echo 'No catalog changes.'
           else
-            git commit -m "chore: update Music Hub catalog"
+            git commit -m 'chore: update Music Hub catalog'
             git push
           fi
