@@ -193,22 +193,6 @@
       "featured": false
     },
     {
-      "id": "sambutlah-sambutlah",
-      "type": "music",
-      "title": "sambutlah",
-      "artist": "Uprealband",
-      "album": "",
-      "year": "",
-      "genre": "",
-      "version": "sambutlah",
-      "universe": "ALBUM",
-      "cover": "",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/album/Uprealband-sambutlah.mp3",
-      "duration": "3:29",
-      "releaseDate": "",
-      "featured": false
-    },
-    {
       "id": "operasi-merayu-gerry-track-01-operasi-merayu-gerry",
       "type": "music",
       "title": "Operasi Merayu Gerry",
