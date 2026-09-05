@@ -65,6 +65,38 @@
       "featured": false
     },
     {
+      "id": "lepaslah-ai-edm-version",
+      "type": "music",
+      "title": "Lepaslah",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "House",
+      "version": "Ai Edm Version",
+      "universe": "UNIVERSE",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/lepaslah-ai-edm-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/universe/Uprealband-Lepaslah-AI-EDM-Version.mp3",
+      "duration": "4:52",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
+      "id": "lepaslah-english-ai-version",
+      "type": "music",
+      "title": "Lepaslah",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Jazz",
+      "version": "English Ai Version",
+      "universe": "UNIVERSE",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/lepaslah-english-ai-version.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/universe/Uprealband-Lepaslah-English-AI-Version.mp3",
+      "duration": "3:52",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
       "id": "ku-menantimu-akustik-hybrid",
       "type": "music",
       "title": "Ku Menantimu",
