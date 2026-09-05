@@ -1,22 +1,6 @@
 {
   "tracks": [
     {
-      "id": "tetap-menyala-akustik-hybrid-tetap-menyala-akustik-hybrid",
-      "type": "music",
-      "title": "Tetap Menyala (Akustik - Hybrid)",
-      "artist": "Uprealband",
-      "album": "RE-EVOLUTION",
-      "year": "2026",
-      "genre": "",
-      "version": "Tetap Menyala Akustik Hybrid",
-      "universe": "HYBRID",
-      "cover": "",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/hybrid/Tetap-Menyala-Akustik-Hybrid.mp3",
-      "duration": "3:37",
-      "releaseDate": "2026-01-01",
-      "featured": true
-    },
-    {
       "id": "tetap-menyala-akustik-hybrid",
       "type": "music",
       "title": "Tetap Menyala",
@@ -30,7 +14,7 @@
       "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/hybrid/Uprealband-Tetap-Menyala-Akustik-Hybrid.mp3",
       "duration": "3:36",
       "releaseDate": "2026-01-01",
-      "featured": false
+      "featured": true
     },
     {
       "id": "sambutlah-groove-hybrid",
