@@ -65,6 +65,38 @@
       "featured": false
     },
     {
+      "id": "sambutlah-ai-orkestra-version",
+      "type": "music",
+      "title": "Sambutlah",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Jazz",
+      "version": "Ai Orkestra Version",
+      "universe": "UNIVERSE",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/sambutlah-ai-orkestra-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/universe/Uprealband-Sambutlah-AI-Orkestra-Version.mp3",
+      "duration": "3:41",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
+      "id": "sambutlah-anthem-rock-ai-version",
+      "type": "music",
+      "title": "Sambutlah",
+      "artist": "uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Anthem Rock",
+      "version": "Anthem Rock Ai Version",
+      "universe": "UNIVERSE",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/sambutlah-anthem-rock-ai-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/universe/Uprealband-Sambutlah-Anthem-Rock-AI-Version.mp3",
+      "duration": "3:56",
+      "releaseDate": "2026-01-01",
+      "featured": false
+    },
+    {
       "id": "lepaslah-ai-edm-version",
       "type": "music",
       "title": "Lepaslah",
