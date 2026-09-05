@@ -2,6 +2,7 @@
   "tracks": [
     {
       "id": "tetap-menyala-akustik-hybrid-tetap-menyala-akustik-hybrid",
+      "type": "music",
       "title": "Tetap Menyala (Akustik - Hybrid)",
       "artist": "Uprealband",
       "album": "RE-EVOLUTION",
@@ -17,6 +18,7 @@
     },
     {
       "id": "ku-menantimu-akustik-hybrid",
+      "type": "music",
       "title": "Ku Menantimu",
       "artist": "Uprealband",
       "album": "RWE-EVOLUTION",
@@ -32,6 +34,7 @@
     },
     {
       "id": "biarkan-cintamu-funk-soul-hybrid",
+      "type": "music",
       "title": "Biarkan Cintamu",
       "artist": "Uprealband",
       "album": "RE-EVOLUTION",
@@ -46,22 +49,8 @@
       "featured": false
     },
     {
-      "id": "babak-baru-uprealband-dari-studio-mini-menuju-workflow-produksi-mandiri-babak-baru-uprealband-dari-studio-mini-menuju-workflow-produksi-mandiri",
-      "title": "Babak Baru Uprealband: Dari Studio Mini Menuju Workflow Produksi Mandiri",
-      "artist": "Uprealband",
-      "album": "Rock n Real / Rock n Rules",
-      "year": "2026",
-      "genre": "podcast",
-      "version": "Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri",
-      "universe": "PODCAST",
-      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/babak-baru-uprealband-dari-studio-mini-menuju-workflow-produksi-mandiri-babak-baru-uprealband-dari-studio-mini-menuju-workflow-produksi-mandiri.jpg",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri.mp3",
-      "duration": "2:29",
-      "releaseDate": "2026-01-01",
-      "featured": false
-    },
-    {
       "id": "sambutlah-sambutlah",
+      "type": "music",
       "title": "sambutlah",
       "artist": "Uprealband",
       "album": "",
@@ -77,6 +66,7 @@
     },
     {
       "id": "operasi-merayu-gerry-track-01-operasi-merayu-gerry",
+      "type": "music",
       "title": "Operasi Merayu Gerry",
       "artist": "Uprealband",
       "album": "",
@@ -92,6 +82,7 @@
     },
     {
       "id": "operasi-merayu-gerry-track-01-operasi-merayu-gerry",
+      "type": "music",
       "title": "Operasi Merayu Gerry",
       "artist": "Uprealband",
       "album": "",
@@ -107,5 +98,22 @@
     }
   ],
   "stories": [],
-  "podcasts": []
+  "podcasts": [
+    {
+      "id": "podcast-babak-baru-uprealband-dari-studio-mini-menuju-workflow-produksi-mandiri",
+      "type": "podcast",
+      "season": "S01",
+      "episode": "EP 01",
+      "title": "Babak Baru Uprealband: Dari Studio Mini Menuju Workflow Produksi Mandiri",
+      "description": "Dalam episode Rinjani Radio Online kali ini, Gerry dari Uprealband berbagi cerita mengenai perubahan workflow produksi musik Uprealband di era digital.\n\nMulai dari proses editing, mixing, mastering, pembuatan video klip, audio video YouTube, desain thumbnail, hingga distribusi ke Spotify, YouTube Music, Apple Music, TikTok, Instagram, dan berbagai platform digital lainnya, kini dikerjakan secara mandiri menggunakan workstation pribadi.\n\nEpisode ini juga menceritakan studio mini berukuran sekitar 3 × 3 meter yang berada di salah satu kamar rumah Bany. Ruangan yang dibangun sejak tahun 2014 lengkap dengan peredam suara rockwool ini awalnya digunakan sebagai ruang menonton film bersama keluarga, sebelum akhirnya berkembang menjadi ruang produksi kreatif tempat lahirnya rilisan-rilisan terbaru Uprealband.\n\nSelain membahas perkembangan teknologi produksi musik, episode ini juga menjelaskan bahwa Markas Studio Uprealband tetap beroperasi seperti biasa dan masih melayani jasa recording, mixing, mastering, serta berbagai kebutuhan produksi audio.\n\nTerima kasih telah mendengarkan perjalanan Uprealband.\n\n🤘 ROCK N REAL\n\n#Uprealband #RinjaniRadioOnline #BandIndieDepok #PodcastIndonesia #ProduksiMusik #HomeStudio #Recording #Mixing #Mastering\n\nUPREALBAND adalah band indie Indonesia yang terbentuk sejak 2004 di Depok.\n\nChannel ini berisi:\n• Lagu original UPREALBAND\n• Remaster lagu lama\n• Podcast musik\n• Cerita perjalanan band\n• Live session dan eksperimen musik\n\nDukung kami dengan subscribe dan share.\n\nFollow UPREALBAND:\nSpotify : Spotify:\nhttps://open.spotify.com/artist/2Vfcaljl3bc0DNJedutB4f\nYouTube : @uprealband\nWebsite : https://www.uprealband.com\n\nMusic & Copyright © UPREALBAND  \nAll Rights Reserved\n\n#uprealband #musikindie #bandindonesia",
+      "artist": "Uprealband",
+      "album": "Rock n Real / Rock n Rules",
+      "year": "2026",
+      "genre": "podcast",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-babak-baru-uprealband-dari-studio-mini-menuju-workflow-produksi-mandiri.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri.mp3",
+      "duration": "2:29",
+      "releaseDate": "2026-01-01"
+    }
+  ]
 }
