@@ -193,6 +193,22 @@
       "featured": false
     },
     {
+      "id": "sambutlah-original",
+      "type": "music",
+      "title": "Sambutlah",
+      "artist": "Uprealband",
+      "album": "EVOLUTION",
+      "year": "2010",
+      "genre": "Alt. Rock",
+      "version": "Original",
+      "universe": "ALBUM",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/sambutlah-original.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/album/Uprealband-Sambutlah-Original.mp3",
+      "duration": "3:29",
+      "releaseDate": "2010-01-01",
+      "featured": false
+    },
+    {
       "id": "sambutlah-sambutlah",
       "type": "music",
       "title": "sambutlah",
