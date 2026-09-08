@@ -225,22 +225,6 @@
       "featured": false
     },
     {
-      "id": "cover-lepaslah-uprealband-by-sandra-uprealistic-studio-hongkong-cover-lepaslah-uprealband-by-sandra-uprealistic-studio-hongkong",
-      "type": "cover",
-      "title": "Cover - Lepaslah Uprealband by Sandra uprealistic @ Studio, hongkong",
-      "artist": "uprealband",
-      "album": "COVER",
-      "year": "2010",
-      "genre": "cover",
-      "version": "Cover   Lepaslah Uprealband by Sandra uprealistic @ Studio, hongkong",
-      "universe": "COVER",
-      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/cover-lepaslah-uprealband-by-sandra-uprealistic-studio-hongkong-cover-lepaslah-uprealband-by-sandra-uprealistic-studio-hongkong.jpg",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/cover/Cover%20-%20Lepaslah%20Uprealband%20by%20Sandra%20uprealistic%20%40%20Studio%2C%20hongkong.mp3",
-      "duration": "3:34",
-      "releaseDate": "2010-01-01",
-      "featured": false
-    },
-    {
       "id": "cover-biarkan-cinta-mengalir-by-harvi-uprealband-bcm-biarkan-cinta-mengalir-uprealband-cover-by-harvi-uprealistic",
       "type": "cover",
       "title": "Cover - Biarkan Cinta Mengalir by Harvi",
@@ -264,10 +248,10 @@
       "album": "COVER",
       "year": "2010",
       "genre": "cover",
-      "version": "cover   antara kita (cuma kita) Uprealband by Sandra uprealistic @ pantai",
+      "version": "cover   antara kita (cuma kita) Uprealband by Sandra uprealistic pantai",
       "universe": "COVER",
       "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/cover-antara-kita-cuma-kita-uprealband-by-sandra-uprealistic-pantai-cover-antara-kita-cuma-kita-uprealband-by-sandra-uprealistic-pantai.jpg",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/cover/cover%20-%20antara%20kita%20%28cuma%20kita%29%20Uprealband%20by%20Sandra%20uprealistic%20%40%20pantai.mp3",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/cover/cover%20-%20antara%20kita%20%28cuma%20kita%29%20Uprealband%20by%20Sandra%20uprealistic-pantai.mp3",
       "duration": "2:06",
       "releaseDate": "2010-01-01",
       "featured": false
