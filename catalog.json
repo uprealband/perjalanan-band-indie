@@ -554,6 +554,20 @@
   ],
   "podcasts": [
     {
+      "id": "podcast-bongkar-fosildigital-aplikasi-android-uprealband",
+      "type": "podcast",
+      "title": "\"BONGKAR 'FOSILDIGITAL: APLIKASI ANDROID UPREALBAND",
+      "description": "Sebelum era TikTok, Spotify booming, dan AI musik seperti sekarang, UPREALBAND sudah pernah membuat aplikasi Android sendiri.\n\nDi video ini kami membongkar kembali “fosil digital” berupa aplikasi Android UPREALBAND yang dulu pernah dibuat di era awal smartphone Android.\n\nApakah aplikasinya masih bisa dijalankan? Bagaimana tampilannya? Dan bagaimana cerita di balik pembuatannya?\n\nTonton sampai habis untuk melihat arsip digital langka dari perjalanan UPREALBAND.\n\n🎧 Spotify UPREALBAND\nhttps://open.spotify.com/artist/2Vfcaljl3bc0DNJedutB4f\n\n\nuprealband, upreal band, up-real, upreal, april band, april upreal, band indie indonesia, sejarah uprealband, aplikasi android band, band punya aplikasi android\n\n© 2026 Uprealband. All Rights Reserved.",
+      "artist": "uprealband",
+      "album": "PODCAST",
+      "year": "2026",
+      "genre": "podcast",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-bongkar-fosildigital-aplikasi-android-uprealband.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/​＂BONGKAR 'FOSIL' DIGITAL： APLIKASI ANDROID UPREALBAND.mp3",
+      "duration": "5:11",
+      "releaseDate": "2026-01-01"
+    },
+    {
       "id": "podcast-babak-baru-uprealband-dari-studio-mini-menuju-workflow-produksi-mandiri",
       "type": "podcast",
       "title": "Babak Baru Uprealband: Dari Studio Mini Menuju Workflow Produksi Mandiri",
