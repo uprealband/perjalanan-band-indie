@@ -257,6 +257,22 @@
       "featured": false
     },
     {
+      "id": "biarkan-cintamu-uprealband-biarkan-cintamu-mini-album-2005",
+      "type": "music",
+      "title": "Biarkan Cintamu",
+      "artist": "uprealband",
+      "album": "MINI ALBUM",
+      "year": "2005",
+      "genre": "Music",
+      "version": "Uprealband   Biarkan Cintamu Mini Album 2005",
+      "universe": "ALBUM",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/biarkan-cintamu-uprealband-biarkan-cintamu-mini-album-2005.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/album/MINI%20ALBUM/Uprealband%20-%20Biarkan%20Cintamu%20Mini%20Album%202005.mp3",
+      "duration": "3:38",
+      "releaseDate": "2005-01-01",
+      "featured": false
+    },
+    {
       "id": "operasi-merayu-gerry-track-01-operasi-merayu-gerry",
       "type": "music",
       "title": "Operasi Merayu Gerry",
