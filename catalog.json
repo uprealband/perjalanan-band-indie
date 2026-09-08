@@ -862,6 +862,20 @@
       "releaseDate": "2026-01-01"
     },
     {
+      "id": "podcast-perjalanan-uprealband-dari-gang-sempit-hingga-pita-global-2004-hingga-sekarang",
+      "type": "podcast",
+      "title": "Perjalanan uprealband dari gang sempit hingga pita global - 2004 hingga sekarang",
+      "description": "perjalanan uprealband dari tahun 2004 hingga saat ini di kemas dalam bentuk audio layaknya podcast \n\nofficial website www uprealband.com\nSpotify: uprealband",
+      "artist": "uprealband",
+      "album": "PODCAST",
+      "year": "2026",
+      "genre": "podcast",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-perjalanan-uprealband-dari-gang-sempit-hingga-pita-global-2004-hingga-sekarang.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/Perjalanan uprealband dari gang sempit hingga pita global - 2004 hingga sekarang.mp3",
+      "duration": "14:47",
+      "releaseDate": "2026-01-01"
+    },
+    {
       "id": "podcast-podcast-uprealband-anti-dsp-benarkah",
       "type": "podcast",
       "title": "Podcast : UPREALBAND ANTI-DSP ? BENARKAH ?",
