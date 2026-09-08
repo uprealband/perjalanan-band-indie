@@ -1,6 +1,22 @@
 {
   "tracks": [
     {
+      "id": "tuk-raih-cintamu-live-2006-tuk-raih-cintamu-live-2006",
+      "type": "music",
+      "title": "Tuk Raih Cintamu Live 2006",
+      "artist": "uprealband",
+      "album": "LIVE",
+      "year": "2026",
+      "genre": "live",
+      "version": "Tuk Raih Cintamu   Live 2006",
+      "universe": "ALBUM",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/tuk-raih-cintamu-live-2006-tuk-raih-cintamu-live-2006.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/album/LIVE/Tuk%20Raih%20Cintamu%20-%20Live%202006.mp3",
+      "duration": "5:34",
+      "releaseDate": "2026-01-01",
+      "featured": true
+    },
+    {
       "id": "tetap-menyala-akustik-hybrid",
       "type": "music",
       "title": "Tetap Menyala",
@@ -14,7 +30,7 @@
       "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/hybrid/Uprealband-Tetap-Menyala-Akustik-Hybrid.mp3",
       "duration": "3:36",
       "releaseDate": "2026-01-01",
-      "featured": true
+      "featured": false
     },
     {
       "id": "sambutlah-groove-hybrid",
