@@ -225,6 +225,22 @@
       "featured": false
     },
     {
+      "id": "dari-dulu-aku-bilang-uprealband-mini-album-2004-dari-dulu-aku-bilang-uprealband-mini-album-2004",
+      "type": "music",
+      "title": "Dari Dulu Aku Bilang – Uprealband mini album 2004",
+      "artist": "uprealband",
+      "album": "MINI ALBUM",
+      "year": "2014",
+      "genre": "music",
+      "version": "Dari Dulu Aku Bilang – Uprealband mini album 2004",
+      "universe": "ALBUM",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/dari-dulu-aku-bilang-uprealband-mini-album-2004-dari-dulu-aku-bilang-uprealband-mini-album-2004.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/album/MINI%20ALBUM/Dari%20Dulu%20Aku%20Bilang%20%E2%80%93%20Uprealband%20mini%20album%202004.mp3",
+      "duration": "4:10",
+      "releaseDate": "2014-01-01",
+      "featured": false
+    },
+    {
       "id": "sambutlah-original",
       "type": "music",
       "title": "Sambutlah",
