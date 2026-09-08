@@ -582,6 +582,20 @@
       "releaseDate": "2026-01-01"
     },
     {
+      "id": "podcast-kesempatan-label",
+      "type": "podcast",
+      "title": "Kesempatan Label ?",
+      "description": "Kisah nyata band indie Depok yang lagunya diputar setiap hari di radio selama sebulan penuh.\n\nDari sana, sebuah label menghubungi…\n\nnamun percakapan terputus di lampu merah dan tidak pernah berlanjut.\n\nSetelah dicek, nomor tersebut ternyata valid.\n\nSebuah cerita yang tidak pernah diceritakan sebelumnya, tentang pilihan, timing, dan perjalanan di jalur independen.\n\n\n🎧 Dengerin sekarang:\nhttps://open.spotify.com/artist/2Vfcaljl3bc0DNJedutB4f⁠�",
+      "artist": "uprealband",
+      "album": "PODCAST",
+      "year": "2026",
+      "genre": "podcast",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-kesempatan-label.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/Saat Lagu Kami Diputar Setiap Hari di Radio, dan Sebuah Telepon dari Label Datang, lalu.mp3",
+      "duration": "6:49",
+      "releaseDate": "2026-01-01"
+    },
+    {
       "id": "podcast-musik-ai-berbahaya-apa-pendapat-bany-uprealband",
       "type": "podcast",
       "title": "Musik AI berbahaya? Apa pendapat bany uprealband?",
