@@ -568,6 +568,20 @@
       "releaseDate": "2026-01-01"
     },
     {
+      "id": "podcast-band-kok-kutu-buku",
+      "type": "podcast",
+      "title": "band kok kutu buku ?",
+      "description": "\"Band kok kutu buku?\"\n\nMungkin itulah salah satu kalimat yang pernah didengar Uprealband selama perjalanannya.\n\nNamun bagi Uprealband, rasa ingin tahu tidak pernah bertentangan dengan musik.\n\nTahun 2004, ketika YouTube belum menjadi seperti sekarang, Uprealband belajar sablon dari buku. Tidak ada Shorts. Tidak ada AI. Tidak ada guru khusus. Yang ada hanyalah rasa penasaran, keberanian untuk mencoba, dan keinginan untuk terus belajar.\n\nDari buku, lahirlah sablon.\n\nDari sablon, pelan-pelan berdiri studio musik.\n\nDari studio, lahirlah rekaman dan album.\n\nDan kini, lebih dari dua puluh tahun kemudian, Uprealband masih berkarya dan hidup di zaman AI.\n\nTeknologinya berubah.\n\nZamannya berubah.\n\nNamun satu hal yang tidak berubah.\n\nUprealband tetap belajar.\n\nDan tidak pernah malu akan hal itu.\n\nDalam episode podcast ini, Uprealband membagikan refleksi tentang proses belajar, pentingnya membaca buku, rasa ingin tahu, perjalanan anak band indie, serta mengapa belajar tidak membuat seseorang kehilangan jiwa rock n roll-nya.\n\nKarena mungkin...\n\nyang aneh bukanlah anak band yang gemar membaca.\n\nYang aneh justru jika seseorang ingin mendapatkan sesuatu, tetapi tidak memiliki rasa ingin tahu untuk mempelajarinya.\n\nBy Uprealband.\n\nRock N Real.",
+      "artist": "uprealband",
+      "album": "PODCAST",
+      "year": "2026",
+      "genre": "podcast",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-band-kok-kutu-buku.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/podcast/Band Kok Kutu Buku？ Dari Buku, Sablon, Studio, Album Hingga AI ｜ Filosofi Uprealband.mp3",
+      "duration": "17:22",
+      "releaseDate": "2026-01-01"
+    },
+    {
       "id": "podcast-musik-ai-berbahaya-apa-pendapat-bany-uprealband",
       "type": "podcast",
       "title": "Musik AI berbahaya? Apa pendapat bany uprealband?",
