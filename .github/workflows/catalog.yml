@@ -30,6 +30,42 @@ jobs:
       - name: Generate catalog.json
         run: python scripts/generate_catalog.py
 
+      - name: Normalize Cover category and audio URLs
+        run: |
+          python - <<'PY'
+          import json
+          from urllib.parse import quote
+
+          path = 'catalog.json'
+          with open(path, 'r', encoding='utf-8') as f:
+              catalog = json.load(f)
+
+          def safe_audio_url(url):
+              marker = '/main/'
+              if marker not in url:
+                  return url
+              base, rel = url.split(marker, 1)
+              encoded = '/'.join(quote(part, safe='') for part in rel.split('/'))
+              return base + marker + encoded
+
+          for key in ('tracks', 'podcasts'):
+              for item in catalog.get(key, []):
+                  if item.get('audio'):
+                      item['audio'] = safe_audio_url(item['audio'])
+
+                  if key == 'tracks':
+                      album = str(item.get('album', '')).strip().lower()
+                      genre = str(item.get('genre', '')).strip().lower()
+                      universe = str(item.get('universe', '')).strip().lower()
+                      if album == 'cover' or genre == 'cover' or universe == 'cover':
+                          item['type'] = 'cover'
+                          item['universe'] = 'COVER'
+
+          with open(path, 'w', encoding='utf-8') as f:
+              json.dump(catalog, f, ensure_ascii=False, indent=2)
+              f.write('\n')
+          PY
+
       - name: Commit catalog.json
         run: |
           git config user.name 'github-actions[bot]'
