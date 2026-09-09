@@ -214,6 +214,22 @@
       "featured": false
     },
     {
+      "id": "lepaslah-live-panggung-cilodong-2015-lepaslah-live-panggung-cilodong-2015",
+      "type": "music",
+      "title": "Lepaslah Live Panggung Cilodong 2015",
+      "artist": "uprealband",
+      "album": "LIVE",
+      "year": "2015",
+      "genre": "live",
+      "version": "Lepaslah Live Panggung Cilodong 2015",
+      "universe": "ALBUM",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/lepaslah-live-panggung-cilodong-2015-lepaslah-live-panggung-cilodong-2015.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/album/LIVE/Lepaslah%20Live%20Panggung%20Cilodong%202015.mp3",
+      "duration": "3:09",
+      "releaseDate": "2015-01-01",
+      "featured": false
+    },
+    {
       "id": "latihan-lagu-baru-uprealband-markas-studio-depok-1-februari-2015-latihan-lagu-baru-uprealband-markas-studio-depok-1-februari-2015",
       "type": "music",
       "title": "Latihan Lagu Baru! Uprealband – Markas Studio Depok 1 Februari 2015",
