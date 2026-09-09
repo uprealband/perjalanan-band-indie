@@ -294,6 +294,22 @@
       "featured": false
     },
     {
+      "id": "airplay-melati-di-indiemania-com-pemutaran-lagu-melati-di-indiemania-com-feb-2011",
+      "type": "music",
+      "title": "AirPlay - Melati di IndieMania.com",
+      "artist": "www.uprealband.com",
+      "album": "EvolutioN",
+      "year": "2011",
+      "genre": "Radio",
+      "version": "Pemutaran Lagu Melati di indiemania.com Feb 2011",
+      "universe": "RADIO AIR PLAY",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/airplay-melati-di-indiemania-com-pemutaran-lagu-melati-di-indiemania-com-feb-2011.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/RADIO%20AIR%20PLAY/Pemutaran%20Lagu%20Melati%20di%20indiemania.com%20Feb%202011.mp3",
+      "duration": "2:58",
+      "releaseDate": "2011-01-01",
+      "featured": false
+    },
+    {
       "id": "wawancara-madu-fm-tulungagung-2010-wawancara-madu-fm-tulungagung-senin-27-september-2010-jam-7-pagi-via-phone",
       "type": "music",
       "title": "Wawancara Madu FM Tulungagung 2010",
