@@ -80,13 +80,11 @@ jobs:
 
           for key in ('tracks', 'podcasts'):
               for item in catalog.get(key, []):
-                  item_id = item.get('id', '')
-                  if item_id in previous_added:
-                      item['addedAt'] = previous_added[item_id]
-                  else:
-                      stamp = git_added_at(item.get('audio', ''))
-                      if stamp:
-                          item['addedAt'] = stamp
+                  stamp = git_added_at(item.get('audio', ''))
+                  if stamp:
+                      item['addedAt'] = stamp
+                  elif item.get('id') in previous_added:
+                      item['addedAt'] = previous_added[item['id']]
 
           with open(catalog_path, 'w', encoding='utf-8') as f:
               json.dump(catalog, f, ensure_ascii=False, indent=2)
