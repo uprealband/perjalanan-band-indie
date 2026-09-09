@@ -6,6 +6,7 @@ on:
       - 'audio/**/*.mp3'
       - 'artwork/**'
       - 'scripts/generate_catalog.py'
+      - 'video/videos.json'
       - '.github/workflows/catalog.yml'
   workflow_dispatch:
 
@@ -62,6 +63,30 @@ jobs:
                           item['universe'] = 'COVER'
 
           with open(path, 'w', encoding='utf-8') as f:
+              json.dump(catalog, f, ensure_ascii=False, indent=2)
+              f.write('\n')
+          PY
+
+      - name: Merge representative video metadata
+        run: |
+          python - <<'PY'
+          import json
+
+          catalog_path = 'catalog.json'
+          video_path = 'video/videos.json'
+
+          with open(catalog_path, 'r', encoding='utf-8') as f:
+              catalog = json.load(f)
+          with open(video_path, 'r', encoding='utf-8') as f:
+              videos = json.load(f)
+
+          for track in catalog.get('tracks', []):
+              key = f"{track.get('id', '')}|{track.get('universe', '')}"
+              if key in videos:
+                  for field, value in videos[key].items():
+                      track[field] = value
+
+          with open(catalog_path, 'w', encoding='utf-8') as f:
               json.dump(catalog, f, ensure_ascii=False, indent=2)
               f.write('\n')
           PY
