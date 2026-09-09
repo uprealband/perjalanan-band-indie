@@ -470,6 +470,22 @@
       "featured": false
     },
     {
+      "id": "air-play-radio-asia-philipina-antara-kita-uprealband",
+      "type": "music",
+      "title": "Air Play Radio Asia Philipina - Antara Kita",
+      "artist": "www.uprealband.com",
+      "album": "Uprealband",
+      "year": "2010",
+      "genre": "Pop",
+      "version": "Uprealband",
+      "universe": "RADIO AIR PLAY",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/air-play-radio-asia-philipina-antara-kita-uprealband.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/RADIO%20AIR%20PLAY/air%20play%20radio%20asia%20Philipina%20-%20antara%20kita%20-%20Uprealband.mp3",
+      "duration": "3:17",
+      "releaseDate": "2010-01-01",
+      "featured": false
+    },
+    {
       "id": "biarkan-cintamu-uprealband-biarkan-cintamu-mini-album-2005",
       "type": "music",
       "title": "Biarkan Cintamu",
