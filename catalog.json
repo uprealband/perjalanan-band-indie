@@ -310,6 +310,22 @@
       "featured": false
     },
     {
+      "id": "wawancara-dj-wirya-com-part-5-wawancara-djwirya-com-part-5",
+      "type": "music",
+      "title": "Wawancara DJ Wirya.com Part-5",
+      "artist": "www.uprealband.com",
+      "album": "Uprealband",
+      "year": "2010",
+      "genre": "Radio",
+      "version": "wawancara djwirya.com part 5",
+      "universe": "RADIO AIR PLAY",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/wawancara-dj-wirya-com-part-5-wawancara-djwirya-com-part-5.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/RADIO%20AIR%20PLAY/wawancara%20djwirya.com-part-5.mp3",
+      "duration": "2:22",
+      "releaseDate": "2010-01-01",
+      "featured": false
+    },
+    {
       "id": "sambutlah-original",
       "type": "music",
       "title": "Sambutlah",
