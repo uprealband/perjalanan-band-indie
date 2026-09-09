@@ -28,8 +28,68 @@ jobs:
       - name: Install metadata reader
         run: pip install mutagen
 
+      - name: Preserve previous catalog
+        run: |
+          if [ -f catalog.json ]; then
+            cp catalog.json /tmp/catalog.previous.json
+          else
+            printf '%s\n' '{"tracks":[],"stories":[],"podcasts":[]}' > /tmp/catalog.previous.json
+          fi
+
       - name: Generate catalog.json
         run: python scripts/generate_catalog.py
+
+      - name: Add catalog timestamps
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+          from urllib.parse import unquote
+
+          catalog_path = 'catalog.json'
+          previous_path = '/tmp/catalog.previous.json'
+
+          with open(catalog_path, 'r', encoding='utf-8') as f:
+              catalog = json.load(f)
+          with open(previous_path, 'r', encoding='utf-8') as f:
+              previous = json.load(f)
+
+          previous_added = {}
+          for key in ('tracks', 'podcasts'):
+              for item in previous.get(key, []):
+                  if item.get('id') and item.get('addedAt'):
+                      previous_added[item['id']] = item['addedAt']
+
+          def git_added_at(audio_url):
+              marker = '/main/'
+              if not audio_url or marker not in audio_url:
+                  return ''
+              rel = unquote(audio_url.split(marker, 1)[1])
+              try:
+                  result = subprocess.run(
+                      ['git', 'log', '-1', '--format=%cI', '--', rel],
+                      check=True,
+                      capture_output=True,
+                      text=True,
+                  )
+                  return result.stdout.strip()
+              except Exception:
+                  return ''
+
+          for key in ('tracks', 'podcasts'):
+              for item in catalog.get(key, []):
+                  item_id = item.get('id', '')
+                  if item_id in previous_added:
+                      item['addedAt'] = previous_added[item_id]
+                  else:
+                      stamp = git_added_at(item.get('audio', ''))
+                      if stamp:
+                          item['addedAt'] = stamp
+
+          with open(catalog_path, 'w', encoding='utf-8') as f:
+              json.dump(catalog, f, ensure_ascii=False, indent=2)
+              f.write('\n')
+          PY
 
       - name: Normalize Cover category and audio URLs
         run: |
