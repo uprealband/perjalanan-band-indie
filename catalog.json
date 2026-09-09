@@ -278,6 +278,22 @@
       "featured": false
     },
     {
+      "id": "wawancara-indie-radio-online-wawancara-uprealband-di-indie-radio-online-14-februari-2011",
+      "type": "music",
+      "title": "wawancara Indie Radio Online",
+      "artist": "www.uprealband.com",
+      "album": "Uprealband",
+      "year": "2011",
+      "genre": "pop",
+      "version": "wawancara uprealband di indie radio online   14 februari 2011",
+      "universe": "RADIO AIR PLAY",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/wawancara-indie-radio-online-wawancara-uprealband-di-indie-radio-online-14-februari-2011.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/RADIO%20AIR%20PLAY/wawancara%20uprealband%20di%20indie%20radio%20online%20-%2014%20februari%202011.mp3",
+      "duration": "85:59",
+      "releaseDate": "2011-01-01",
+      "featured": false
+    },
+    {
       "id": "sambutlah-original",
       "type": "music",
       "title": "Sambutlah",
