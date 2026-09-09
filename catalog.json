@@ -46,7 +46,12 @@
       "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/hybrid/Uprealband-Sambutlah-Groove-Hybrid.mp3",
       "duration": "4:13",
       "releaseDate": "2026-01-01",
-      "featured": false
+      "featured": false,
+      "video": "https://github.com/uprealband/perjalanan-band-indie/releases/download/VIDEO-UPREALBAND/sambutlah-hybrid-official-720p-hub.mp4",
+      "videoType": "official",
+      "videoTitle": "Sambutlah (Hybrid Version)",
+      "videoLocation": "Museum Fatahillah, Kota Tua Jakarta",
+      "youtube": "https://www.youtube.com/watch?v=_P-Go5mGcZQ"
     },
     {
       "id": "sambutlah-reggae-hybrid",
