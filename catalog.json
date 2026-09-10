@@ -448,6 +448,23 @@
       "addedAt": "2026-09-06T05:19:22+07:00"
     },
     {
+      "id": "lepaslah-original-lepaslah-original",
+      "type": "music",
+      "title": "Lepaslah - Original",
+      "artist": "uprealband",
+      "album": "EVOLUTION",
+      "year": "2010",
+      "genre": "music",
+      "version": "Lepaslah   Original",
+      "universe": "ALBUM",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/lepaslah-original-lepaslah-original.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/album/EVOLUTION%20ALBUM/Lepaslah%20-%20Original.mp3",
+      "duration": "3:31",
+      "releaseDate": "2010-01-01",
+      "featured": false,
+      "addedAt": "2026-09-10T19:21:50+07:00"
+    },
+    {
       "id": "cover-lepaslah-uprealband-by-sandra-uprealistic-tin-yiu-garden-hongkong-cover-lepaslah-uprealband-by-sandra-uprealistic-di-tin-yiu-garden-hongkong",
       "type": "cover",
       "title": "cover Lepaslah Uprealband by Sandra uprealistic tin yiu garden, hongkong",
