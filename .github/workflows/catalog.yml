@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'audio/**/*.mp3'
+      - 'archive/photos/**'
       - 'artwork/**'
       - 'scripts/generate_catalog.py'
       - 'video/videos.json'
