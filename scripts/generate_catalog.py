@@ -366,8 +366,66 @@ def load_stories():
     return stories
 
 
+
+ARCHIVE_PHOTOS_ROOT = ROOT / "archive" / "photos"
+
+
+def archive_title(folder_name):
+    text = re.sub(r"[-_]+", " ", folder_name).strip()
+    return re.sub(r"\s+", " ", text).title()
+
+
+def archive_caption(filename):
+    stem = Path(filename).stem
+    stem = re.sub(r"[-_]+", " ", stem).strip()
+    return re.sub(r"\s+", " ", stem)
+
+
+def make_archive_photos():
+    """Build photo archive entries directly from archive/photos/YYYY/event/."""
+    archives = []
+    if not ARCHIVE_PHOTOS_ROOT.exists():
+        return archives
+
+    from urllib.parse import quote
+
+    for year_dir in sorted(ARCHIVE_PHOTOS_ROOT.iterdir(), reverse=True):
+        if not year_dir.is_dir() or not re.fullmatch(r"(?:19|20)\\d{2}", year_dir.name):
+            continue
+        year = year_dir.name
+        for event_dir in sorted(year_dir.iterdir(), key=lambda p: p.name.lower()):
+            if not event_dir.is_dir():
+                continue
+            photos = [
+                p for p in sorted(event_dir.iterdir(), key=lambda p: p.name.lower())
+                if p.is_file() and p.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp")
+            ]
+            if not photos:
+                continue
+
+            images = []
+            captions = []
+            for photo in photos:
+                rel = photo.relative_to(ROOT).as_posix()
+                images.append(RAW_BASE + "/".join(quote(part, safe="") for part in rel.split("/")))
+                captions.append(archive_caption(photo.name))
+
+            event_slug = slug(event_dir.name)
+            archives.append({
+                "id": f"archive-{year}-{event_slug}",
+                "type": "photo",
+                "year": year,
+                "date": year,
+                "title": archive_title(event_dir.name),
+                "category": "Dokumentasi",
+                "images": images,
+                "imageCaptions": captions,
+            })
+
+    return archives
+
 def main():
-    tracks = []
+    tracks = make_archive_photos()
     podcasts = []
     stories = load_stories()
 
