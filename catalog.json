@@ -599,6 +599,26 @@
       "releaseDate": "",
       "featured": false,
       "addedAt": "2026-09-06T05:40:42+07:00"
+    },
+    {
+      "id": "pekan-raya-kota-depok-2013",
+      "type": "photo",
+      "title": "Pekan Raya Kota Depok",
+      "year": "2013",
+      "date": "2013-06",
+      "category": "Dokumentasi",
+      "images": [
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/01.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/02.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/03.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/04.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/05.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/06.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/07.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/08.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/09.jpg",
+        "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/photos/2013/pekan-raya-kota-depok/10.jpg"
+      ]
     }
   ],
   "stories": [
