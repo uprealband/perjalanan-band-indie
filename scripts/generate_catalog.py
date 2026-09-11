@@ -390,7 +390,7 @@ def make_archive_photos():
     from urllib.parse import quote
 
     for year_dir in sorted(ARCHIVE_PHOTOS_ROOT.iterdir(), reverse=True):
-        if not year_dir.is_dir() or not re.fullmatch(r"(?:19|20)\\d{2}", year_dir.name):
+        if not year_dir.is_dir() or not re.fullmatch(r"(?:19|20)\d{2}", year_dir.name):
             continue
         year = year_dir.name
         for event_dir in sorted(year_dir.iterdir(), key=lambda p: p.name.lower()):
