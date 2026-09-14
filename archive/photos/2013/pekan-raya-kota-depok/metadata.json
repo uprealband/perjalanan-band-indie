@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "archive-2013-pekan-raya-kota-depok",
+  "year": "2013",
+  "date": null,
+  "date_precision": "month",
+  "title": "Pekan Raya Kota Depok",
+  "event": "Pekan Raya Kota Depok",
+  "venue": null,
+  "location": "Depok",
+  "description": "",
+  "source_notes": "Bulan Juni berasal dari metadata arsip sebelumnya; nama orang dan detail kejadian belum dicantumkan tanpa bukti tambahan.",
+  "evidence": [
+    {
+      "type": "document",
+      "detail": "Existing archive metadata records the event date as 2013-06."
+    }
+  ]
+}
