@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UprealBand Photo Archive Record",
+  "description": "Evidence-first metadata for historical UprealBand photos. Unknown facts stay unknown and are never inferred as facts.",
+  "type": "object",
+  "required": ["schema_version", "id", "path", "year", "title", "evidence"],
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+    "id": { "type": "string" },
+    "path": { "type": "string" },
+    "year": { "type": "string", "pattern": "^(19|20)\\d{2}$" },
+    "date": {
+      "type": ["string", "null"],
+      "description": "ISO date when known. Use null when only the year/month is known."
+    },
+    "date_precision": {
+      "type": "string",
+      "enum": ["day", "month", "year", "unknown"]
+    },
+    "title": { "type": "string" },
+    "event": { "type": ["string", "null"] },
+    "venue": { "type": ["string", "null"] },
+    "location": { "type": ["string", "null"] },
+    "description": { "type": "string" },
+    "people": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "certainty"],
+        "properties": {
+          "name": { "type": "string" },
+          "certainty": {
+            "type": "string",
+            "enum": ["confirmed", "remembered", "filename", "uncertain"]
+          },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "source_notes": { "type": "string" },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["type"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["filename", "memory", "document", "photo", "media", "external"]
+          },
+          "detail": { "type": "string" }
+        }
+      }
+    }
+  }
+}
