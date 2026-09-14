@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "archive-2009-pasar-seni-ancol-jakarta",
+  "year": "2009",
+  "date": "2009-05-30",
+  "date_precision": "day",
+  "title": "Pasar Seni Ancol",
+  "event": "UprealBand perform at Pasar Seni Ancol",
+  "venue": "Pasar Seni Ancol",
+  "location": "Jakarta",
+  "description": "",
+  "source_notes": "Tanggal, event, lokasi, dan nama orang pada beberapa filename diperlakukan sebagai metadata yang berasal dari filename, bukan hasil identifikasi visual.",
+  "evidence": [
+    {
+      "type": "filename",
+      "detail": "Filenames in this event folder contain the event name, date 30 Mei 2009, location Pasar Seni Ancol, and person names on individual images."
+    }
+  ]
+}
