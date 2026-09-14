@@ -163,7 +163,7 @@ jobs:
               if not year_dir.is_dir() or not year_dir.name.isdigit() or len(year_dir.name) != 4:
                   continue
               for p in (year_dir / 'photos').rglob('*'):
-              if p.is_file() and p.suffix.lower() in {'.jpg', '.jpeg', '.png', '.webp'}:
+                  if p.is_file() and p.suffix.lower() in {'.jpg', '.jpeg', '.png', '.webp'}:
                   photos.append(p.as_posix())
 
           photos.sort(key=str.lower)
