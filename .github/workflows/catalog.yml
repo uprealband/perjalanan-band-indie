@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'audio/**/*.mp3'
-      - 'archive/photos/**'
+      - 'archive/**'
       - 'artwork/**'
       - 'scripts/generate_catalog.py'
       - 'video/videos.json'
@@ -169,11 +169,86 @@ jobs:
               f.write('\\n')
           PY
 
+      - name: Generate archive visitor index
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          ROOT = Path('archive')
+          META_EXT = {'.txt', '.json', '.md', '.yml', '.yaml'}
+          VIDEO_EXT = {'.mp4', '.webm', '.mov', '.m4v', '.ogv'}
+
+          items = []
+          years = {}
+
+          if ROOT.exists():
+              for year_dir in sorted(ROOT.iterdir(), key=lambda p: p.name.lower()):
+                  if not year_dir.is_dir() or not year_dir.name.isdigit() or len(year_dir.name) != 4:
+                      continue
+                  year = year_dir.name
+                  years.setdefault(year, {'documents': 0, 'videos': 0})
+
+                  for category in ('documents', 'videos'):
+                      base = year_dir / category
+                      if not base.exists():
+                          continue
+
+                      relevant_files = []
+                      for p in base.rglob('*'):
+                          if not p.is_file():
+                              continue
+                          ext = p.suffix.lower()
+                          if p.name.lower() in {'readme.md', '.gitkeep'} or ext in META_EXT:
+                              continue
+                          if category == 'videos' and ext not in VIDEO_EXT:
+                              continue
+                          relevant_files.append(p)
+
+                      relevant_dirs = set()
+                      for p in relevant_files:
+                          parent = p.parent
+                          while parent != base and base in parent.parents:
+                              relevant_dirs.add(parent)
+                              parent = parent.parent
+
+                      for d in sorted(relevant_dirs, key=lambda p: p.as_posix().lower()):
+                          items.append({
+                              'year': year,
+                              'category': category,
+                              'type': 'dir',
+                              'name': d.name,
+                              'path': d.as_posix(),
+                          })
+
+                      for p in sorted(relevant_files, key=lambda p: p.as_posix().lower()):
+                          items.append({
+                              'year': year,
+                              'category': category,
+                              'type': 'file',
+                              'name': p.name,
+                              'path': p.as_posix(),
+                          })
+                          years[year][category] += 1
+
+          payload = {
+              'version': 1,
+              'generatedAt': datetime.now(timezone.utc).isoformat(),
+              'items': items,
+              'years': years,
+          }
+
+          with open('archive-index.json', 'w', encoding='utf-8') as f:
+              json.dump(payload, f, ensure_ascii=False, indent=2)
+              f.write('\\n')
+          PY
+
       - name: Commit catalog.json
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add catalog.json artwork/ archive/photos.json
+          git add catalog.json artwork/ archive/photos.json archive-index.json
           if git diff --cached --quiet; then
             echo 'No catalog changes.'
           else
