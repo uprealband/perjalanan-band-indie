@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "archive-2012-event-unity-music-holic",
+  "year": "2012",
+  "date": null,
+  "date_precision": "year",
+  "title": "Event Unity Music Holic",
+  "event": "Event Unity Music Holic",
+  "venue": "Members Cafe",
+  "location": "Cimanggis, Depok",
+  "description": "",
+  "source_notes": "Tahun, event, venue, lokasi, dan nama orang pada beberapa filename diperlakukan sebagai metadata yang berasal dari filename, bukan hasil identifikasi visual.",
+  "evidence": [
+    {
+      "type": "filename",
+      "detail": "Filenames contain the event title, Members Cafe Cimanggis Depok, Unity Music Magazine, and person names."
+    }
+  ]
+}
