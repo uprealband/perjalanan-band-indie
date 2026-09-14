@@ -190,7 +190,7 @@ jobs:
                   year = year_dir.name
                   years.setdefault(year, {'documents': 0, 'videos': 0})
 
-                  for category in ('documents', 'videos'):
+                  for category in ('photos', 'documents', 'videos'):
                       base = year_dir / category
                       if not base.exists():
                           continue
@@ -203,6 +203,8 @@ jobs:
                           if p.name.lower() in {'readme.md', '.gitkeep'} or ext in META_EXT:
                               continue
                           if category == 'videos' and ext not in VIDEO_EXT:
+                              continue
+                          if category == 'photos' and ext not in {'.jpg', '.jpeg', '.png', '.webp', '.gif'}:
                               continue
                           relevant_files.append(p)
 
