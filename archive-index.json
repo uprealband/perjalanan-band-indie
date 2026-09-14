@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T13:24:29.128859+00:00",
+  "items": [
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "dir",
+      "name": "komunitas-depok-hole",
+      "path": "archive/2009/documents/komunitas-depok-hole"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-depokhole-crew.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-depokhole-crew.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-form-keanggotaan-depok-hole.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-form-keanggotaan-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-komunitas-depok-hole-sosok-dan-peran.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-komunitas-depok-hole-sosok-dan-peran.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-kop-surat-depok-hole-variant.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-kop-surat-depok-hole-variant.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-kop-surat-depok-hole.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-kop-surat-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole-color-sixteenhole.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-logo-depok-hole-color-sixteenhole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole-variant.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-logo-depok-hole-variant.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-logo-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-plug-play-sample-event-depok-hole.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-plug-play-sample-event-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-sample-promosi-depok-hole.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-sample-promosi-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-x-banner-design-depok-hole.jpg",
+      "path": "archive/2009/documents/komunitas-depok-hole/2009-x-banner-design-depok-hole.jpg"
+    },
+    {
+      "year": "2026",
+      "category": "videos",
+      "type": "file",
+      "name": "2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4",
+      "path": "archive/2026/videos/2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4"
+    },
+    {
+      "year": "2026",
+      "category": "videos",
+      "type": "file",
+      "name": "2026-09-01__Podcast _ UPREALBAND ANTI-DSP _ BENARKAH.mp4",
+      "path": "archive/2026/videos/2026-09-01__Podcast _ UPREALBAND ANTI-DSP _ BENARKAH.mp4"
+    }
+  ],
+  "years": {
+    "2004": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2005": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2006": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2007": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2008": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2009": {
+      "documents": 11,
+      "videos": 0
+    },
+    "2010": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2011": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2012": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2013": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2014": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2015": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2016": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2017": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2018": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2019": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2020": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2021": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2022": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2023": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2024": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2025": {
+      "documents": 0,
+      "videos": 0
+    },
+    "2026": {
+      "documents": 0,
+      "videos": 2
+    }
+  }
+}\n
