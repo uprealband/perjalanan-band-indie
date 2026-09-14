@@ -191,7 +191,7 @@ jobs:
                   if not year_dir.is_dir() or not year_dir.name.isdigit() or len(year_dir.name) != 4:
                       continue
                   year = year_dir.name
-                  years.setdefault(year, {'documents': 0, 'videos': 0})
+                  years.setdefault(year, {'photos': 0, 'documents': 0, 'videos': 0})
 
                   for category in ('photos', 'documents', 'videos'):
                       base = year_dir / category
@@ -246,7 +246,7 @@ jobs:
 
           with open('archive-index.json', 'w', encoding='utf-8') as f:
               json.dump(payload, f, ensure_ascii=False, indent=2)
-              f.write('\\n')
+              f.write('\n')
           PY
 
       - name: Commit catalog.json
