@@ -159,14 +159,17 @@ jobs:
           from pathlib import Path
 
           photos = []
-          for p in Path('archive/photos').rglob('*'):
+          for year_dir in Path('archive').iterdir():
+              if not year_dir.is_dir() or not year_dir.name.isdigit() or len(year_dir.name) != 4:
+                  continue
+              for p in (year_dir / 'photos').rglob('*'):
               if p.is_file() and p.suffix.lower() in {'.jpg', '.jpeg', '.png', '.webp'}:
                   photos.append(p.as_posix())
 
           photos.sort(key=str.lower)
           with open('archive/photos.json', 'w', encoding='utf-8') as f:
               json.dump({'photos': photos}, f, ensure_ascii=False, indent=2)
-              f.write('\\n')
+              f.write('\n')
           PY
 
       - name: Generate archive visitor index
