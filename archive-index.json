@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-14T17:41:55.018209+00:00",
+  "generatedAt": "2026-09-14T17:52:46.605399+00:00",
   "items": [
     {
       "year": "2009",
@@ -183,13 +183,6 @@
       "type": "file",
       "name": "2009-x-banner-design-depok-hole.jpg",
       "path": "archive/2009/documents/komunitas-depok-hole/2009-x-banner-design-depok-hole.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "videos",
-      "type": "file",
-      "name": "2010-09-09 uprealband - antara kita (cuma kita) live di kampus Atmajaya.mp4",
-      "path": "archive/2010/videos/2010-09-09 uprealband - antara kita (cuma kita) live di kampus Atmajaya.mp4"
     },
     {
       "year": "2012",
@@ -380,7 +373,7 @@
     "2010": {
       "photos": 0,
       "documents": 0,
-      "videos": 1
+      "videos": 0
     },
     "2011": {
       "photos": 0,
