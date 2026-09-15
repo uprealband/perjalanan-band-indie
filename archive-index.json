@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:51:41.597248+00:00",
+  "generatedAt": "2026-09-15T06:55:41.205446+00:00",
   "items": [
     {
       "year": "2005",
@@ -234,6 +234,13 @@
       "path": "archive/2009/videos/2009-08-25-take-backing-Vocal-Recording-Nia-Fika-Markas-Studio.mp4"
     },
     {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2009-12-13-uprealband-terluka-one-grip-live-wapress-jakarta-bany-gerry-jon-aga.mp4",
+      "path": "archive/2009/videos/2009-12-13-uprealband-terluka-one-grip-live-wapress-jakarta-bany-gerry-jon-aga.mp4"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "dir",
@@ -424,7 +431,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 5
+      "videos": 6
     },
     "2010": {
       "photos": 0,
