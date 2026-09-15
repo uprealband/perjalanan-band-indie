@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T16:01:56.410666+00:00",
+  "generatedAt": "2026-09-15T16:05:39.973118+00:00",
   "items": [
     {
       "year": "2004",
@@ -302,6 +302,13 @@
       "type": "file",
       "name": "2007-uprealband-kompilasi-perform-tahun-2004-sd-2007.mp4",
       "path": "archive/2007/videos/2007-uprealband-kompilasi-perform-tahun-2004-sd-2007.mp4"
+    },
+    {
+      "year": "2008",
+      "category": "photos",
+      "type": "file",
+      "name": "apoy-take-drum-markas-studio-depok.jpg",
+      "path": "archive/2008/photos/apoy-take-drum-markas-studio-depok.jpg"
     },
     {
       "year": "2008",
@@ -837,7 +844,7 @@
       "videos": 1
     },
     "2008": {
-      "photos": 0,
+      "photos": 1,
       "documents": 0,
       "videos": 3
     },
