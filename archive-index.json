@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:58:44.617527+00:00",
+  "generatedAt": "2026-09-15T07:01:15.886430+00:00",
   "items": [
     {
       "year": "2005",
@@ -248,6 +248,13 @@
       "path": "archive/2010/videos/2010-05-31-Cover-antara-kita-uprealband-by-Sandra-uprealistic-Hongkong.mp4"
     },
     {
+      "year": "2010",
+      "category": "videos",
+      "type": "file",
+      "name": "2010-07-03-uprealband-Antara-Kita-cuma-Kita-TVRI-bany-jon-gerry-aga.mp4",
+      "path": "archive/2010/videos/2010-07-03-uprealband-Antara-Kita-cuma-Kita-TVRI-bany-jon-gerry-aga.mp4"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "dir",
@@ -443,7 +450,7 @@
     "2010": {
       "photos": 0,
       "documents": 0,
-      "videos": 1
+      "videos": 2
     },
     "2011": {
       "photos": 0,
