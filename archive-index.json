@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T15:28:54.260108+00:00",
+  "generatedAt": "2026-09-15T15:37:01.146303+00:00",
   "items": [
     {
       "year": "2004",
@@ -15,6 +15,111 @@
       "type": "file",
       "name": "2004-era-bisnis-sablon-Upreal-Production.mp4",
       "path": "archive/2004/videos/2004-era-bisnis-sablon-Upreal-Production.mp4"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "event-KNPI-Cibinong-2005-2-jon.jpg",
+      "path": "archive/2005/photos/event-KNPI-Cibinong-2005-2-jon.jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "event-KNPI-Cibinong-2005-aryo-radio-gema.jpg",
+      "path": "archive/2005/photos/event-KNPI-Cibinong-2005-aryo-radio-gema.jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "event-KNPI-Cibinong-2005-jon-apoy-lia-glen.jpg",
+      "path": "archive/2005/photos/event-KNPI-Cibinong-2005-jon-apoy-lia-glen.jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "event-KNPI-Cibinong-2005.jpg",
+      "path": "archive/2005/photos/event-KNPI-Cibinong-2005.jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "Gedung-Balai-Rakyat-Depok-2-gerry-bany-jon.jpg",
+      "path": "archive/2005/photos/Gedung-Balai-Rakyat-Depok-2-gerry-bany-jon.jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-kedua.jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-kedua.jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-pertama (1).jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-pertama (1).jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-pertama (2).jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-pertama (2).jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-pertama (3).jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-pertama (3).jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-pertama (4).jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-pertama (4).jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-pertama (5).jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-pertama (5).jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-pertama (6).jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-pertama (6).jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "jammin-on-the-street-pertama (7).jpg",
+      "path": "archive/2005/photos/jammin-on-the-street-pertama (7).jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "ulang-tahun-uprealband-2005-markas-studio-depok.jpg",
+      "path": "archive/2005/photos/ulang-tahun-uprealband-2005-markas-studio-depok.jpg"
+    },
+    {
+      "year": "2005",
+      "category": "photos",
+      "type": "file",
+      "name": "upreal-studio-era.jpg",
+      "path": "archive/2005/photos/upreal-studio-era.jpg"
     },
     {
       "year": "2005",
@@ -556,7 +661,7 @@
       "videos": 1
     },
     "2005": {
-      "photos": 0,
+      "photos": 15,
       "documents": 0,
       "videos": 1
     },
