@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T15:53:34.815658+00:00",
+  "generatedAt": "2026-09-15T16:01:56.410666+00:00",
   "items": [
     {
       "year": "2004",
@@ -246,6 +246,55 @@
       "type": "file",
       "name": "2006-uprealband-live-Maaf-Harap-Maklum-Rock-Version-bany-jon-gerry-apoy-Depok-satu.mp4",
       "path": "archive/2006/videos/2006-uprealband-live-Maaf-Harap-Maklum-Rock-Version-bany-jon-gerry-apoy-Depok-satu.mp4"
+    },
+    {
+      "year": "2007",
+      "category": "photos",
+      "type": "file",
+      "name": "2007-event-JAPEX-Kemayoran-jakarta (2).jpg",
+      "path": "archive/2007/photos/2007-event-JAPEX-Kemayoran-jakarta (2).jpg"
+    },
+    {
+      "year": "2007",
+      "category": "photos",
+      "type": "file",
+      "name": "2007-event-JAPEX-Kemayoran-jakarta-apoy.jpg",
+      "path": "archive/2007/photos/2007-event-JAPEX-Kemayoran-jakarta-apoy.jpg"
+    },
+    {
+      "year": "2007",
+      "category": "photos",
+      "type": "file",
+      "name": "2007-event-JAPEX-Kemayoran-jakarta.jpg",
+      "path": "archive/2007/photos/2007-event-JAPEX-Kemayoran-jakarta.jpg"
+    },
+    {
+      "year": "2007",
+      "category": "photos",
+      "type": "file",
+      "name": "2007-Event-Radio-Pop-FM-Jakarta-Raya-Depok.jpg",
+      "path": "archive/2007/photos/2007-Event-Radio-Pop-FM-Jakarta-Raya-Depok.jpg"
+    },
+    {
+      "year": "2007",
+      "category": "photos",
+      "type": "file",
+      "name": "event x-mild noize-bany-gerry-apoy-jon.jpg",
+      "path": "archive/2007/photos/event x-mild noize-bany-gerry-apoy-jon.jpg"
+    },
+    {
+      "year": "2007",
+      "category": "photos",
+      "type": "file",
+      "name": "foto session tuk EVENT AMILD RAISING STAR A-Mild-bany-apoy-gerry-jon.jpg",
+      "path": "archive/2007/photos/foto session tuk EVENT AMILD RAISING STAR A-Mild-bany-apoy-gerry-jon.jpg"
+    },
+    {
+      "year": "2007",
+      "category": "photos",
+      "type": "file",
+      "name": "nyate depan studio-ayu-bany-apoy-pipit-wawan-jon.jpg",
+      "path": "archive/2007/photos/nyate depan studio-ayu-bany-apoy-pipit-wawan-jon.jpg"
     },
     {
       "year": "2007",
@@ -783,7 +832,7 @@
       "videos": 1
     },
     "2007": {
-      "photos": 0,
+      "photos": 7,
       "documents": 0,
       "videos": 1
     },
