@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:47:33.755246+00:00",
+  "generatedAt": "2026-09-15T06:49:05.530549+00:00",
   "items": [
     {
       "year": "2005",
@@ -220,6 +220,13 @@
       "path": "archive/2009/videos/2009-08-22-jon-fadly-Uprealband-take-gitar-akustik-antara kita.mp4"
     },
     {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2009-08-25-take-backing-Vocal-Recording-Nia-Fika-Markas-Studio.mp4",
+      "path": "archive/2009/videos/2009-08-25-take-backing-Vocal-Recording-Nia-Fika-Markas-Studio.mp4"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "dir",
@@ -410,7 +417,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 3
+      "videos": 4
     },
     "2010": {
       "photos": 0,
