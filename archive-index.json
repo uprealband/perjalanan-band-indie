@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:19:34.173318+00:00",
+  "generatedAt": "2026-09-15T06:46:09.698276+00:00",
   "items": [
     {
       "year": "2005",
@@ -206,6 +206,13 @@
       "path": "archive/2009/videos/2009-08-01-Uprealband-Apoy-take-drum-let's dance-Markas-Studio-Depok.mp4"
     },
     {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2009-08-22-jon-fadly-Uprealband-take-gitar-akustik-antara kita.mp4",
+      "path": "archive/2009/videos/2009-08-22-jon-fadly-Uprealband-take-gitar-akustik-antara kita.mp4"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "dir",
@@ -396,7 +403,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 1
+      "videos": 2
     },
     "2010": {
       "photos": 0,
