@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T18:48:08.115948+00:00",
+  "generatedAt": "2026-09-15T19:03:21.262857+00:00",
   "items": [
     {
       "year": "2004",
@@ -1231,6 +1231,139 @@
       "year": "2010",
       "category": "photos",
       "type": "file",
+      "name": "2010-cd album evolution a.jpg",
+      "path": "archive/2010/photos/2010-cd album evolution a.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-cd album evolution c.jpg",
+      "path": "archive/2010/photos/2010-cd album evolution c.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-cd album evolution.jpg",
+      "path": "archive/2010/photos/2010-cd album evolution.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-CD-album-evolution-pack.jpg",
+      "path": "archive/2010/photos/2010-CD-album-evolution-pack.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-cd-promo-tuk-radio.jpg",
+      "path": "archive/2010/photos/2010-cd-promo-tuk-radio.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-cover-cd-album-evolution.jpg",
+      "path": "archive/2010/photos/2010-cover-cd-album-evolution.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-design-wallpaper-uprealband.jpg",
+      "path": "archive/2010/photos/2010-design-wallpaper-uprealband.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-effek gitar jon rusak.jpg",
+      "path": "archive/2010/photos/2010-effek gitar jon rusak.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-event-ramayana-plaza-depok.jpg",
+      "path": "archive/2010/photos/2010-event-ramayana-plaza-depok.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-event-sultan hotel-derry.jpg",
+      "path": "archive/2010/photos/2010-event-sultan hotel-derry.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-event-sultan hotel.jpg",
+      "path": "archive/2010/photos/2010-event-sultan hotel.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-event-sultan-hotel-jon.jpg",
+      "path": "archive/2010/photos/2010-event-sultan-hotel-jon.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-konsep buku uprealband a.jpg",
+      "path": "archive/2010/photos/2010-konsep buku uprealband a.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-konsep buku uprealband.jpg",
+      "path": "archive/2010/photos/2010-konsep buku uprealband.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-otw-to-senayan-TVRI.jpg",
+      "path": "archive/2010/photos/2010-otw-to-senayan-TVRI.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-otw-TVRI-senayan-aga.jpg",
+      "path": "archive/2010/photos/2010-otw-TVRI-senayan-aga.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-otw-TVRI-senayan.jpg",
+      "path": "archive/2010/photos/2010-otw-TVRI-senayan.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-packing-cd-album-evolution.jpg",
+      "path": "archive/2010/photos/2010-packing-cd-album-evolution.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-pengiriman-cd-album-ke-media.jpg",
+      "path": "archive/2010/photos/2010-pengiriman-cd-album-ke-media.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
       "name": "2020-hasil-foto-siaran-TV-TVRI (1).jpg",
       "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI (1).jpg"
     },
@@ -1603,7 +1736,7 @@
       "videos": 12
     },
     "2010": {
-      "photos": 14,
+      "photos": 33,
       "documents": 5,
       "videos": 9
     },
