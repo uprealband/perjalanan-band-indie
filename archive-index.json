@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T19:03:21.262857+00:00",
+  "generatedAt": "2026-09-15T19:27:12.846386+00:00",
   "items": [
     {
       "year": "2004",
@@ -1557,6 +1557,41 @@
       "path": "archive/2010/videos/2010-09-09-Harvi-Uprealistic-Cover-BCM-Biarkan-Cinta-Mengalir-Depok.mp4"
     },
     {
+      "year": "2011",
+      "category": "documents",
+      "type": "file",
+      "name": "2011-tampilan-aplikasi-android-uprealband (1).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (1).png"
+    },
+    {
+      "year": "2011",
+      "category": "documents",
+      "type": "file",
+      "name": "2011-tampilan-aplikasi-android-uprealband (2).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (2).png"
+    },
+    {
+      "year": "2011",
+      "category": "documents",
+      "type": "file",
+      "name": "2011-tampilan-aplikasi-android-uprealband (3).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (3).png"
+    },
+    {
+      "year": "2011",
+      "category": "documents",
+      "type": "file",
+      "name": "2011-tampilan-aplikasi-android-uprealband (4).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (4).png"
+    },
+    {
+      "year": "2011",
+      "category": "documents",
+      "type": "file",
+      "name": "2011-uprealband.com_news_aplikasi_android.apk",
+      "path": "archive/2011/documents/2011-uprealband.com_news_aplikasi_android.apk"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "file",
@@ -1742,7 +1777,7 @@
     },
     "2011": {
       "photos": 0,
-      "documents": 0,
+      "documents": 5,
       "videos": 0
     },
     "2012": {
