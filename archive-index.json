@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:07:41.376363+00:00",
+  "generatedAt": "2026-09-15T06:10:42.877585+00:00",
   "items": [
     {
       "year": "2005",
@@ -349,6 +349,13 @@
       "year": "2026",
       "category": "videos",
       "type": "file",
+      "name": "2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4",
+      "path": "archive/2026/videos/2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4"
+    },
+    {
+      "year": "2026",
+      "category": "videos",
+      "type": "file",
       "name": "2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4",
       "path": "archive/2026/videos/2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4"
     },
@@ -474,7 +481,7 @@
     "2026": {
       "photos": 0,
       "documents": 0,
-      "videos": 2
+      "videos": 3
     }
   }
 }
