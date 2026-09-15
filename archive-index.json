@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T14:54:30.761203+00:00",
+  "generatedAt": "2026-09-15T14:59:35.941332+00:00",
   "items": [
     {
       "year": "2004",
@@ -267,6 +267,13 @@
       "type": "file",
       "name": "2009-12-13-uprealband-terluka-one-grip-live-wapress-jakarta-bany-gerry-jon-aga.mp4",
       "path": "archive/2009/videos/2009-12-13-uprealband-terluka-one-grip-live-wapress-jakarta-bany-gerry-jon-aga.mp4"
+    },
+    {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2009-uprealband-latihan-untuk-lagu-aku-bukan-dia-Markas-Studio-Depok-gerry-bany-jon-apoy.mp4",
+      "path": "archive/2009/videos/2009-uprealband-latihan-untuk-lagu-aku-bukan-dia-Markas-Studio-Depok-gerry-bany-jon-apoy.mp4"
     },
     {
       "year": "2010",
@@ -536,7 +543,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 7
+      "videos": 8
     },
     "2010": {
       "photos": 4,
