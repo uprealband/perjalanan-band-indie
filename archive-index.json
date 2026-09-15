@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:49:05.530549+00:00",
+  "generatedAt": "2026-09-15T06:51:41.597248+00:00",
   "items": [
     {
       "year": "2005",
@@ -197,6 +197,13 @@
       "type": "file",
       "name": "2009-x-banner-design-depok-hole.jpg",
       "path": "archive/2009/documents/komunitas-depok-hole/2009-x-banner-design-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2009-07-16-bany-take-vocal-terluka-one-grip-Markas-Studio-Depok.mp4",
+      "path": "archive/2009/videos/2009-07-16-bany-take-vocal-terluka-one-grip-Markas-Studio-Depok.mp4"
     },
     {
       "year": "2009",
@@ -417,7 +424,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 4
+      "videos": 5
     },
     "2010": {
       "photos": 0,
