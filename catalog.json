@@ -220,23 +220,6 @@
       "releaseDate": "2005-01-01",
       "featured": false,
       "addedAt": "2026-09-09T05:06:52+07:00"
-    },
-    {
-      "id": "operasi-merayu-gerry-track-01-operasi-merayu-gerry",
-      "type": "music",
-      "title": "Operasi Merayu Gerry",
-      "artist": "Uprealband",
-      "album": "Catatan Perjalanan",
-      "year": "",
-      "genre": "Soundtrack",
-      "version": "track 01 operasi merayu gerry",
-      "universe": "SOUNDTRACK",
-      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/operasi-merayu-gerry-track-01-operasi-merayu-gerry.jpg",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/audio/soundtrack/track-01-operasi-merayu-gerry.mp3",
-      "duration": "3:08",
-      "releaseDate": "",
-      "featured": false,
-      "addedAt": "2026-09-06T05:40:42+07:00"
     }
   ],
   "stories": [
