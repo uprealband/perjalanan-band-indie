@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T18:09:28.316287+00:00",
+  "generatedAt": "2026-09-15T18:17:17.397316+00:00",
   "items": [
     {
       "year": "2004",
@@ -1231,6 +1231,76 @@
       "year": "2010",
       "category": "photos",
       "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI (1).jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI (1).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-bany (2).jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-bany (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-bany-gerry.jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-bany-gerry.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-gerry.jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-gerry.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-jon (2).jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-jon (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-jon-bany (2).jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-jon-bany (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-jon-bany (3).jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-jon-bany (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-jon-bany-gerry-aga.jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-jon-bany-gerry-aga.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-jon-bany.jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-jon-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2020-hasil-foto-siaran-TV-TVRI-jon.jpg",
+      "path": "archive/2010/photos/2020-hasil-foto-siaran-TV-TVRI-jon.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
       "name": "cover-antara-kita-cuma-kita-uprealband-by-sandra-uprealistic-pantai-cover-antara-kita-cuma-kita-uprealband-by-sandra-uprealistic-pantai.jpg",
       "path": "archive/2010/photos/cover-antara-kita-cuma-kita-uprealband-by-sandra-uprealistic-pantai-cover-antara-kita-cuma-kita-uprealband-by-sandra-uprealistic-pantai.jpg"
     },
@@ -1498,7 +1568,7 @@
       "videos": 12
     },
     "2010": {
-      "photos": 4,
+      "photos": 14,
       "documents": 0,
       "videos": 9
     },
