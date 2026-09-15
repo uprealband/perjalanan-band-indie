@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T15:37:01.146303+00:00",
+  "generatedAt": "2026-09-15T15:53:34.815658+00:00",
   "items": [
     {
       "year": "2004",
@@ -127,6 +127,118 @@
       "type": "file",
       "name": "2005-Terbang-Melayang-Uprealband-Video-Klip.mp4",
       "path": "archive/2005/videos/2005-Terbang-Melayang-Uprealband-Video-Klip.mp4"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda (11).jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda (11).jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-apoy (2).jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-apoy (2).jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-apoy.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-apoy.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-bany-gerry.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-bany-gerry.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-bany.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-bany.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-derry-jon-gerry-apoy.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-derry-jon-gerry-apoy.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-gerry-jon-bany-apoy.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-gerry-jon-bany-apoy.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-gerry.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-gerry.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-hendry-bandroll-yadi.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-hendry-bandroll-yadi.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-hendry-bandroll.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-hendry-bandroll.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-jon-bany-gerry-apoy-johan-rapper (2).jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-jon-bany-gerry-apoy-johan-rapper (2).jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-event-3-on-3-basket-ex-hero-margonda-jon.jpg",
+      "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda-jon.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006-lapangan-anyelir-depok-1-bany-jon-gerry-apoy-johan-rapper.jpg",
+      "path": "archive/2006/photos/2006-lapangan-anyelir-depok-1-bany-jon-gerry-apoy-johan-rapper.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006_Lapangan Anyelir Depok 1-a-bany-gerry-johan.jpg",
+      "path": "archive/2006/photos/2006_Lapangan Anyelir Depok 1-a-bany-gerry-johan.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006_Lapangan Anyelir Depok 1-b-gerry-apoy.jpg",
+      "path": "archive/2006/photos/2006_Lapangan Anyelir Depok 1-b-gerry-apoy.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006_UPREAL ANNIVERSARY.jpg",
+      "path": "archive/2006/photos/2006_UPREAL ANNIVERSARY.jpg"
     },
     {
       "year": "2006",
@@ -666,7 +778,7 @@
       "videos": 1
     },
     "2006": {
-      "photos": 0,
+      "photos": 16,
       "documents": 0,
       "videos": 1
     },
