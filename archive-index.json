@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:55:41.205446+00:00",
+  "generatedAt": "2026-09-15T06:57:24.785916+00:00",
   "items": [
     {
       "year": "2005",
@@ -241,6 +241,13 @@
       "path": "archive/2009/videos/2009-12-13-uprealband-terluka-one-grip-live-wapress-jakarta-bany-gerry-jon-aga.mp4"
     },
     {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2010-05-31-Cover-antara-kita-uprealband-by-Sandra-uprealistic-Hongkong.mp4",
+      "path": "archive/2009/videos/2010-05-31-Cover-antara-kita-uprealband-by-Sandra-uprealistic-Hongkong.mp4"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "dir",
@@ -431,7 +438,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 6
+      "videos": 7
     },
     "2010": {
       "photos": 0,
