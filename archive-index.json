@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T07:51:56.702643+00:00",
+  "generatedAt": "2026-09-15T08:09:19.594108+00:00",
   "items": [
+    {
+      "year": "2004",
+      "category": "videos",
+      "type": "file",
+      "name": "2004-era-bisnis-sablon-Upreal-Production.mp4",
+      "path": "archive/2004/videos/2004-era-bisnis-sablon-Upreal-Production.mp4"
+    },
     {
       "year": "2005",
       "category": "videos",
@@ -427,7 +434,7 @@
     "2004": {
       "photos": 0,
       "documents": 0,
-      "videos": 0
+      "videos": 1
     },
     "2005": {
       "photos": 0,
