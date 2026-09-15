@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T08:09:19.594108+00:00",
+  "generatedAt": "2026-09-15T08:16:28.404433+00:00",
   "items": [
     {
       "year": "2004",
@@ -269,6 +269,13 @@
       "path": "archive/2010/videos/2010-07-03-uprealband-Antara-Kita-cuma-Kita-TVRI-bany-jon-gerry-aga.mp4"
     },
     {
+      "year": "2010",
+      "category": "videos",
+      "type": "file",
+      "name": "2010-09-08-uprealband-persiapan-mau-berangkat-manggung-Gerry-jon-bany-apoy.mp4",
+      "path": "archive/2010/videos/2010-09-08-uprealband-persiapan-mau-berangkat-manggung-Gerry-jon-bany-apoy.mp4"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "dir",
@@ -464,7 +471,7 @@
     "2010": {
       "photos": 0,
       "documents": 0,
-      "videos": 2
+      "videos": 3
     },
     "2011": {
       "photos": 0,
