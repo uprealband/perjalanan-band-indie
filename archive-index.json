@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T14:51:54.517166+00:00",
+  "generatedAt": "2026-09-15T14:54:30.761203+00:00",
   "items": [
     {
       "year": "2004",
@@ -349,6 +349,13 @@
       "year": "2010",
       "category": "videos",
       "type": "file",
+      "name": "2010-09-08-uprealband-test-bikin-video-klip-maaf-harap-maklum-jembatan-penyebrangan-Plaza-Depok-bany-temmy.mp4",
+      "path": "archive/2010/videos/2010-09-08-uprealband-test-bikin-video-klip-maaf-harap-maklum-jembatan-penyebrangan-Plaza-Depok-bany-temmy.mp4"
+    },
+    {
+      "year": "2010",
+      "category": "videos",
+      "type": "file",
       "name": "2010-09-09-Harvi-Uprealistic-Cover-BCM-Biarkan-Cinta-Mengalir-Depok.mp4",
       "path": "archive/2010/videos/2010-09-09-Harvi-Uprealistic-Cover-BCM-Biarkan-Cinta-Mengalir-Depok.mp4"
     },
@@ -534,7 +541,7 @@
     "2010": {
       "photos": 4,
       "documents": 0,
-      "videos": 8
+      "videos": 9
     },
     "2011": {
       "photos": 0,
