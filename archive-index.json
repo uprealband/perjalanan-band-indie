@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T10:34:06.294Z",
+  "generatedAt": "2026-09-15T14:21:18.574579+00:00",
   "items": [
     {
       "year": "2004",
@@ -24,109 +24,11 @@
       "path": "archive/2006/videos/2006-uprealband-live-Maaf-Harap-Maklum-Rock-Version-bany-jon-gerry-apoy-Depok-satu.mp4"
     },
     {
-      "year": "2007",
-      "category": "audio",
-      "type": "file",
-      "name": "Air Play POP FM 103 Jakarta Raya - Lepaslah.mp3",
-      "path": "archive/2007/audio/Air Play POP FM 103 Jakarta Raya - Lepaslah.mp3"
-    },
-    {
       "year": "2008",
       "category": "videos",
       "type": "file",
       "name": "2008-10-28 uprealband - antara kita (cuma kita) live di kampus Atmajaya.mp4",
       "path": "archive/2008/videos/2008-10-28 uprealband - antara kita (cuma kita) live di kampus Atmajaya.mp4"
-    },
-    {
-      "year": "2009",
-      "category": "audio",
-      "type": "file",
-      "name": "Lepaslah - Original.mp3",
-      "path": "archive/2009/audio/Lepaslah - Original.mp3"
-    },
-    {
-      "year": "2009",
-      "category": "audio",
-      "type": "file",
-      "name": "Sambutlah - Original.mp3",
-      "path": "archive/2009/audio/Sambutlah - Original.mp3"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-depokhole-crew.jpg",
-      "path": "archive/2009/documents/2009-depokhole-crew.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-form-keanggotaan-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-form-keanggotaan-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-komunitas-depok-hole-sosok-dan-peran.jpg",
-      "path": "archive/2009/documents/2009-komunitas-depok-hole-sosok-dan-peran.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-kop-surat-depok-hole-variant.jpg",
-      "path": "archive/2009/documents/2009-kop-surat-depok-hole-variant.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-kop-surat-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-kop-surat-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-logo-depok-hole-color-sixteenhole.jpg",
-      "path": "archive/2009/documents/2009-logo-depok-hole-color-sixteenhole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-logo-depok-hole-variant.jpg",
-      "path": "archive/2009/documents/2009-logo-depok-hole-variant.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-logo-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-logo-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-plug-play-sample-event-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-plug-play-sample-event-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-sample-promosi-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-sample-promosi-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-x-banner-design-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-x-banner-design-depok-hole.jpg"
     },
     {
       "year": "2009",
@@ -221,6 +123,83 @@
     },
     {
       "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-depokhole-crew.jpg",
+      "path": "archive/2009/documents/2009-depokhole-crew.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-form-keanggotaan-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-form-keanggotaan-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-komunitas-depok-hole-sosok-dan-peran.jpg",
+      "path": "archive/2009/documents/2009-komunitas-depok-hole-sosok-dan-peran.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-kop-surat-depok-hole-variant.jpg",
+      "path": "archive/2009/documents/2009-kop-surat-depok-hole-variant.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-kop-surat-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-kop-surat-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole-color-sixteenhole.jpg",
+      "path": "archive/2009/documents/2009-logo-depok-hole-color-sixteenhole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole-variant.jpg",
+      "path": "archive/2009/documents/2009-logo-depok-hole-variant.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-logo-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-plug-play-sample-event-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-plug-play-sample-event-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-sample-promosi-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-sample-promosi-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-x-banner-design-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-x-banner-design-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
       "category": "videos",
       "type": "file",
       "name": "2009-07-16-bany-take-vocal-terluka-one-grip-Markas-Studio-Depok.mp4",
@@ -260,55 +239,6 @@
       "type": "file",
       "name": "2009-12-13-uprealband-terluka-one-grip-live-wapress-jakarta-bany-gerry-jon-aga.mp4",
       "path": "archive/2009/videos/2009-12-13-uprealband-terluka-one-grip-live-wapress-jakarta-bany-gerry-jon-aga.mp4"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "air play radio asia Philipina - antara kita - Uprealband.mp3",
-      "path": "archive/2010/audio/air play radio asia Philipina - antara kita - Uprealband.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "cover - antara kita Uprealband by Sandra uprealistic-pantai.mp3",
-      "path": "archive/2010/audio/cover - antara kita Uprealband by Sandra uprealistic-pantai.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "Cover Antara Kita Uprealband by Sandra.mp3",
-      "path": "archive/2010/audio/Cover Antara Kita Uprealband by Sandra.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "cover Lepaslah Uprealband by Sandra uprealistic di tin yiu garden hongkong.mp3",
-      "path": "archive/2010/audio/cover Lepaslah Uprealband by Sandra uprealistic di tin yiu garden hongkong.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3",
-      "path": "archive/2010/audio/Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3",
-      "path": "archive/2010/audio/uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara madu fm tulungagung - senin 27 september 2010 jam 7 pagi via phone.mp3",
-      "path": "archive/2010/audio/wawancara madu fm tulungagung - senin 27 september 2010 jam 7 pagi via phone.mp3"
     },
     {
       "year": "2010",
@@ -374,53 +304,11 @@
       "path": "archive/2010/videos/2010-09-08-uprealband-persiapan-mau-berangkat-manggung-Gerry-jon-bany-apoy.mp4"
     },
     {
-      "year": "2011",
-      "category": "audio",
+      "year": "2010",
+      "category": "videos",
       "type": "file",
-      "name": "Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3",
-      "path": "archive/2011/audio/Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3"
-    },
-    {
-      "year": "2011",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara djwirya.com-part-1.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-1.mp3"
-    },
-    {
-      "year": "2011",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara djwirya.com-part-2.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-2.mp3"
-    },
-    {
-      "year": "2011",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara djwirya.com-part-3.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-3.mp3"
-    },
-    {
-      "year": "2011",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara djwirya.com-part-4.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-4.mp3"
-    },
-    {
-      "year": "2011",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara djwirya.com-part-5.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-5.mp3"
-    },
-    {
-      "year": "2011",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara uprealband di indie radio online - 14 februari 2011.mp3",
-      "path": "archive/2011/audio/wawancara uprealband di indie radio online - 14 februari 2011.mp3"
+      "name": "2010-09-09-Harvi-Uprealistic-Cover-BCM-Biarkan-Cinta-Mengalir-Depok.mp4",
+      "path": "archive/2010/videos/2010-09-09-Harvi-Uprealistic-Cover-BCM-Biarkan-Cinta-Mengalir-Depok.mp4"
     },
     {
       "year": "2012",
@@ -550,342 +438,6 @@
     },
     {
       "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "​＂BONGKAR 'FOSIL' DIGITAL： APLIKASI ANDROID UPREALBAND.mp3",
-      "path": "archive/2026/audio/​＂BONGKAR 'FOSIL' DIGITAL： APLIKASI ANDROID UPREALBAND.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "2004 vs SEKARANG： Rahasia Vokal Bany Tetap Konsisten! ｜ Podcast Rinjani Radio Depok.mp3",
-      "path": "archive/2026/audio/2004 vs SEKARANG： Rahasia Vokal Bany Tetap Konsisten! ｜ Podcast Rinjani Radio Depok.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Album EVOLUTION Uprealband… Terakhir？! Ini Faktanya!!.mp3",
-      "path": "archive/2026/audio/Album EVOLUTION Uprealband… Terakhir？! Ini Faktanya!!.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Apa Benar Punya Studio Sendiri Itu Selalu Enak？ ｜ Cerita Uprealband.mp3",
-      "path": "archive/2026/audio/Apa Benar Punya Studio Sendiri Itu Selalu Enak？ ｜ Cerita Uprealband.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Apa iya, Uprealband menunggangi Teknologi.mp3",
-      "path": "archive/2026/audio/Apa iya, Uprealband menunggangi Teknologi.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Asal usul kenapa Kami Teriak ‘Ozan’？ Cerita Asli dari Markas Band Indie Depok.mp3",
-      "path": "archive/2026/audio/Asal usul kenapa Kami Teriak ‘Ozan’？ Cerita Asli dari Markas Band Indie Depok.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri.mp3",
-      "path": "archive/2026/audio/Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Band Indie Depok yang Pernah Punya Aplikasi Android di Google Play Store ｜ Kisah Uprealband.mp3",
-      "path": "archive/2026/audio/Band Indie Depok yang Pernah Punya Aplikasi Android di Google Play Store ｜ Kisah Uprealband.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Band Ini Malah Nge-Cover Lagunya Sendiri.mp3",
-      "path": "archive/2026/audio/Band Ini Malah Nge-Cover Lagunya Sendiri.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Band Kok Kutu Buku？ Dari Buku, Sablon, Studio, Album Hingga AI ｜ Filosofi Uprealband.mp3",
-      "path": "archive/2026/audio/Band Kok Kutu Buku？ Dari Buku, Sablon, Studio, Album Hingga AI ｜ Filosofi Uprealband.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Band manggung rapih？ Tunggu Dulu… Ini Bocoran Uprealband di Panggung.mp3",
-      "path": "archive/2026/audio/Band manggung rapih？ Tunggu Dulu… Ini Bocoran Uprealband di Panggung.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "BANY Tetap Khas di Lagu AI？! Uprealband Bongkar Eksperimen Gila Ini!.mp3",
-      "path": "archive/2026/audio/BANY Tetap Khas di Lagu AI？! Uprealband Bongkar Eksperimen Gila Ini!.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Behind The Scene Video Klip “Sambutlah (Hybrid Version)” ｜ Podcast Rinjani Radio Depok.mp3",
-      "path": "archive/2026/audio/Behind The Scene Video Klip “Sambutlah (Hybrid Version)” ｜ Podcast Rinjani Radio Depok.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Bukan Cuma Ngobrol, Uprealband Juga puterin “Lepaslah” Versi Reggae di Rinjani Radio Depok.mp3",
-      "path": "archive/2026/audio/Bukan Cuma Ngobrol, Uprealband Juga puterin “Lepaslah” Versi Reggae di Rinjani Radio Depok.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Cerita di Balik Pembangunan Studio Musik Uprealband ｜ Berawal dari Tender Kaos.mp3",
-      "path": "archive/2026/audio/Cerita di Balik Pembangunan Studio Musik Uprealband ｜ Berawal dari Tender Kaos.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Dari jualan kaos sablon hingga bangun studio rekaman sendiri juga album CD.mp3",
-      "path": "archive/2026/audio/Dari jualan kaos sablon hingga bangun studio rekaman sendiri juga album CD.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Gerry Uprealband： Skill Bukan Segalanya… Ini yang Lebih Penting!.mp3",
-      "path": "archive/2026/audio/Gerry Uprealband： Skill Bukan Segalanya… Ini yang Lebih Penting!.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Hampir Meruntuhkan Mall! Kisah Gila Manggung Uprealband yang Nyaris Jadi Bencana.mp3",
-      "path": "archive/2026/audio/Hampir Meruntuhkan Mall! Kisah Gila Manggung Uprealband yang Nyaris Jadi Bencana.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3",
-      "path": "archive/2026/audio/Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "KETIKA WAKTU JADI LEBIH BERHARGA DARI UANG.mp3",
-      "path": "archive/2026/audio/KETIKA WAKTU JADI LEBIH BERHARGA DARI UANG.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "KISAH GILA UPREAL STUDIO Dibangun Remaja, Dipakai Artis & Instansi.mp3",
-      "path": "archive/2026/audio/KISAH GILA UPREAL STUDIO Dibangun Remaja, Dipakai Artis & Instansi.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Lagu uprealband lepaslah teruji dikalangan pakar audio.mp3",
-      "path": "archive/2026/audio/Lagu uprealband lepaslah teruji dikalangan pakar audio.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Musik AI berbahaya？ Apa pendapat bany uprealband.mp3",
-      "path": "archive/2026/audio/Musik AI berbahaya？ Apa pendapat bany uprealband.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Perjalanan uprealband dari gang sempit hingga pita global - 2004 hingga sekarang.mp3",
-      "path": "archive/2026/audio/Perjalanan uprealband dari gang sempit hingga pita global - 2004 hingga sekarang.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Podcast ： UPREALBAND ANTI-DSP ？ BENARKAH.mp3",
-      "path": "archive/2026/audio/Podcast ： UPREALBAND ANTI-DSP ？ BENARKAH.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Rahasia Kenapa Uprealband Masih Bertahan ｜ Kisah Band Indie yang Menolak Bubar.mp3",
-      "path": "archive/2026/audio/Rahasia Kenapa Uprealband Masih Bertahan ｜ Kisah Band Indie yang Menolak Bubar.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Rahasia uprealband menang festival band, jadi guest start hingga dibayar kalo manggung.mp3",
-      "path": "archive/2026/audio/Rahasia uprealband menang festival band, jadi guest start hingga dibayar kalo manggung.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Saat Lagu Kami Diputar Setiap Hari di Radio, dan Sebuah Telepon dari Label Datang, lalu.mp3",
-      "path": "archive/2026/audio/Saat Lagu Kami Diputar Setiap Hari di Radio, dan Sebuah Telepon dari Label Datang, lalu.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "SEBELUM FUNKY KOPRAL, HENDRY REKAMAN DI UPREALBAND？! ,(arsip langka indie band 2000an).mp3",
-      "path": "archive/2026/audio/SEBELUM FUNKY KOPRAL, HENDRY REKAMAN DI UPREALBAND？! ,(arsip langka indie band 2000an).mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Sebelum Instagram & TikTok, UprealBand Sudah Punya Forum Internet! 😱 ｜ Nostalgia 2009.mp3",
-      "path": "archive/2026/audio/Sebelum Instagram & TikTok, UprealBand Sudah Punya Forum Internet! 😱 ｜ Nostalgia 2009.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Sebelum Spotify Populer, Band Indie Depok Ini Sudah Bikin Aplikasi Musik Sendiri.mp3",
-      "path": "archive/2026/audio/Sebelum Spotify Populer, Band Indie Depok Ini Sudah Bikin Aplikasi Musik Sendiri.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Sebelum Suno Viral, Software Jadul Ini Sudah Bisa Bikin Musik Otomatis 😳 ｜ Band-in-a-Box 2007.mp3",
-      "path": "archive/2026/audio/Sebelum Suno Viral, Software Jadul Ini Sudah Bisa Bikin Musik Otomatis 😳 ｜ Band-in-a-Box 2007.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Tiba-Tiba Muncul dari Masa Lalu… Kisah Cewek yang Pernah Hampir Masuk Video Klip Uprealband!.mp3",
-      "path": "archive/2026/audio/Tiba-Tiba Muncul dari Masa Lalu… Kisah Cewek yang Pernah Hampir Masuk Video Klip Uprealband!.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "track-01-operasi-merayu-gerry.mp3",
-      "path": "archive/2026/audio/track-01-operasi-merayu-gerry.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband Comeback Diam-Diam… Lagu Barunya Bikin Ayah Nahan Nangis 😭 ｜ Rinjani Radio Depok.mp3",
-      "path": "archive/2026/audio/Uprealband Comeback Diam-Diam… Lagu Barunya Bikin Ayah Nahan Nangis 😭 ｜ Rinjani Radio Depok.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband di Candi Prambanan： Proses Cipta Lagu Langsung di TKP ｜ Podcast Rinjani Depok Online.mp3",
-      "path": "archive/2026/audio/Uprealband di Candi Prambanan： Proses Cipta Lagu Langsung di TKP ｜ Podcast Rinjani Depok Online.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Biarkan-Cintamu-Funk-Soul-Hybrid.mp3",
-      "path": "archive/2026/audio/Uprealband-Biarkan-Cintamu-Funk-Soul-Hybrid.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Ku-Menantimu-Akustik-Hybrid.mp3",
-      "path": "archive/2026/audio/Uprealband-Ku-Menantimu-Akustik-Hybrid.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Lepaslah-AI-EDM-Version.mp3",
-      "path": "archive/2026/audio/Uprealband-Lepaslah-AI-EDM-Version.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Lepaslah-English-AI-Version.mp3",
-      "path": "archive/2026/audio/Uprealband-Lepaslah-English-AI-Version.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Sambutlah-AI-Orkestra-Version.mp3",
-      "path": "archive/2026/audio/Uprealband-Sambutlah-AI-Orkestra-Version.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Sambutlah-Anthem-Rock-AI-Version.mp3",
-      "path": "archive/2026/audio/Uprealband-Sambutlah-Anthem-Rock-AI-Version.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Sambutlah-Groove-Hybrid.mp3",
-      "path": "archive/2026/audio/Uprealband-Sambutlah-Groove-Hybrid.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Sambutlah-House-AI-Version.mp3",
-      "path": "archive/2026/audio/Uprealband-Sambutlah-House-AI-Version.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Sambutlah-Reggae-Hybrid.mp3",
-      "path": "archive/2026/audio/Uprealband-Sambutlah-Reggae-Hybrid.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "Uprealband-Tetap-Menyala-Akustik-Hybrid.mp3",
-      "path": "archive/2026/audio/Uprealband-Tetap-Menyala-Akustik-Hybrid.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "WORKFLOW MASA KINI BERHASIL, KINI PUSING MAU RILIS YANG MANA DULU!.mp3",
-      "path": "archive/2026/audio/WORKFLOW MASA KINI BERHASIL, KINI PUSING MAU RILIS YANG MANA DULU!.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
-      "name": "WORKFLOW MUSISI INDIE MASA KINI ｜ Ngulik Musik, Teknologi dan Studio dari Mana Saja.mp3",
-      "path": "archive/2026/audio/WORKFLOW MUSISI INDIE MASA KINI ｜ Ngulik Musik, Teknologi dan Studio dari Mana Saja.mp3"
-    },
-    {
-      "year": "2026",
       "category": "videos",
       "type": "file",
       "name": "2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4",
@@ -910,224 +462,187 @@
     "2004": {
       "photos": 0,
       "documents": 0,
-      "videos": 1,
-      "audio": 0
+      "videos": 1
     },
     "2005": {
       "photos": 0,
       "documents": 0,
-      "videos": 1,
-      "audio": 0
+      "videos": 1
     },
     "2006": {
       "photos": 0,
       "documents": 0,
-      "videos": 1,
-      "audio": 0
+      "videos": 1
     },
     "2007": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 1
+      "videos": 0
     },
     "2008": {
       "photos": 0,
       "documents": 0,
-      "videos": 1,
-      "audio": 0
+      "videos": 1
     },
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 6,
-      "audio": 2
+      "videos": 6
     },
     "2010": {
       "photos": 4,
       "documents": 0,
-      "videos": 5,
-      "audio": 7
+      "videos": 6
     },
     "2011": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 7
+      "videos": 0
     },
     "2012": {
       "photos": 8,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2013": {
       "photos": 10,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2014": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2015": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2016": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2017": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2018": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2019": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2020": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2021": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2022": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2023": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2024": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2025": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2026": {
       "photos": 0,
       "documents": 0,
-      "videos": 3,
-      "audio": 48
+      "videos": 3
     },
     "2027": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2028": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2029": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2030": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2031": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2032": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2033": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2034": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2035": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2036": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2037": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2038": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2039": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     },
     "2040": {
       "photos": 0,
       "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "videos": 0
     }
   }
 }
