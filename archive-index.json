@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T14:33:49.650080+00:00",
+  "generatedAt": "2026-09-15T14:37:27.729826+00:00",
   "items": [
     {
       "year": "2004",
@@ -307,6 +307,13 @@
       "year": "2010",
       "category": "videos",
       "type": "file",
+      "name": "2010-07-26-cover-by-Sandra-uprealistic-tin-yiu-garden, hongkong.mp4",
+      "path": "archive/2010/videos/2010-07-26-cover-by-Sandra-uprealistic-tin-yiu-garden, hongkong.mp4"
+    },
+    {
+      "year": "2010",
+      "category": "videos",
+      "type": "file",
       "name": "2010-09-08-uprealband-persiapan-mau-berangkat-manggung-Gerry-jon-bany-apoy.mp4",
       "path": "archive/2010/videos/2010-09-08-uprealband-persiapan-mau-berangkat-manggung-Gerry-jon-bany-apoy.mp4"
     },
@@ -499,7 +506,7 @@
     "2010": {
       "photos": 4,
       "documents": 0,
-      "videos": 7
+      "videos": 8
     },
     "2011": {
       "photos": 0,
