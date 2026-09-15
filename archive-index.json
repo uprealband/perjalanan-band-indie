@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T19:37:03.750614+00:00",
+  "generatedAt": "2026-09-15T19:44:32.043355+00:00",
   "items": [
     {
       "year": "2004",
@@ -1140,6 +1140,13 @@
       "year": "2009",
       "category": "documents",
       "type": "file",
+      "name": "2009-uprealband-bikin-event-free-mixing-mastering-bagi-band-lain-ini-yg-lolos-seleksi.jpg",
+      "path": "archive/2009/documents/2009-uprealband-bikin-event-free-mixing-mastering-bagi-band-lain-ini-yg-lolos-seleksi.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
       "name": "2009-x-banner-design-depok-hole.jpg",
       "path": "archive/2009/documents/2009-x-banner-design-depok-hole.jpg"
     },
@@ -1767,7 +1774,7 @@
     },
     "2009": {
       "photos": 105,
-      "documents": 11,
+      "documents": 12,
       "videos": 12
     },
     "2010": {
