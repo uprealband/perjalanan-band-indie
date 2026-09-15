@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T06:03:52.510001+00:00",
+  "generatedAt": "2026-09-15T06:07:41.376363+00:00",
   "items": [
     {
       "year": "2005",
@@ -199,6 +199,13 @@
       "path": "archive/2009/documents/komunitas-depok-hole/2009-x-banner-design-depok-hole.jpg"
     },
     {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2009-08-01-Uprealband-Apoy-take-drum-let's dance-Markas-Studio-Depok.mp4",
+      "path": "archive/2009/videos/2009-08-01-Uprealband-Apoy-take-drum-let's dance-Markas-Studio-Depok.mp4"
+    },
+    {
       "year": "2012",
       "category": "photos",
       "type": "dir",
@@ -382,7 +389,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 0
+      "videos": 1
     },
     "2010": {
       "photos": 0,
