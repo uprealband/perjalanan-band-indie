@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T14:44:56.118471+00:00",
+  "generatedAt": "2026-09-15T14:48:33.556688+00:00",
   "items": [
     {
       "year": "2004",
@@ -211,6 +211,13 @@
       "type": "file",
       "name": "2009-x-banner-design-depok-hole.jpg",
       "path": "archive/2009/documents/2009-x-banner-design-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "videos",
+      "type": "file",
+      "name": "2009-05-30-uprealband-lepaslah-pasar-seni-ancol-bany-jon-gerry-apoy.mp4",
+      "path": "archive/2009/videos/2009-05-30-uprealband-lepaslah-pasar-seni-ancol-bany-jon-gerry-apoy.mp4"
     },
     {
       "year": "2009",
@@ -515,7 +522,7 @@
     "2009": {
       "photos": 13,
       "documents": 11,
-      "videos": 6
+      "videos": 7
     },
     "2010": {
       "photos": 4,
