@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T08:16:28.404433+00:00",
+  "generatedAt": "2026-09-15T08:19:31.885568+00:00",
   "items": [
     {
       "year": "2004",
@@ -258,6 +258,13 @@
       "year": "2010",
       "category": "videos",
       "type": "file",
+      "name": "2009-10-11-Gerry-Aga-latihan-barang.mp4",
+      "path": "archive/2010/videos/2009-10-11-Gerry-Aga-latihan-barang.mp4"
+    },
+    {
+      "year": "2010",
+      "category": "videos",
+      "type": "file",
       "name": "2010-05-31-Cover-antara-kita-uprealband-by-Sandra-uprealistic-Hongkong.mp4",
       "path": "archive/2010/videos/2010-05-31-Cover-antara-kita-uprealband-by-Sandra-uprealistic-Hongkong.mp4"
     },
@@ -471,7 +478,7 @@
     "2010": {
       "photos": 0,
       "documents": 0,
-      "videos": 3
+      "videos": 4
     },
     "2011": {
       "photos": 0,
