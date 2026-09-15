@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T08:19:31.885568+00:00",
+  "generatedAt": "2026-09-15T08:23:31.797437+00:00",
   "items": [
     {
       "year": "2004",
@@ -272,6 +272,13 @@
       "year": "2010",
       "category": "videos",
       "type": "file",
+      "name": "2010-05-31-cover-by-Sandra-uprealistic-pantai-hongkong.mp4",
+      "path": "archive/2010/videos/2010-05-31-cover-by-Sandra-uprealistic-pantai-hongkong.mp4"
+    },
+    {
+      "year": "2010",
+      "category": "videos",
+      "type": "file",
       "name": "2010-07-03-uprealband-Antara-Kita-cuma-Kita-TVRI-bany-jon-gerry-aga.mp4",
       "path": "archive/2010/videos/2010-07-03-uprealband-Antara-Kita-cuma-Kita-TVRI-bany-jon-gerry-aga.mp4"
     },
@@ -478,7 +485,7 @@
     "2010": {
       "photos": 0,
       "documents": 0,
-      "videos": 4
+      "videos": 5
     },
     "2011": {
       "photos": 0,
