@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-15T09:20:48.246292+00:00",
+  "generatedAt": "2026-09-15T09:23:03.448313+00:00",
   "items": [
     {
       "year": "2004",
@@ -566,6 +566,76 @@
       "photos": 0,
       "documents": 0,
       "videos": 3
+    },
+    "2027": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2028": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2029": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2030": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2031": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2032": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2033": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2034": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2035": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2036": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2037": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2038": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2039": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
+    },
+    "2040": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0
     }
   }
 }
