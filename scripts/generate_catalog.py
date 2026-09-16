@@ -10,6 +10,8 @@ TRACK_ROOT = ROOT / "track"
 OUTPUT = ROOT / "catalog.json"
 RAW_BASE = "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/"
 ARTWORK_ROOT = ROOT / "artwork"
+PREVIOUS_CATALOG = ROOT / "catalog.json"
+ARCHIVE_ROOT = ROOT / "archive"
 
 
 def clean(value):
@@ -108,11 +110,83 @@ def cover_for(item_id, audio=None, explicit_cover=""):
     return ""
 
 
-def path_type(path):
-    rel_parts = path.relative_to(AUDIO_ROOT).parts
-    if rel_parts and rel_parts[0].lower() == "podcast":
-        return "podcast"
-    return "music"
+def previous_audio_index():
+    """Index the previous catalog so a physical file move does not erase its Karya metadata."""
+    index = {}
+    if not PREVIOUS_CATALOG.exists():
+        return index
+    try:
+        data = json.loads(PREVIOUS_CATALOG.read_text(encoding="utf-8"))
+    except Exception:
+        return index
+
+    from urllib.parse import urlparse, unquote
+
+    for key in ("tracks", "podcasts"):
+        for item in data.get(key, []):
+            audio_url = clean(item.get("audio"))
+            if audio_url:
+                name = Path(unquote(urlparse(audio_url).path)).name.lower()
+                if name:
+                    index[f"file:{name}"] = item
+            item_id = clean(item.get("id")).lower()
+            if item_id:
+                index[f"id:{item_id}"] = item
+    return index
+
+
+def audio_candidates():
+    """
+    Production audio source is archive/YYYY/audio/.
+    Legacy audio/ remains a migration fallback only, and archive files win
+    when the same basename exists in both locations.
+    """
+    candidates = []
+    archive_names = set()
+
+    if ARCHIVE_ROOT.exists():
+        for year_dir in sorted(ARCHIVE_ROOT.iterdir()):
+            if not year_dir.is_dir() or not re.fullmatch(r"(?:19|20)\d{2}", year_dir.name):
+                continue
+            audio_dir = year_dir / "audio"
+            if not audio_dir.exists():
+                continue
+            for path in sorted(audio_dir.rglob("*")):
+                if path.is_file() and path.suffix.lower() == ".mp3":
+                    candidates.append(path)
+                    archive_names.add(path.name.lower())
+
+    if AUDIO_ROOT.exists():
+        for path in sorted(AUDIO_ROOT.rglob("*")):
+            if not path.is_file() or path.suffix.lower() != ".mp3":
+                continue
+            if path.name.lower() in archive_names:
+                continue
+            candidates.append(path)
+
+    return candidates
+
+
+def previous_item_for(path, previous_index):
+    from urllib.parse import unquote, urlparse
+
+    name = path.name.lower()
+    item = previous_index.get(f"file:{name}")
+    if item:
+        return item
+
+    try:
+        audio, tags, title, artist, album, genre, year = read_common(path)
+        version = version_from_filename(path, title)
+        key = slug(f"{title}-{version}").lower()
+        if key:
+            item = previous_index.get(f"id:{key}")
+            if item:
+                return item
+    except Exception:
+        pass
+
+    return None
 
 
 def read_common(path):
@@ -128,12 +202,35 @@ def read_common(path):
     return audio, tags, title, artist, album, genre, year
 
 
-def make_track(path):
+def make_track(path, previous=None):
     rel = path.relative_to(ROOT).as_posix()
     audio, tags, title, artist, album, genre, year = read_common(path)
     version = version_from_filename(path, title)
-    rel_audio = path.relative_to(AUDIO_ROOT)
-    universe = rel_audio.parts[0].upper() if len(rel_audio.parts) > 1 else ""
+
+    # Karya universe is metadata, not folder structure.
+    universe = (
+        txxx(tags, "UNIVERSE") or
+        txxx(tags, "KARYA_UNIVERSE") or
+        clean((previous or {}).get("universe"))
+    ).strip().upper()
+
+    # Transitional fallback only for genuinely new files.
+    if not universe:
+        for candidate in (album, genre, version, title):
+            probe = str(candidate).lower()
+            if "hybrid" in probe:
+                universe = "HYBRID"
+                break
+            if "soundtrack" in probe:
+                universe = "SOUNDTRACK"
+                break
+            if "cover" in probe:
+                universe = "COVER"
+                break
+            if "album" in probe or "mini album" in probe or "live" in probe:
+                universe = "ALBUM"
+                break
+
     track_id = slug(f"{title}-{version}") or slug(path.stem)
     return {
         "id": track_id,
@@ -145,15 +242,15 @@ def make_track(path):
         "genre": genre,
         "version": version,
         "universe": universe,
-        "cover": cover_for(track_id, audio),
+        "cover": cover_for(track_id, audio, clean((previous or {}).get("cover"))),
         "audio": RAW_BASE + rel,
         "duration": duration_of(audio),
-        "releaseDate": release_date(tags),
-        "featured": False,
+        "releaseDate": release_date(tags) or clean((previous or {}).get("releaseDate")),
+        "featured": bool((previous or {}).get("featured", False)),
     }
 
 
-def make_podcast(path):
+def make_podcast(path, previous=None):
     rel = path.relative_to(ROOT).as_posix()
     audio, tags, title, artist, album, genre, year = read_common(path)
 
@@ -428,18 +525,20 @@ def main():
     tracks = make_archive_photos()
     podcasts = []
     stories = load_stories()
+    previous_index = previous_audio_index()
 
-    if AUDIO_ROOT.exists():
-        for path in sorted(AUDIO_ROOT.rglob("*")):
-            if not path.is_file() or path.suffix.lower() != ".mp3":
-                continue
-            try:
-                if path_type(path) == "podcast":
-                    podcasts.append(make_podcast(path))
-                else:
-                    tracks.append(make_track(path))
-            except Exception as exc:
-                print(f"[WARN] Skip {path}: {exc}")
+    for path in audio_candidates():
+        try:
+            previous = previous_item_for(path, previous_index)
+            tags = read_common(path)[1]
+            is_podcast = bool(previous and previous.get("type") == "podcast") or txxx(tags, "TYPE").lower() == "podcast"
+
+            if is_podcast:
+                podcasts.append(make_podcast(path, previous))
+            else:
+                tracks.append(make_track(path, previous))
+        except Exception as exc:
+            print(f"[WARN] Skip {path}: {exc}")
 
     tracks.sort(
         key=lambda x: (x["releaseDate"] or "0000-00-00", x["title"].lower()),
