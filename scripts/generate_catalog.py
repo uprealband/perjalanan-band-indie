@@ -214,6 +214,17 @@ def make_track(path, previous=None):
         clean((previous or {}).get("universe"))
     ).strip().upper()
 
+    # Deterministic legacy/production mappings for known UprealBand releases.
+    # Explicit UNIVERSE metadata and preserved previous metadata always win.
+    if not universe:
+        version_probe = version.lower()
+        album_probe = album.lower()
+        genre_probe = genre.lower()
+        if album_probe == "re-evolution" and re.search(r"ai", version_probe):
+            universe = "HYBRID"
+        elif album_probe == "evolution" and re.search(r"original", version_probe):
+            universe = "ALBUM"
+
     # Transitional fallback only for genuinely new files.
     if not universe:
         for candidate in (album, genre, version, title):
@@ -536,13 +547,25 @@ def main():
             explicit_type = txxx(tags, "TYPE").lower()
 
             # Folder names are NOT semantic types. The legacy track/ directory
-            # contains Story source files; audio classification must come from
-            # explicit metadata or unambiguous Podcast metadata.
+            # contains Story source files. Classify by explicit metadata first,
+            # then by a small, documented legacy-content rule for known radio/
+            # interview recordings whose old files have no podcast tag.
+            title_raw = clean(read_common(path)[2])
+            version_raw = clean(read_common(path)[3])
+            legacy_text = " ".join((title_raw, version_raw, clean(read_common(path)[4]), clean(read_common(path)[5]))).lower()
+
+            is_radio_archive = bool(re.search(
+                r"wawancara|indie radio|indiemania|madu fm|djwirya|radio asia|pop fm|air ?play|airplay",
+                legacy_text,
+                flags=re.I,
+            ))
+
             is_podcast = (
                 bool(previous and previous.get("type") == "podcast")
                 or explicit_type == "podcast"
                 or album == "podcast"
                 or genre == "podcast"
+                or is_radio_archive
             )
 
             if is_podcast:
