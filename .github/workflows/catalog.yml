@@ -162,6 +162,7 @@ jobs:
           ROOT = Path('archive')
           META_EXT = {'.txt', '.json', '.md', '.yml', '.yaml'}
           VIDEO_EXT = {'.mp4', '.webm', '.mov', '.m4v', '.ogv'}
+          AUDIO_EXT = {'.mp3', '.wav', '.m4a', '.aac', '.flac', '.ogg', '.oga'}
 
           items = []
           photos = []
@@ -172,9 +173,9 @@ jobs:
                   if not year_dir.is_dir() or not year_dir.name.isdigit() or len(year_dir.name) != 4:
                       continue
                   year = year_dir.name
-                  years.setdefault(year, {'photos': 0, 'documents': 0, 'videos': 0})
+                  years.setdefault(year, {'photos': 0, 'documents': 0, 'videos': 0, 'audio': 0})
 
-                  for category in ('photos', 'documents', 'videos'):
+                  for category in ('photos', 'documents', 'videos', 'audio'):
                       base = year_dir / category
                       if not base.exists():
                           continue
@@ -187,6 +188,8 @@ jobs:
                           if p.name.lower() in {'readme.md', '.gitkeep'} or ext in META_EXT:
                               continue
                           if category == 'videos' and ext not in VIDEO_EXT:
+                              continue
+                          if category == 'audio' and ext not in AUDIO_EXT:
                               continue
                           if category == 'photos' and ext not in {'.jpg', '.jpeg', '.png', '.webp', '.gif'}:
                               continue
