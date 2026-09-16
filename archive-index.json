@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T09:16:38.721544+00:00",
+  "generatedAt": "2026-09-16T09:20:02.842273+00:00",
   "items": [
     {
       "year": "2004",
@@ -1565,6 +1565,125 @@
     },
     {
       "year": "2011",
+      "category": "photos",
+      "type": "dir",
+      "name": "akustik depok town square",
+      "path": "archive/2011/photos/akustik depok town square"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustik detos 18 jan 2011 e.jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustik detos 18 jan 2011 e.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustik detos 18 jan 2011-aryo-mc (2).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustik detos 18 jan 2011-aryo-mc (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustik detos 18 jan 2011-aryo-MC.jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustik detos 18 jan 2011-aryo-MC.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustik detos 18 jan 2011-jon.jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustik detos 18 jan 2011-jon.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustik detos 18 jan 2011-penonton.jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustik detos 18 jan 2011-penonton.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (2).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (3).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (3).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (4).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (4).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (5).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (5).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (6).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (6).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (7).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (7).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (8).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (8).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (9).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany (9).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany.jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-aga-gerry-jon-harvi-bany.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-harvi-bany (2).jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-harvi-bany (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "akustikdetos-18-01-2011-harvi-bany.jpg",
+      "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-harvi-bany.jpg"
+    },
+    {
+      "year": "2011",
       "category": "documents",
       "type": "file",
       "name": "2011-com.uprealband.com.apk",
@@ -1783,7 +1902,7 @@
       "videos": 9
     },
     "2011": {
-      "photos": 0,
+      "photos": 16,
       "documents": 5,
       "videos": 0
     },
