@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T09:23:09.415935+00:00",
+  "generatedAt": "2026-09-16T09:31:25.234422+00:00",
   "items": [
     {
       "year": "2004",
@@ -1237,6 +1237,286 @@
     {
       "year": "2010",
       "category": "photos",
+      "type": "dir",
+      "name": "1000 bands united",
+      "path": "archive/2010/photos/1000 bands united"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000 bands united 17-19 des 2010.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000 bands united 17-19 des 2010.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-3-jon-bany.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-3-jon-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (10).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (10).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (11).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (11).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (12).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (12).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (2).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (3).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (4).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (4).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (5).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (5).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (6).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (6).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (7).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (7).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (8).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (8).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany (9).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany (9).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (2).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (3).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (4).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (4).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (5).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (5).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (6).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (6).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (7).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (7).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (8).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (8).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon (9).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon (9).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany-jon.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany-jon.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-bany.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-gerry-bany-.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-gerry-bany-.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-gerry-bany-jon (2).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-gerry-bany-jon (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-gerry-bany-jon (3).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-gerry-bany-jon (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-gerry-bany-jon-derry (2).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-gerry-bany-jon-derry (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-gerry-bany-jon-derry.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-gerry-bany-jon-derry.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-gerry-bany-jon.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-gerry-bany-jon.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-gerry-bany.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-gerry-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon-bany (2).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon-bany (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon-bany (3).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon-bany (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon-bany (4).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon-bany (4).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon-bany (5).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon-bany (5).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon-bany (6).jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon-bany (6).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon-bany-gerry.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon-bany-gerry.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon-bany.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "1000bandsUnited-uprealband-jon.jpg",
+      "path": "archive/2010/photos/1000 bands united/1000bandsUnited-uprealband-jon.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-1000 bands united bany derry jon gerry.jpg",
+      "path": "archive/2010/photos/1000 bands united/2010-1000 bands united bany derry jon gerry.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
       "type": "file",
       "name": "2010-cd album evolution a.jpg",
       "path": "archive/2010/photos/2010-cd album evolution a.jpg"
@@ -1897,7 +2177,7 @@
       "videos": 12
     },
     "2010": {
-      "photos": 33,
+      "photos": 72,
       "documents": 5,
       "videos": 9
     },
