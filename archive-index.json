@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-16T15:03:13.192719+00:00",
+  "generatedAt": "2026-09-16T15:15:01.021536+00:00",
   "items": [
     {
       "year": "2004",
@@ -1128,6 +1128,13 @@
       "type": "file",
       "name": "2009-logo-depok-hole.jpg",
       "path": "archive/2009/documents/2009-logo-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-mp3 player uprealband-gerry-bany-jon-apoy.jpg",
+      "path": "archive/2009/documents/2009-mp3 player uprealband-gerry-bany-jon-apoy.jpg"
     },
     {
       "year": "2009",
@@ -3541,6 +3548,13 @@
     },
     {
       "year": "2026",
+      "category": "documents",
+      "type": "file",
+      "name": "2026-sebab-uprealband-eksis-kembali-di-2026.webp",
+      "path": "archive/2026/documents/2026-sebab-uprealband-eksis-kembali-di-2026.webp"
+    },
+    {
+      "year": "2026",
       "category": "videos",
       "type": "file",
       "name": "2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4",
@@ -3930,7 +3944,7 @@
     },
     "2009": {
       "photos": 105,
-      "documents": 12,
+      "documents": 13,
       "videos": 12,
       "audio": 2
     },
@@ -4032,7 +4046,7 @@
     },
     "2026": {
       "photos": 0,
-      "documents": 0,
+      "documents": 1,
       "videos": 3,
       "audio": 48
     },
