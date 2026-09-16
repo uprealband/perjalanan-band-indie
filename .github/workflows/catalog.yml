@@ -32,7 +32,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libreoffice
-          pip install mutagen pymupdf
+          pip install mutagen pymupdf pillow
 
       - name: Preserve previous catalog
         run: |
@@ -163,6 +163,8 @@ jobs:
           import subprocess
           import tempfile
           import fitz
+          from PIL import Image
+          import io
 
           ROOT = Path('archive')
           OUT = Path('archive/_thumbnails')
@@ -212,7 +214,9 @@ jobs:
                           raise ValueError('empty document')
                       page = doc[0]
                       pix = page.get_pixmap(matrix=fitz.Matrix(1.5, 1.5), alpha=False)
-                      pix.save(str(out), 'webp', quality=82)
+                      png_bytes = pix.tobytes('png')
+                      with Image.open(io.BytesIO(png_bytes)) as im:
+                          im.convert('RGB').save(str(out), 'WEBP', quality=82, method=6)
 
                   print(f'THUMB: {src} -> {out}')
                   if temp_dir:
