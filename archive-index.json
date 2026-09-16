@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T09:37:18.218689+00:00",
+  "generatedAt": "2026-09-16T09:38:36.737178+00:00",
   "items": [
     {
       "year": "2004",
@@ -1251,6 +1251,13 @@
     {
       "year": "2010",
       "category": "photos",
+      "type": "dir",
+      "name": "foto session",
+      "path": "archive/2010/photos/foto session"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
       "type": "file",
       "name": "1000 bands united 17-19 des 2010.jpg",
       "path": "archive/2010/photos/1000 bands united/1000 bands united 17-19 des 2010.jpg"
@@ -1775,6 +1782,132 @@
     },
     {
       "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady (2).jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-ady (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady (3).jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-ady (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady-ambar.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-ady-ambar.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-ady.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ambar-ady-sarah.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-ambar-ady-sarah.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ambar.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-ambar.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-bany.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-deai (9).jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-deai (9).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah (2).jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-sarah (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah (3).jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-sarah (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-ady.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-ady.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-ambar-ady-bany.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-ambar-ady-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-bany-ady-ambar.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-bany-ady-ambar.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-t-shirt-abum-evolution-sarah.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (2).jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (3).jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg",
+      "path": "archive/2010/photos/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg"
+    },
+    {
+      "year": "2010",
       "category": "documents",
       "type": "file",
       "name": "aplikasi RSS untuk Symbian Nokia (1).jpg",
@@ -2205,7 +2338,7 @@
       "videos": 12
     },
     "2010": {
-      "photos": 75,
+      "photos": 93,
       "documents": 5,
       "videos": 9
     },
