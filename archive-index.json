@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T12:06:29.398060+00:00",
+  "generatedAt": "2026-09-16T12:10:07.225354+00:00",
   "items": [
     {
       "year": "2004",
@@ -3212,6 +3212,13 @@
       "year": "2012",
       "category": "documents",
       "type": "file",
+      "name": "2012 - email Eterno Lucro.png",
+      "path": "archive/2012/documents/Eterno Lucro/2012 - email Eterno Lucro.png"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
       "name": "2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png",
       "path": "archive/2012/documents/Eterno Lucro/2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png"
     },
@@ -3364,7 +3371,7 @@
     },
     "2012": {
       "photos": 8,
-      "documents": 4,
+      "documents": 5,
       "videos": 0
     },
     "2013": {
