@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-16T15:15:01.021536+00:00",
+  "generatedAt": "2026-09-16T15:17:05.844933+00:00",
   "items": [
     {
       "year": "2004",
@@ -3184,6 +3184,20 @@
       "year": "2011",
       "category": "documents",
       "type": "file",
+      "name": "2011-02-14-wawancara-indie-radio-online (2).jpg",
+      "path": "archive/2011/documents/2011-02-14-wawancara-indie-radio-online (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "documents",
+      "type": "file",
+      "name": "2011-02-14-wawancara-indie-radio-online.jpg",
+      "path": "archive/2011/documents/2011-02-14-wawancara-indie-radio-online.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "documents",
+      "type": "file",
       "name": "2011-com.uprealband.com.apk",
       "path": "archive/2011/documents/2011-com.uprealband.com.apk"
     },
@@ -3956,7 +3970,7 @@
     },
     "2011": {
       "photos": 110,
-      "documents": 5,
+      "documents": 7,
       "videos": 0,
       "audio": 7
     },
