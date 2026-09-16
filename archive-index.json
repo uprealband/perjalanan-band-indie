@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-16T13:05:50.192599+00:00",
+  "generatedAt": "2026-09-16T13:11:05.533508+00:00",
   "items": [
     {
       "year": "2004",
@@ -3458,14 +3458,16 @@
       "category": "documents",
       "type": "file",
       "name": "Draft MOU eternolucro .pdf",
-      "path": "archive/2012/documents/Eterno Lucro/Draft MOU eternolucro .pdf"
+      "path": "archive/2012/documents/Eterno Lucro/Draft MOU eternolucro .pdf",
+      "thumbnail": "archive/_thumbnails/2012/documents/Eterno Lucro/Draft MOU eternolucro .webp"
     },
     {
       "year": "2012",
       "category": "documents",
       "type": "file",
       "name": "Eterno Lucro.pptx .pdf",
-      "path": "archive/2012/documents/Eterno Lucro/Eterno Lucro.pptx .pdf"
+      "path": "archive/2012/documents/Eterno Lucro/Eterno Lucro.pptx .pdf",
+      "thumbnail": "archive/_thumbnails/2012/documents/Eterno Lucro/Eterno Lucro.pptx .webp"
     },
     {
       "year": "2013",
