@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T10:52:58.347295+00:00",
+  "generatedAt": "2026-09-16T11:47:57.272194+00:00",
   "items": [
     {
       "year": "2004",
@@ -3195,6 +3195,13 @@
       "path": "archive/2012/photos/uprealband perform at members cafe cimanggis depok - unity music magazine-jon.jpg"
     },
     {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon.jpg",
+      "path": "archive/2012/documents/UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon.jpg"
+    },
+    {
       "year": "2013",
       "category": "photos",
       "type": "file",
@@ -3329,7 +3336,7 @@
     },
     "2012": {
       "photos": 8,
-      "documents": 0,
+      "documents": 1,
       "videos": 0
     },
     "2013": {
