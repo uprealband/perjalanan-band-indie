@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T09:51:36.335474+00:00",
+  "generatedAt": "2026-09-16T09:54:18.619544+00:00",
   "items": [
     {
       "year": "2004",
@@ -1651,6 +1651,27 @@
       "year": "2010",
       "category": "photos",
       "type": "file",
+      "name": "2010-markas-studio-recording-session.jpg",
+      "path": "archive/2010/photos/2010-markas-studio-recording-session.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-mixing-session-markas-studio-depok.jpg",
+      "path": "archive/2010/photos/2010-mixing-session-markas-studio-depok.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-nongkrong-markas-studio-depok-rowra-band-mbah-emil.jpg",
+      "path": "archive/2010/photos/2010-nongkrong-markas-studio-depok-rowra-band-mbah-emil.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
       "name": "2010-otw-to-senayan-TVRI.jpg",
       "path": "archive/2010/photos/2010-otw-to-senayan-TVRI.jpg"
     },
@@ -1707,6 +1728,13 @@
       "year": "2010",
       "category": "photos",
       "type": "file",
+      "name": "2010-pc-kasir-markas-studio-chebet.jpg",
+      "path": "archive/2010/photos/2010-pc-kasir-markas-studio-chebet.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
       "name": "2010-pemberian-tanda-tangan-cd-album-evolution-kepada-pembeli.jpg",
       "path": "archive/2010/photos/2010-pemberian-tanda-tangan-cd-album-evolution-kepada-pembeli.jpg"
     },
@@ -1716,6 +1744,48 @@
       "type": "file",
       "name": "2010-pengiriman-cd-album-ke-media.jpg",
       "path": "archive/2010/photos/2010-pengiriman-cd-album-ke-media.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-penjualan t-shirt uprealband-penyiapan-paket.jpg",
+      "path": "archive/2010/photos/2010-penjualan t-shirt uprealband-penyiapan-paket.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-photo-profile-facebook-uprealband.jpg",
+      "path": "archive/2010/photos/2010-photo-profile-facebook-uprealband.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-progress-mixing-klien-markas-studio.jpg",
+      "path": "archive/2010/photos/2010-progress-mixing-klien-markas-studio.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-promo-cd-album-evolution-di-TVRI.jpg",
+      "path": "archive/2010/photos/2010-promo-cd-album-evolution-di-TVRI.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-radio UR 105.9 FM RJ UNDERGROUND RADIO-PHILIPPINES 27 des 2010.jpg",
+      "path": "archive/2010/photos/2010-radio UR 105.9 FM RJ UNDERGROUND RADIO-PHILIPPINES 27 des 2010.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-uprealband-daftar-lokasi-google-map.jpg",
+      "path": "archive/2010/photos/2010-uprealband-daftar-lokasi-google-map.jpg"
     },
     {
       "year": "2010",
@@ -2569,7 +2639,7 @@
       "videos": 12
     },
     "2010": {
-      "photos": 107,
+      "photos": 117,
       "documents": 23,
       "videos": 9
     },
