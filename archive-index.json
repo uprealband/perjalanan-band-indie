@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T12:52:14.379Z",
+  "generatedAt": "2026-09-16T12:56:41.861577+00:00",
   "items": [
     {
       "year": "2004",
@@ -132,27 +132,6 @@
       "year": "2006",
       "category": "photos",
       "type": "file",
-      "name": "2006_Lapangan Anyelir Depok 1-a-bany-gerry-johan.jpg",
-      "path": "archive/2006/photos/2006_Lapangan Anyelir Depok 1-a-bany-gerry-johan.jpg"
-    },
-    {
-      "year": "2006",
-      "category": "photos",
-      "type": "file",
-      "name": "2006_Lapangan Anyelir Depok 1-b-gerry-apoy.jpg",
-      "path": "archive/2006/photos/2006_Lapangan Anyelir Depok 1-b-gerry-apoy.jpg"
-    },
-    {
-      "year": "2006",
-      "category": "photos",
-      "type": "file",
-      "name": "2006_UPREAL ANNIVERSARY.jpg",
-      "path": "archive/2006/photos/2006_UPREAL ANNIVERSARY.jpg"
-    },
-    {
-      "year": "2006",
-      "category": "photos",
-      "type": "file",
       "name": "2006-event-3-on-3-basket-ex-hero-margonda (11).jpg",
       "path": "archive/2006/photos/2006-event-3-on-3-basket-ex-hero-margonda (11).jpg"
     },
@@ -242,17 +221,31 @@
     },
     {
       "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006_Lapangan Anyelir Depok 1-a-bany-gerry-johan.jpg",
+      "path": "archive/2006/photos/2006_Lapangan Anyelir Depok 1-a-bany-gerry-johan.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006_Lapangan Anyelir Depok 1-b-gerry-apoy.jpg",
+      "path": "archive/2006/photos/2006_Lapangan Anyelir Depok 1-b-gerry-apoy.jpg"
+    },
+    {
+      "year": "2006",
+      "category": "photos",
+      "type": "file",
+      "name": "2006_UPREAL ANNIVERSARY.jpg",
+      "path": "archive/2006/photos/2006_UPREAL ANNIVERSARY.jpg"
+    },
+    {
+      "year": "2006",
       "category": "videos",
       "type": "file",
       "name": "2006-uprealband-live-Maaf-Harap-Maklum-Rock-Version-bany-jon-gerry-apoy-Depok-satu.mp4",
       "path": "archive/2006/videos/2006-uprealband-live-Maaf-Harap-Maklum-Rock-Version-bany-jon-gerry-apoy-Depok-satu.mp4"
-    },
-    {
-      "year": "2007",
-      "category": "audio",
-      "type": "file",
-      "name": "Air Play POP FM 103 Jakarta Raya - Lepaslah.mp3",
-      "path": "archive/2007/audio/Air Play POP FM 103 Jakarta Raya - Lepaslah.mp3"
     },
     {
       "year": "2007",
@@ -311,6 +304,13 @@
       "path": "archive/2007/videos/2007-uprealband-kompilasi-perform-tahun-2004-sd-2007.mp4"
     },
     {
+      "year": "2007",
+      "category": "audio",
+      "type": "file",
+      "name": "Air Play POP FM 103 Jakarta Raya - Lepaslah.mp3",
+      "path": "archive/2007/audio/Air Play POP FM 103 Jakarta Raya - Lepaslah.mp3"
+    },
+    {
       "year": "2008",
       "category": "photos",
       "type": "file",
@@ -337,104 +337,6 @@
       "type": "file",
       "name": "2009-10-25-Uprealband-live-caca-marica-lagu-daerah-Record-MURI-Kampus-Atmajaya-Jakarta.mp4",
       "path": "archive/2008/videos/2009-10-25-Uprealband-live-caca-marica-lagu-daerah-Record-MURI-Kampus-Atmajaya-Jakarta.mp4"
-    },
-    {
-      "year": "2009",
-      "category": "audio",
-      "type": "file",
-      "name": "Lepaslah - Original.mp3",
-      "path": "archive/2009/audio/Lepaslah - Original.mp3"
-    },
-    {
-      "year": "2009",
-      "category": "audio",
-      "type": "file",
-      "name": "Sambutlah - Original.mp3",
-      "path": "archive/2009/audio/Sambutlah - Original.mp3"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-depokhole-crew.jpg",
-      "path": "archive/2009/documents/2009-depokhole-crew.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-form-keanggotaan-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-form-keanggotaan-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-komunitas-depok-hole-sosok-dan-peran.jpg",
-      "path": "archive/2009/documents/2009-komunitas-depok-hole-sosok-dan-peran.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-kop-surat-depok-hole-variant.jpg",
-      "path": "archive/2009/documents/2009-kop-surat-depok-hole-variant.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-kop-surat-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-kop-surat-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-logo-depok-hole-color-sixteenhole.jpg",
-      "path": "archive/2009/documents/2009-logo-depok-hole-color-sixteenhole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-logo-depok-hole-variant.jpg",
-      "path": "archive/2009/documents/2009-logo-depok-hole-variant.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-logo-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-logo-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-plug-play-sample-event-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-plug-play-sample-event-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-sample-promosi-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-sample-promosi-depok-hole.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-uprealband-bikin-event-free-mixing-mastering-bagi-band-lain-ini-yg-lolos-seleksi.jpg",
-      "path": "archive/2009/documents/2009-uprealband-bikin-event-free-mixing-mastering-bagi-band-lain-ini-yg-lolos-seleksi.jpg"
-    },
-    {
-      "year": "2009",
-      "category": "documents",
-      "type": "file",
-      "name": "2009-x-banner-design-depok-hole.jpg",
-      "path": "archive/2009/documents/2009-x-banner-design-depok-hole.jpg"
     },
     {
       "year": "2009",
@@ -1173,6 +1075,90 @@
     },
     {
       "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-depokhole-crew.jpg",
+      "path": "archive/2009/documents/2009-depokhole-crew.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-form-keanggotaan-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-form-keanggotaan-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-komunitas-depok-hole-sosok-dan-peran.jpg",
+      "path": "archive/2009/documents/2009-komunitas-depok-hole-sosok-dan-peran.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-kop-surat-depok-hole-variant.jpg",
+      "path": "archive/2009/documents/2009-kop-surat-depok-hole-variant.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-kop-surat-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-kop-surat-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole-color-sixteenhole.jpg",
+      "path": "archive/2009/documents/2009-logo-depok-hole-color-sixteenhole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole-variant.jpg",
+      "path": "archive/2009/documents/2009-logo-depok-hole-variant.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-logo-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-logo-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-plug-play-sample-event-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-plug-play-sample-event-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-sample-promosi-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-sample-promosi-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-uprealband-bikin-event-free-mixing-mastering-bagi-band-lain-ini-yg-lolos-seleksi.jpg",
+      "path": "archive/2009/documents/2009-uprealband-bikin-event-free-mixing-mastering-bagi-band-lain-ini-yg-lolos-seleksi.jpg"
+    },
+    {
+      "year": "2009",
+      "category": "documents",
+      "type": "file",
+      "name": "2009-x-banner-design-depok-hole.jpg",
+      "path": "archive/2009/documents/2009-x-banner-design-depok-hole.jpg"
+    },
+    {
+      "year": "2009",
       "category": "videos",
       "type": "file",
       "name": "2009-05-30-uprealband-lepaslah-pasar-seni-ancol-bany-jon-gerry-apoy.mp4",
@@ -1256,221 +1242,18 @@
       "path": "archive/2009/videos/2009-uprealband-tour-jelajah-indonesia-yogyakarta-lagu-maaf-harap-maklum-bany-jon-gerry-apoy.mp4"
     },
     {
-      "year": "2010",
+      "year": "2009",
       "category": "audio",
       "type": "file",
-      "name": "air play radio asia Philipina - antara kita - Uprealband.mp3",
-      "path": "archive/2010/audio/air play radio asia Philipina - antara kita - Uprealband.mp3"
+      "name": "Lepaslah - Original.mp3",
+      "path": "archive/2009/audio/Lepaslah - Original.mp3"
     },
     {
-      "year": "2010",
+      "year": "2009",
       "category": "audio",
       "type": "file",
-      "name": "cover - antara kita Uprealband by Sandra uprealistic-pantai.mp3",
-      "path": "archive/2010/audio/cover - antara kita Uprealband by Sandra uprealistic-pantai.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "Cover Antara Kita Uprealband by Sandra.mp3",
-      "path": "archive/2010/audio/Cover Antara Kita Uprealband by Sandra.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "cover Lepaslah Uprealband by Sandra uprealistic di tin yiu garden hongkong.mp3",
-      "path": "archive/2010/audio/cover Lepaslah Uprealband by Sandra uprealistic di tin yiu garden hongkong.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3",
-      "path": "archive/2010/audio/Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3",
-      "path": "archive/2010/audio/uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
-      "name": "wawancara madu fm tulungagung - senin 27 september 2010 jam 7 pagi via phone.mp3",
-      "path": "archive/2010/audio/wawancara madu fm tulungagung - senin 27 september 2010 jam 7 pagi via phone.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "aplikasi RSS untuk Symbian Nokia (1).jpg",
-      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (1).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "aplikasi RSS untuk Symbian Nokia (2).jpg",
-      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (2).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "aplikasi RSS untuk Symbian Nokia (3).jpg",
-      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (3).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "aplikasi RSS untuk Symbian Nokia (4).jpg",
-      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (4).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "com.uprealband.com.jar",
-      "path": "archive/2010/documents/com.uprealband.com.jar"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "dir",
-      "name": "foto session",
-      "path": "archive/2010/documents/foto session"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-ady (2).jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady (2).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-ady (3).jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady (3).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-ady-ambar.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady-ambar.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-ady.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-ambar-ady-sarah.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ambar-ady-sarah.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-ambar.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ambar.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-bany.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-bany.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-deai (9).jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-deai (9).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-sarah (2).jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah (2).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-sarah (3).jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah (3).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-ady.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-ady.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-ambar-ady-bany.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-ambar-ady-bany.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-bany-ady-ambar.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-bany-ady-ambar.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-t-shirt-abum-evolution-sarah.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah.jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (2).jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (2).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (3).jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (3).jpg"
-    },
-    {
-      "year": "2010",
-      "category": "documents",
-      "type": "file",
-      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg",
-      "path": "archive/2010/documents/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg"
+      "name": "Sambutlah - Original.mp3",
+      "path": "archive/2009/audio/Sambutlah - Original.mp3"
     },
     {
       "year": "2010",
@@ -1478,6 +1261,20 @@
       "type": "dir",
       "name": "1000 bands united",
       "path": "archive/2010/photos/1000 bands united"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "dir",
+      "name": "event ramayana plaza depok",
+      "path": "archive/2010/photos/event ramayana plaza depok"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "dir",
+      "name": "event wapres bulungan jakarta",
+      "path": "archive/2010/photos/event wapres bulungan jakarta"
     },
     {
       "year": "2010",
@@ -2112,13 +1909,6 @@
     {
       "year": "2010",
       "category": "photos",
-      "type": "dir",
-      "name": "event ramayana plaza depok",
-      "path": "archive/2010/photos/event ramayana plaza depok"
-    },
-    {
-      "year": "2010",
-      "category": "photos",
       "type": "file",
       "name": "2010-event-ramayana-plaza-depok (2).jpg",
       "path": "archive/2010/photos/event ramayana plaza depok/2010-event-ramayana-plaza-depok (2).jpg"
@@ -2287,13 +2077,6 @@
     {
       "year": "2010",
       "category": "photos",
-      "type": "dir",
-      "name": "event wapres bulungan jakarta",
-      "path": "archive/2010/photos/event wapres bulungan jakarta"
-    },
-    {
-      "year": "2010",
-      "category": "photos",
       "type": "file",
       "name": "2010-wapres-bulungan-jon-bany (2).jpg",
       "path": "archive/2010/photos/event wapres bulungan jakarta/2010-wapres-bulungan-jon-bany (2).jpg"
@@ -2311,6 +2094,174 @@
       "type": "file",
       "name": "2010-wapres-bulungan-jon-bany.jpg",
       "path": "archive/2010/photos/event wapres bulungan jakarta/2010-wapres-bulungan-jon-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "dir",
+      "name": "foto session",
+      "path": "archive/2010/documents/foto session"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "aplikasi RSS untuk Symbian Nokia (1).jpg",
+      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (1).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "aplikasi RSS untuk Symbian Nokia (2).jpg",
+      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "aplikasi RSS untuk Symbian Nokia (3).jpg",
+      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "aplikasi RSS untuk Symbian Nokia (4).jpg",
+      "path": "archive/2010/documents/aplikasi RSS untuk Symbian Nokia (4).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "com.uprealband.com.jar",
+      "path": "archive/2010/documents/com.uprealband.com.jar"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady (2).jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady (3).jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady-ambar.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady-ambar.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ady.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ady.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ambar-ady-sarah.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ambar-ady-sarah.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-ambar.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-ambar.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-bany.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-deai (9).jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-deai (9).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah (2).jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah (3).jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-ady.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-ady.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-ambar-ady-bany.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-ambar-ady-bany.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah-bany-ady-ambar.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah-bany-ady-ambar.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-t-shirt-abum-evolution-sarah.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-t-shirt-abum-evolution-sarah.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (2).jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (3).jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "documents",
+      "type": "file",
+      "name": "2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg",
+      "path": "archive/2010/documents/foto session/2010-foto-session-wallpaper-museum-fatahila-jakarta-kota-jon-gerry-bany-apoy.jpg"
     },
     {
       "year": "2010",
@@ -2376,88 +2327,53 @@
       "path": "archive/2010/videos/2010-09-09-Harvi-Uprealistic-Cover-BCM-Biarkan-Cinta-Mengalir-Depok.mp4"
     },
     {
-      "year": "2011",
+      "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3",
-      "path": "archive/2011/audio/Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3"
+      "name": "air play radio asia Philipina - antara kita - Uprealband.mp3",
+      "path": "archive/2010/audio/air play radio asia Philipina - antara kita - Uprealband.mp3"
     },
     {
-      "year": "2011",
+      "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "wawancara djwirya.com-part-1.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-1.mp3"
+      "name": "cover - antara kita Uprealband by Sandra uprealistic-pantai.mp3",
+      "path": "archive/2010/audio/cover - antara kita Uprealband by Sandra uprealistic-pantai.mp3"
     },
     {
-      "year": "2011",
+      "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "wawancara djwirya.com-part-2.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-2.mp3"
+      "name": "Cover Antara Kita Uprealband by Sandra.mp3",
+      "path": "archive/2010/audio/Cover Antara Kita Uprealband by Sandra.mp3"
     },
     {
-      "year": "2011",
+      "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "wawancara djwirya.com-part-3.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-3.mp3"
+      "name": "cover Lepaslah Uprealband by Sandra uprealistic di tin yiu garden hongkong.mp3",
+      "path": "archive/2010/audio/cover Lepaslah Uprealband by Sandra uprealistic di tin yiu garden hongkong.mp3"
     },
     {
-      "year": "2011",
+      "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "wawancara djwirya.com-part-4.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-4.mp3"
+      "name": "Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3",
+      "path": "archive/2010/audio/Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3"
     },
     {
-      "year": "2011",
+      "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "wawancara djwirya.com-part-5.mp3",
-      "path": "archive/2011/audio/wawancara djwirya.com-part-5.mp3"
+      "name": "uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3",
+      "path": "archive/2010/audio/uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3"
     },
     {
-      "year": "2011",
+      "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "wawancara uprealband di indie radio online - 14 februari 2011.mp3",
-      "path": "archive/2011/audio/wawancara uprealband di indie radio online - 14 februari 2011.mp3"
-    },
-    {
-      "year": "2011",
-      "category": "documents",
-      "type": "file",
-      "name": "2011-com.uprealband.com.apk",
-      "path": "archive/2011/documents/2011-com.uprealband.com.apk"
-    },
-    {
-      "year": "2011",
-      "category": "documents",
-      "type": "file",
-      "name": "2011-tampilan-aplikasi-android-uprealband (1).png",
-      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (1).png"
-    },
-    {
-      "year": "2011",
-      "category": "documents",
-      "type": "file",
-      "name": "2011-tampilan-aplikasi-android-uprealband (2).png",
-      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (2).png"
-    },
-    {
-      "year": "2011",
-      "category": "documents",
-      "type": "file",
-      "name": "2011-tampilan-aplikasi-android-uprealband (3).png",
-      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (3).png"
-    },
-    {
-      "year": "2011",
-      "category": "documents",
-      "type": "file",
-      "name": "2011-tampilan-aplikasi-android-uprealband (4).png",
-      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (4).png"
+      "name": "wawancara madu fm tulungagung - senin 27 september 2010 jam 7 pagi via phone.mp3",
+      "path": "archive/2010/audio/wawancara madu fm tulungagung - senin 27 september 2010 jam 7 pagi via phone.mp3"
     },
     {
       "year": "2011",
@@ -2465,6 +2381,27 @@
       "type": "dir",
       "name": "akustik depok town square",
       "path": "archive/2011/photos/akustik depok town square"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "dir",
+      "name": "Brebeg Online Radio Anniversary 2nd",
+      "path": "archive/2011/photos/Brebeg Online Radio Anniversary 2nd"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "dir",
+      "name": "EVENT ABBEY CAFE JAKARTA 2011",
+      "path": "archive/2011/photos/EVENT ABBEY CAFE JAKARTA 2011"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "dir",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011"
     },
     {
       "year": "2011",
@@ -2577,13 +2514,6 @@
       "type": "file",
       "name": "akustikdetos-18-01-2011-harvi-bany.jpg",
       "path": "archive/2011/photos/akustik depok town square/akustikdetos-18-01-2011-harvi-bany.jpg"
-    },
-    {
-      "year": "2011",
-      "category": "photos",
-      "type": "dir",
-      "name": "Brebeg Online Radio Anniversary 2nd",
-      "path": "archive/2011/photos/Brebeg Online Radio Anniversary 2nd"
     },
     {
       "year": "2011",
@@ -2745,13 +2675,6 @@
       "type": "file",
       "name": "2011-11-19-Brebeg-Online-Radio-Ulang-Tahun-ke-2-ob.jpg",
       "path": "archive/2011/photos/Brebeg Online Radio Anniversary 2nd/2011-11-19-Brebeg-Online-Radio-Ulang-Tahun-ke-2-ob.jpg"
-    },
-    {
-      "year": "2011",
-      "category": "photos",
-      "type": "dir",
-      "name": "EVENT ABBEY CAFE JAKARTA 2011",
-      "path": "archive/2011/photos/EVENT ABBEY CAFE JAKARTA 2011"
     },
     {
       "year": "2011",
@@ -2934,13 +2857,6 @@
       "type": "file",
       "name": "2011-Event Abbey Cafe - Pusat Indie - Jakarta-jon.jpg",
       "path": "archive/2011/photos/EVENT ABBEY CAFE JAKARTA 2011/2011-Event Abbey Cafe - Pusat Indie - Jakarta-jon.jpg"
-    },
-    {
-      "year": "2011",
-      "category": "photos",
-      "type": "dir",
-      "name": "Event Neslite by Kreasi 12 Nopember 2011",
-      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011"
     },
     {
       "year": "2011",
@@ -3258,46 +3174,88 @@
       "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011.jpg"
     },
     {
-      "year": "2012",
+      "year": "2011",
       "category": "documents",
       "type": "file",
-      "name": "2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png",
-      "path": "archive/2012/documents/2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png"
+      "name": "2011-com.uprealband.com.apk",
+      "path": "archive/2011/documents/2011-com.uprealband.com.apk"
     },
     {
-      "year": "2012",
-      "category": "documents",
-      "type": "dir",
-      "name": "Eterno Lucro",
-      "path": "archive/2012/documents/Eterno Lucro"
-    },
-    {
-      "year": "2012",
+      "year": "2011",
       "category": "documents",
       "type": "file",
-      "name": "2012 - email Eterno Lucro.png",
-      "path": "archive/2012/documents/Eterno Lucro/2012 - email Eterno Lucro.png"
+      "name": "2011-tampilan-aplikasi-android-uprealband (1).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (1).png"
     },
     {
-      "year": "2012",
+      "year": "2011",
       "category": "documents",
       "type": "file",
-      "name": "2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png",
-      "path": "archive/2012/documents/Eterno Lucro/2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png"
+      "name": "2011-tampilan-aplikasi-android-uprealband (2).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (2).png"
     },
     {
-      "year": "2012",
+      "year": "2011",
       "category": "documents",
       "type": "file",
-      "name": "Draft MOU eternolucro .pdf",
-      "path": "archive/2012/documents/Eterno Lucro/Draft MOU eternolucro .pdf"
+      "name": "2011-tampilan-aplikasi-android-uprealband (3).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (3).png"
     },
     {
-      "year": "2012",
+      "year": "2011",
       "category": "documents",
       "type": "file",
-      "name": "Eterno Lucro.pptx .pdf",
-      "path": "archive/2012/documents/Eterno Lucro/Eterno Lucro.pptx .pdf"
+      "name": "2011-tampilan-aplikasi-android-uprealband (4).png",
+      "path": "archive/2011/documents/2011-tampilan-aplikasi-android-uprealband (4).png"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
+      "name": "Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3",
+      "path": "archive/2011/audio/Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
+      "name": "wawancara djwirya.com-part-1.mp3",
+      "path": "archive/2011/audio/wawancara djwirya.com-part-1.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
+      "name": "wawancara djwirya.com-part-2.mp3",
+      "path": "archive/2011/audio/wawancara djwirya.com-part-2.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
+      "name": "wawancara djwirya.com-part-3.mp3",
+      "path": "archive/2011/audio/wawancara djwirya.com-part-3.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
+      "name": "wawancara djwirya.com-part-4.mp3",
+      "path": "archive/2011/audio/wawancara djwirya.com-part-4.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
+      "name": "wawancara djwirya.com-part-5.mp3",
+      "path": "archive/2011/audio/wawancara djwirya.com-part-5.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
+      "name": "wawancara uprealband di indie radio online - 14 februari 2011.mp3",
+      "path": "archive/2011/audio/wawancara uprealband di indie radio online - 14 februari 2011.mp3"
     },
     {
       "year": "2012",
@@ -3468,6 +3426,48 @@
       "path": "archive/2012/photos/uprealband perform at members cafe cimanggis depok - unity music magazine/uprealband perform at members cafe cimanggis depok - unity music magazine-jon.jpg"
     },
     {
+      "year": "2012",
+      "category": "documents",
+      "type": "dir",
+      "name": "Eterno Lucro",
+      "path": "archive/2012/documents/Eterno Lucro"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png",
+      "path": "archive/2012/documents/2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "2012 - email Eterno Lucro.png",
+      "path": "archive/2012/documents/Eterno Lucro/2012 - email Eterno Lucro.png"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png",
+      "path": "archive/2012/documents/Eterno Lucro/2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "Draft MOU eternolucro .pdf",
+      "path": "archive/2012/documents/Eterno Lucro/Draft MOU eternolucro .pdf"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "Eterno Lucro.pptx .pdf",
+      "path": "archive/2012/documents/Eterno Lucro/Eterno Lucro.pptx .pdf"
+    },
+    {
       "year": "2013",
       "category": "photos",
       "type": "file",
@@ -3539,10 +3539,24 @@
     },
     {
       "year": "2026",
-      "category": "audio",
+      "category": "videos",
       "type": "file",
-      "name": "​＂BONGKAR 'FOSIL' DIGITAL： APLIKASI ANDROID UPREALBAND.mp3",
-      "path": "archive/2026/audio/​＂BONGKAR 'FOSIL' DIGITAL： APLIKASI ANDROID UPREALBAND.mp3"
+      "name": "2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4",
+      "path": "archive/2026/videos/2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4"
+    },
+    {
+      "year": "2026",
+      "category": "videos",
+      "type": "file",
+      "name": "2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4",
+      "path": "archive/2026/videos/2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4"
+    },
+    {
+      "year": "2026",
+      "category": "videos",
+      "type": "file",
+      "name": "2026-09-01__Podcast _ UPREALBAND ANTI-DSP _ BENARKAH.mp4",
+      "path": "archive/2026/videos/2026-09-01__Podcast _ UPREALBAND ANTI-DSP _ BENARKAH.mp4"
     },
     {
       "year": "2026",
@@ -3875,24 +3889,10 @@
     },
     {
       "year": "2026",
-      "category": "videos",
+      "category": "audio",
       "type": "file",
-      "name": "2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4",
-      "path": "archive/2026/videos/2026-08-20-Uprealband-Tetap-Menyala-Akustik-Hybrid-Version.mp4"
-    },
-    {
-      "year": "2026",
-      "category": "videos",
-      "type": "file",
-      "name": "2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4",
-      "path": "archive/2026/videos/2026-08-22__Uprealband-Ku Menantimu-Akustik Hybrid Version.mp4"
-    },
-    {
-      "year": "2026",
-      "category": "videos",
-      "type": "file",
-      "name": "2026-09-01__Podcast _ UPREALBAND ANTI-DSP _ BENARKAH.mp4",
-      "path": "archive/2026/videos/2026-09-01__Podcast _ UPREALBAND ANTI-DSP _ BENARKAH.mp4"
+      "name": "​＂BONGKAR 'FOSIL' DIGITAL： APLIKASI ANDROID UPREALBAND.mp3",
+      "path": "archive/2026/audio/​＂BONGKAR 'FOSIL' DIGITAL： APLIKASI ANDROID UPREALBAND.mp3"
     }
   ],
   "years": {
@@ -3933,20 +3933,20 @@
       "audio": 2
     },
     "2010": {
-      "photos": 120,
-      "documents": 24,
+      "photos": 117,
+      "documents": 23,
       "videos": 9,
       "audio": 7
     },
     "2011": {
-      "photos": 114,
+      "photos": 110,
       "documents": 5,
       "videos": 0,
       "audio": 7
     },
     "2012": {
-      "photos": 24,
-      "documents": 6,
+      "photos": 23,
+      "documents": 5,
       "videos": 0,
       "audio": 0
     },
@@ -3956,11 +3956,167 @@
       "videos": 0,
       "audio": 0
     },
+    "2014": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2015": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2016": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2017": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2018": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2019": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2020": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2021": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2022": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2023": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2024": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2025": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
     "2026": {
       "photos": 0,
       "documents": 0,
       "videos": 3,
       "audio": 48
+    },
+    "2027": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2028": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2029": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2030": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2031": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2032": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2033": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2034": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2035": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2036": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2037": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2038": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2039": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
+    },
+    "2040": {
+      "photos": 0,
+      "documents": 0,
+      "videos": 0,
+      "audio": 0
     }
   }
 }
