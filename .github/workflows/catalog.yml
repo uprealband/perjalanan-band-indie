@@ -5,6 +5,7 @@ on:
     paths:
       - 'audio/**/*.mp3'
       - 'archive/**'
+      - 'track/**'
       - 'artwork/**'
       - 'scripts/generate_catalog.py'
       - 'video/videos.json'
@@ -173,6 +174,12 @@ jobs:
           if not ROOT.exists():
               raise SystemExit(0)
 
+          # Rebuild generated thumbnails each run so renamed/deleted source documents
+          # cannot leave stale thumbnails behind.
+          if OUT.exists():
+              shutil.rmtree(OUT)
+          OUT.mkdir(parents=True, exist_ok=True)
+
           def thumb_path(src):
               rel = src.relative_to(ROOT)
               return OUT / rel.parent / (src.stem + '.webp')
@@ -325,6 +332,37 @@ jobs:
           with open('archive-index.json', 'w', encoding='utf-8') as f:
               json.dump(payload, f, ensure_ascii=False, indent=2)
               f.write('\n')
+          PY
+
+      - name: Validate archive index
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          with open('archive-index.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+
+          root = Path('.')
+          files = [x for x in data.get('items', []) if x.get('type') == 'file']
+          missing = [x.get('path') for x in files if not (root / x.get('path', '')).is_file()]
+          bad_thumbs = [
+              (x.get('path'), x.get('thumbnail'))
+              for x in files
+              if x.get('thumbnail') and not (root / x['thumbnail']).is_file()
+          ]
+
+          if missing:
+              raise SystemExit('Missing indexed archive files: ' + repr(missing[:10]))
+          if bad_thumbs:
+              raise SystemExit('Missing document thumbnails: ' + repr(bad_thumbs[:10]))
+
+          counts = {}
+          for x in files:
+              counts[x.get('category', 'unknown')] = counts.get(x.get('category', 'unknown'), 0) + 1
+
+          print('[OK] archive-index.json valid | %d files | %s' % (len(files), counts))
+          print('[OK] document thumbnails valid | %d thumbnails' % sum(1 for x in files if x.get('thumbnail')))
           PY
 
       - name: Commit catalog and archive indexes
