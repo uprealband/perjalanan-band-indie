@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T10:32:09.069046+00:00",
+  "generatedAt": "2026-09-16T10:32:59.509387+00:00",
   "items": [
     {
       "year": "2004",
@@ -2322,6 +2322,13 @@
     {
       "year": "2011",
       "category": "photos",
+      "type": "dir",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
       "type": "file",
       "name": "akustik detos 18 jan 2011 e.jpg",
       "path": "archive/2011/photos/akustik depok town square/akustik detos 18 jan 2011 e.jpg"
@@ -2594,6 +2601,321 @@
     },
     {
       "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-aga (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-aga (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-aga (3).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-aga (3).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-aga (4).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-aga (4).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-aga.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-aga.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (10).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (10).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (3).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (3).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (4).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (4).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (5).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (5).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (6).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (6).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (7).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (7).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (8).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (8).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany (9).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany (9).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany-aga-jon.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany-aga-jon.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany-double-D-band-gerry.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany-double-D-band-gerry.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany-jon (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany-jon (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany-jon.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany-jon.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-bany.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-bany.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-derry.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-derry.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-gerry (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-gerry (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-gerry (3).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-gerry (3).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-gerry (4).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-gerry (4).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-gerry (5).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-gerry (5).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-gerry-jon-aga.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-gerry-jon-aga.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-gerry.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-gerry.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon (3).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon (3).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon (4).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon (4).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon (5).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon (5).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany-derry.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany-derry.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (3).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (3).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (4).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (4).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (5).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (5).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (6).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry (6).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany-gerry.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-bany.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-bany.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-derry-bany.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-derry-bany.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-gerry (2).jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-gerry (2).jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-gerry.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-gerry.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon-shandy-rowra-band-bany.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon-shandy-rowra-band-bany.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-jon.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-jon.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011-rockib.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011-rockib.jpg"
+    },
+    {
+      "year": "2011",
+      "category": "photos",
+      "type": "file",
+      "name": "Event Neslite by Kreasi 12 Nopember 2011.jpg",
+      "path": "archive/2011/photos/Event Neslite by Kreasi 12 Nopember 2011/Event Neslite by Kreasi 12 Nopember 2011.jpg"
+    },
+    {
+      "year": "2011",
       "category": "documents",
       "type": "file",
       "name": "2011-com.uprealband.com.apk",
@@ -2812,7 +3134,7 @@
       "videos": 9
     },
     "2011": {
-      "photos": 39,
+      "photos": 84,
       "documents": 5,
       "videos": 0
     },
