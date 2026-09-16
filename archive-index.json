@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T09:47:58.741464+00:00",
+  "generatedAt": "2026-09-16T09:51:36.335474+00:00",
   "items": [
     {
       "year": "2004",
@@ -1616,6 +1616,27 @@
       "year": "2010",
       "category": "photos",
       "type": "file",
+      "name": "2010-kode-RBT-lagu-album-evolution-uprealband.jpg",
+      "path": "archive/2010/photos/2010-kode-RBT-lagu-album-evolution-uprealband.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-kode-RBT-lagu-uprealband-album-evolution.jpg",
+      "path": "archive/2010/photos/2010-kode-RBT-lagu-uprealband-album-evolution.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-kode-RBT-operator-XL-album-evolution.jpg",
+      "path": "archive/2010/photos/2010-kode-RBT-operator-XL-album-evolution.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
       "name": "2010-konsep buku uprealband a.jpg",
       "path": "archive/2010/photos/2010-konsep buku uprealband a.jpg"
     },
@@ -1651,8 +1672,43 @@
       "year": "2010",
       "category": "photos",
       "type": "file",
+      "name": "2010-packing-cd-album-evolution (2).jpg",
+      "path": "archive/2010/photos/2010-packing-cd-album-evolution (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-packing-cd-album-evolution (3).jpg",
+      "path": "archive/2010/photos/2010-packing-cd-album-evolution (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-packing-cd-album-evolution (4).jpg",
+      "path": "archive/2010/photos/2010-packing-cd-album-evolution (4).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-packing-cd-album-evolution (5).jpg",
+      "path": "archive/2010/photos/2010-packing-cd-album-evolution (5).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
       "name": "2010-packing-cd-album-evolution.jpg",
       "path": "archive/2010/photos/2010-packing-cd-album-evolution.jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-pemberian-tanda-tangan-cd-album-evolution-kepada-pembeli.jpg",
+      "path": "archive/2010/photos/2010-pemberian-tanda-tangan-cd-album-evolution-kepada-pembeli.jpg"
     },
     {
       "year": "2010",
@@ -2513,7 +2569,7 @@
       "videos": 12
     },
     "2010": {
-      "photos": 99,
+      "photos": 107,
       "documents": 23,
       "videos": 9
     },
