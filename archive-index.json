@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T09:31:25.234422+00:00",
+  "generatedAt": "2026-09-16T09:34:34.534957+00:00",
   "items": [
     {
       "year": "2004",
@@ -1244,6 +1244,13 @@
     {
       "year": "2010",
       "category": "photos",
+      "type": "dir",
+      "name": "event wapres bulungan jakarta",
+      "path": "archive/2010/photos/event wapres bulungan jakarta"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
       "type": "file",
       "name": "1000 bands united 17-19 des 2010.jpg",
       "path": "archive/2010/photos/1000 bands united/1000 bands united 17-19 des 2010.jpg"
@@ -1747,6 +1754,27 @@
     },
     {
       "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-wapres-bulungan-jon-bany (2).jpg",
+      "path": "archive/2010/photos/event wapres bulungan jakarta/2010-wapres-bulungan-jon-bany (2).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-wapres-bulungan-jon-bany (3).jpg",
+      "path": "archive/2010/photos/event wapres bulungan jakarta/2010-wapres-bulungan-jon-bany (3).jpg"
+    },
+    {
+      "year": "2010",
+      "category": "photos",
+      "type": "file",
+      "name": "2010-wapres-bulungan-jon-bany.jpg",
+      "path": "archive/2010/photos/event wapres bulungan jakarta/2010-wapres-bulungan-jon-bany.jpg"
+    },
+    {
+      "year": "2010",
       "category": "documents",
       "type": "file",
       "name": "aplikasi RSS untuk Symbian Nokia (1).jpg",
@@ -2177,7 +2205,7 @@
       "videos": 12
     },
     "2010": {
-      "photos": 72,
+      "photos": 75,
       "documents": 5,
       "videos": 9
     },
