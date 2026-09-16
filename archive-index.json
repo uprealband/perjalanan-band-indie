@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-16T15:20:56.127763+00:00",
+  "generatedAt": "2026-09-16T15:56:20.248956+00:00",
   "items": [
     {
       "year": "2004",
@@ -2365,13 +2365,6 @@
       "year": "2010",
       "category": "audio",
       "type": "file",
-      "name": "Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3",
-      "path": "archive/2010/audio/Cover-Lepaslah Uprealband by Sandra uprealistic-Studio, hongkong.mp3"
-    },
-    {
-      "year": "2010",
-      "category": "audio",
-      "type": "file",
       "name": "uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3",
       "path": "archive/2010/audio/uprealband - BCM-Biarkan Cinta Mengalir by. Harvi uprealistic.mp3"
     },
@@ -3620,13 +3613,6 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
-      "name": "Asal usul kenapa Kami Teriak ‘Ozan’？ Cerita Asli dari Markas Band Indie Depok.mp3",
-      "path": "archive/2026/audio/Asal usul kenapa Kami Teriak ‘Ozan’？ Cerita Asli dari Markas Band Indie Depok.mp3"
-    },
-    {
-      "year": "2026",
-      "category": "audio",
-      "type": "file",
       "name": "Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri.mp3",
       "path": "archive/2026/audio/Babak Baru Uprealband： Dari Studio Mini Menuju Workflow Produksi Mandiri.mp3"
     },
@@ -3966,7 +3952,7 @@
       "photos": 117,
       "documents": 23,
       "videos": 9,
-      "audio": 7
+      "audio": 6
     },
     "2011": {
       "photos": 110,
@@ -3986,167 +3972,11 @@
       "videos": 0,
       "audio": 0
     },
-    "2014": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2015": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2016": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2017": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2018": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2019": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2020": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2021": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2022": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2023": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2024": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2025": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
     "2026": {
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 48
-    },
-    "2027": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2028": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2029": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2030": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2031": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2032": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2033": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2034": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2035": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2036": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2037": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2038": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2039": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
-    },
-    "2040": {
-      "photos": 0,
-      "documents": 0,
-      "videos": 0,
-      "audio": 0
+      "audio": 47
     }
   }
 }
