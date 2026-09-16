@@ -191,6 +191,10 @@ def previous_item_for(path, previous_index):
 
 def read_common(path):
     audio = File(path, easy=False)
+    if audio is None:
+        raise ValueError("invalid or unreadable audio file")
+    if not getattr(audio, "info", None) or not getattr(audio.info, "length", None):
+        raise ValueError("audio has no valid duration/frame information")
     tags = audio.tags or {}
     title = first(tags, "TIT2", "title") or re.sub(
         r"^Uprealband-", "", path.stem, flags=re.I
@@ -537,6 +541,7 @@ def main():
     podcasts = []
     stories = load_stories()
     previous_index = previous_audio_index()
+    audio_errors = []
 
     for path in audio_candidates():
         try:
@@ -573,7 +578,14 @@ def main():
             else:
                 tracks.append(make_track(path, previous))
         except Exception as exc:
-            print(f"[WARN] Skip {path}: {exc}")
+            audio_errors.append(f"{path}: {exc}")
+            print(f"[ERROR] Invalid audio: {path}: {exc}")
+
+    if audio_errors:
+        print("[ERROR] Catalog generation aborted because one or more MP3 files are invalid.")
+        for error in audio_errors:
+            print(f" - {error}")
+        raise SystemExit(1)
 
     tracks.sort(
         key=lambda x: (x["releaseDate"] or "0000-00-00", x["title"].lower()),
