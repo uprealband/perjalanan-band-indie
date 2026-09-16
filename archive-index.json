@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-16T16:34:47.298367+00:00",
+  "generatedAt": "2026-09-16T20:17:18.905544+00:00",
   "items": [
     {
       "year": "2004",
@@ -2288,13 +2288,6 @@
       "year": "2010",
       "category": "videos",
       "type": "file",
-      "name": "2010-05-31-Cover-antara-kita-uprealband-by-Sandra-uprealistic-Hongkong.mp4",
-      "path": "archive/2010/videos/2010-05-31-Cover-antara-kita-uprealband-by-Sandra-uprealistic-Hongkong.mp4"
-    },
-    {
-      "year": "2010",
-      "category": "videos",
-      "type": "file",
       "name": "2010-05-31-cover-by-Sandra-uprealistic-pantai-hongkong.mp4",
       "path": "archive/2010/videos/2010-05-31-cover-by-Sandra-uprealistic-pantai-hongkong.mp4"
     },
@@ -3951,7 +3944,7 @@
     "2010": {
       "photos": 117,
       "documents": 23,
-      "videos": 9,
+      "videos": 8,
       "audio": 6
     },
     "2011": {
