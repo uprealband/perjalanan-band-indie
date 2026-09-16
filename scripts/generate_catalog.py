@@ -531,7 +531,19 @@ def main():
         try:
             previous = previous_item_for(path, previous_index)
             tags = read_common(path)[1]
-            is_podcast = bool(previous and previous.get("type") == "podcast") or txxx(tags, "TYPE").lower() == "podcast"
+            album = clean(read_common(path)[4]).lower()
+            genre = clean(read_common(path)[5]).lower()
+            explicit_type = txxx(tags, "TYPE").lower()
+
+            # Folder names are NOT semantic types. The legacy track/ directory
+            # contains Story source files; audio classification must come from
+            # explicit metadata or unambiguous Podcast metadata.
+            is_podcast = (
+                bool(previous and previous.get("type") == "podcast")
+                or explicit_type == "podcast"
+                or album == "podcast"
+                or genre == "podcast"
+            )
 
             if is_podcast:
                 podcasts.append(make_podcast(path, previous))
