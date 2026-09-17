@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-17T17:06:18.680718+00:00",
+  "generatedAt": "2026-09-17T18:03:39.585311+00:00",
   "items": [
     {
       "year": "2004",
@@ -3795,6 +3795,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Sersan Serius Tapi Santai Alur Tersasar.mp3",
+      "path": "archive/2026/audio/Sersan Serius Tapi Santai Alur Tersasar.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Tiba-Tiba Muncul dari Masa Lalu… Kisah Cewek yang Pernah Hampir Masuk Video Klip Uprealband!.mp3",
       "path": "archive/2026/audio/Tiba-Tiba Muncul dari Masa Lalu… Kisah Cewek yang Pernah Hampir Masuk Video Klip Uprealband!.mp3"
     },
@@ -3976,7 +3983,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 48
+      "audio": 49
     }
   }
 }
