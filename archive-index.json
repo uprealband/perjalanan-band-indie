@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-16T20:17:18.905544+00:00",
+  "generatedAt": "2026-09-17T17:06:18.680718+00:00",
   "items": [
     {
       "year": "2004",
@@ -3718,6 +3718,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Misi Mangga Dua Dan Kedatangan Dari Weleri.mp3",
+      "path": "archive/2026/audio/Misi Mangga Dua Dan Kedatangan Dari Weleri.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Musik AI berbahaya？ Apa pendapat bany uprealband.mp3",
       "path": "archive/2026/audio/Musik AI berbahaya？ Apa pendapat bany uprealband.mp3"
     },
@@ -3969,7 +3976,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 47
+      "audio": 48
     }
   }
 }
