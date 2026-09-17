@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 TRACK_DIR = ROOT / "track"
 OUT_DIR = ROOT / "book-site"
 BASE_URL = "https://perjalanan.uprealband.com"
+BOOK_PATH = "/bab/"
 
 
 def title_from_md(text, fallback):
@@ -87,7 +88,7 @@ def render_page(item, prev_item, next_item):
     "@type": "Article",
     "headline": f"Bab {num:02d}: {title}",
     "url": canonical,
-    "isPartOf": {"@type": "Book", "name": "Perjalanan UprealBand", "url": BASE_URL + "/"},
+    "isPartOf": {"@type": "Book", "name": "Perjalanan UprealBand", "url": BASE_URL + BOOK_PATH},
     "about": "UprealBand",
 }, ensure_ascii=False)}</script>
 </head>
@@ -103,13 +104,37 @@ def render_page(item, prev_item, next_item):
 </article>
 <nav class="book-nav" aria-label="Navigasi bab">
 {nav_prev}
-<a class="toc" href="/"><span>☰</span><small>DAFTAR ISI</small></a>
+<a class="toc" href="{BOOK_PATH}"><span>☰</span><small>DAFTAR ISI</small></a>
 {nav_next}
 </nav>
 </main>
 <footer>Perjalanan UprealBand · Dokumentasi perjalanan band indie asal Depok sejak 2004.</footer>
 </body>
 </html>'''
+
+
+def render_index(items):
+    links = "\n".join(
+        f'<li><a href="/{relpath_for(i, slug)}"><span>Bab {i:02d}</span><strong>{html.escape(title)}</strong></a></li>'
+        for i, _, title, slug, _ in items
+    )
+    index_jsonld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Perjalanan UprealBand",
+        "url": BASE_URL + BOOK_PATH,
+        "about": "UprealBand, band indie asal Depok sejak 2004",
+    }, ensure_ascii=False)
+    return f'''<!doctype html>
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Perjalanan UprealBand | 31 Bab Perjalanan Band Indie Depok Sejak 2004</title>
+<meta name="description" content="Dokumentasi perjalanan UprealBand, band indie asal Depok sejak 2004, disusun dalam 31 bab.">
+<link rel="canonical" href="{BASE_URL}{BOOK_PATH}"><meta name="robots" content="index,follow">
+<style>{CSS}</style><script type="application/ld+json">{index_jsonld}</script></head>
+<body><header class="top"><a href="/">PERJALANAN UPREALBAND</a><span>DOCUMENTATION · DEPOK · SINCE 2004</span></header>
+<main><section class="intro"><div class="chapter-label">BUKU PERJALANAN</div><h1>Perjalanan UprealBand</h1><p>Dokumentasi perjalanan band indie asal Depok sejak 2004, disusun dalam 31 bab.</p></section>
+<section class="toc-wrap"><div class="book-meta"><span>DAFTAR ISI</span><span>31 BAB</span></div><ol class="toc-list">{links}</ol></section></main>
+<footer>Perjalanan UprealBand · Dokumentasi perjalanan band indie asal Depok sejak 2004.</footer></body></html>'''
 
 
 def build():
@@ -139,31 +164,15 @@ def build():
             render_page(item, prev_item, next_item), encoding="utf-8"
         )
 
-    links = "\n".join(
-        f'<li><a href="/{relpath_for(i, slug)}"><span>Bab {i:02d}</span><strong>{html.escape(title)}</strong></a></li>'
-        for i, _, title, slug, _ in items
-    )
-    index_jsonld = json.dumps({
-        "@context": "https://schema.org",
-        "@type": "Book",
-        "name": "Perjalanan UprealBand",
-        "url": BASE_URL + "/",
-        "about": "UprealBand, band indie asal Depok sejak 2004",
-    }, ensure_ascii=False)
-    index = f'''<!doctype html>
-<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Perjalanan UprealBand | 31 Bab Perjalanan Band Indie Depok Sejak 2004</title>
-<meta name="description" content="Dokumentasi perjalanan UprealBand, band indie asal Depok sejak 2004, disusun dalam 31 bab.">
-<link rel="canonical" href="{BASE_URL}/"><meta name="robots" content="index,follow">
-<style>{CSS}</style><script type="application/ld+json">{index_jsonld}</script></head>
-<body><header class="top"><a href="/">PERJALANAN UPREALBAND</a><span>DOCUMENTATION · DEPOK · SINCE 2004</span></header>
-<main><section class="intro"><div class="chapter-label">BUKU PERJALANAN</div><h1>Perjalanan UprealBand</h1><p>Dokumentasi perjalanan band indie asal Depok sejak 2004, disusun dalam 31 bab.</p></section>
-<section class="toc-wrap"><div class="book-meta"><span>DAFTAR ISI</span><span>31 BAB</span></div><ol class="toc-list">{links}</ol></section></main>
-<footer>Perjalanan UprealBand · Dokumentasi perjalanan band indie asal Depok sejak 2004.</footer></body></html>'''
-    (OUT_DIR / "index.html").write_text(index, encoding="utf-8")
+    toc_html = render_index(items)
+    (OUT_DIR / "index.html").write_text(toc_html, encoding="utf-8")
+    book_toc = OUT_DIR / "bab"
+    book_toc.mkdir(parents=True, exist_ok=True)
+    (book_toc / "index.html").write_text(toc_html, encoding="utf-8")
+
     (OUT_DIR / "CNAME").write_text("perjalanan.uprealband.com\n", encoding="utf-8")
 
-    urls = [BASE_URL + "/"] + [BASE_URL + "/" + relpath_for(i, slug) for i, _, _, slug, _ in items]
+    urls = [BASE_URL + BOOK_PATH] + [BASE_URL + "/" + relpath_for(i, slug) for i, _, _, slug, _ in items]
     sitemap = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n" + "".join(f"  <url><loc>{html.escape(u)}</loc></url>\n" for u in urls) + "</urlset>\n"
     (OUT_DIR / "sitemap.xml").write_text(sitemap, encoding="utf-8")
     (OUT_DIR / "robots.txt").write_text("User-agent: *\nAllow: /\nSitemap: " + BASE_URL + "/sitemap.xml\n", encoding="utf-8")
