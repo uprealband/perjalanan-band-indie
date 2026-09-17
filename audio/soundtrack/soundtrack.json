@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "soundtracks": [
+    {
+      "id": "operasi-merayu-gerry",
+      "type": "soundtrack",
+      "context": "moment",
+      "title": "Operasi Merayu Gerry",
+      "artist": "UprealBand",
+      "year": null,
+      "description": "Soundtrack yang ditetapkan untuk momen Operasi Merayu Gerry dalam dokumentasi perjalanan UprealBand.",
+      "audio": "audio/soundtrack/operasi-merayu-gerry.mp3",
+      "cover": "artwork/operasi-merayu-gerry-track-01-operasi-merayu-gerry.jpg",
+      "relatedStory": null,
+      "featured": true
+    }
+  ]
+}
