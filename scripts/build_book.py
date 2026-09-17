@@ -20,8 +20,21 @@ def title_from_md(text, fallback):
     return fallback
 
 
+def remove_leading_book_headings(text):
+    lines = text.splitlines()
+    removed = 0
+    while lines and not lines[0].strip():
+        lines.pop(0)
+    while lines and removed < 2 and lines[0].lstrip().startswith("#"):
+        lines.pop(0)
+        removed += 1
+        while lines and not lines[0].strip():
+            lines.pop(0)
+    return "\n".join(lines)
+
+
 def strip_markdown_for_description(text):
-    text = re.sub(r"^#.*$", "", text, flags=re.M)
+    text = remove_leading_book_headings(text)
     text = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", text)
     text = re.sub(r"\[[^\]]*\]\([^)]*\)", "", text)
     text = re.sub(r"[*_>`#~-]", "", text)
@@ -109,7 +122,8 @@ def build():
         text = path.read_text(encoding="utf-8")
         title = title_from_md(text, path.stem)
         slug = page_slug(path.name)
-        body = markdown.markdown(text, extensions=["extra", "sane_lists"])
+        source_body = remove_leading_book_headings(text)
+        body = markdown.markdown(source_body, extensions=["extra", "sane_lists"])
         items.append((idx, path.name, title, slug, body))
 
     if OUT_DIR.exists():
@@ -134,7 +148,6 @@ def build():
         "@type": "Book",
         "name": "Perjalanan UprealBand",
         "url": BASE_URL + "/",
-        "numberOfPages": 31,
         "about": "UprealBand, band indie asal Depok sejak 2004",
     }, ensure_ascii=False)
     index = f'''<!doctype html>
