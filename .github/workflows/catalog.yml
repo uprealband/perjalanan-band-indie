@@ -1,8 +1,8 @@
 name: Build Music Hub Catalog
 
 concurrency:
-  group: catalog-build
-  cancel-in-progress: true
+  group: music-index-build
+  cancel-in-progress: false
 
 on:
   push:
@@ -178,8 +178,6 @@ jobs:
           if not ROOT.exists():
               raise SystemExit(0)
 
-          # Rebuild generated thumbnails each run so renamed/deleted source documents
-          # cannot leave stale thumbnails behind.
           if OUT.exists():
               shutil.rmtree(OUT)
           OUT.mkdir(parents=True, exist_ok=True)
@@ -204,10 +202,7 @@ jobs:
                   if src.suffix.lower() in {'.ppt', '.pptx'}:
                       temp_dir = Path(tempfile.mkdtemp(prefix='ub-ppt-'))
                       result = subprocess.run(
-                          [
-                              'libreoffice', '--headless', '--convert-to', 'pdf',
-                              '--outdir', str(temp_dir), str(src)
-                          ],
+                          ['libreoffice', '--headless', '--convert-to', 'pdf', '--outdir', str(temp_dir), str(src)],
                           check=False,
                           capture_output=True,
                           text=True,
@@ -215,8 +210,7 @@ jobs:
                       candidate = temp_dir / (src.stem + '.pdf')
                       if result.returncode != 0 or not candidate.exists():
                           print(f'SKIP PPT: {src}: {result.stdout} {result.stderr}')
-                          if temp_dir:
-                              shutil.rmtree(temp_dir, ignore_errors=True)
+                          shutil.rmtree(temp_dir, ignore_errors=True)
                           continue
                       pdf_path = candidate
 
@@ -297,22 +291,10 @@ jobs:
                               parent = parent.parent
 
                       for d in sorted(relevant_dirs, key=lambda p: p.as_posix().lower()):
-                          items.append({
-                              'year': year,
-                              'category': category,
-                              'type': 'dir',
-                              'name': d.name,
-                              'path': d.as_posix(),
-                          })
+                          items.append({'year': year, 'category': category, 'type': 'dir', 'name': d.name, 'path': d.as_posix()})
 
                       for p in sorted(relevant_files, key=lambda p: p.as_posix().lower()):
-                          item = {
-                              'year': year,
-                              'category': category,
-                              'type': 'file',
-                              'name': p.name,
-                              'path': p.as_posix(),
-                          }
+                          item = {'year': year, 'category': category, 'type': 'file', 'name': p.name, 'path': p.as_posix()}
                           thumb = thumbnail_for(p)
                           if thumb:
                               item['thumbnail'] = thumb
@@ -329,13 +311,7 @@ jobs:
               json.dump({'photos': photos}, f, ensure_ascii=False, indent=2)
               f.write('\n')
 
-          payload = {
-              'version': 2,
-              'generatedAt': datetime.now(timezone.utc).isoformat(),
-              'items': items,
-              'years': years,
-          }
-
+          payload = {'version': 2, 'generatedAt': datetime.now(timezone.utc).isoformat(), 'items': items, 'years': years}
           with open('archive-index.json', 'w', encoding='utf-8') as f:
               json.dump(payload, f, ensure_ascii=False, indent=2)
               f.write('\n')
@@ -353,11 +329,7 @@ jobs:
           root = Path('.')
           files = [x for x in data.get('items', []) if x.get('type') == 'file']
           missing = [x.get('path') for x in files if not (root / x.get('path', '')).is_file()]
-          bad_thumbs = [
-              (x.get('path'), x.get('thumbnail'))
-              for x in files
-              if x.get('thumbnail') and not (root / x['thumbnail']).is_file()
-          ]
+          bad_thumbs = [(x.get('path'), x.get('thumbnail')) for x in files if x.get('thumbnail') and not (root / x['thumbnail']).is_file()]
 
           if missing:
               raise SystemExit('Missing indexed archive files: ' + repr(missing[:10]))
@@ -379,7 +351,27 @@ jobs:
           git add catalog.json artwork/ archive/photos.json archive-index.json archive/_thumbnails/
           if git diff --cached --quiet; then
             echo 'No catalog changes.'
-          else
-            git commit -m 'chore: update catalog and archive thumbnails'
-            git push
+            exit 0
           fi
+
+          git commit -m 'chore: update catalog and archive thumbnails'
+
+          # Other metadata workflows can commit to main after this job starts.
+          # Rebase the generated catalog onto the latest main before pushing.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then
+                echo "Catalog push succeeded on attempt $attempt."
+                exit 0
+              fi
+            else
+              echo 'Catalog rebase failed because the generated files conflict with a newer main.'
+              exit 1
+            fi
+            echo "Push raced with another commit. Retrying in 3 seconds..."
+            sleep 3
+          done
+
+          echo 'Catalog push failed after 5 attempts.'
+          exit 1
