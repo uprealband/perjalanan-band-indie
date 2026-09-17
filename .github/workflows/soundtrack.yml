@@ -1,0 +1,54 @@
+name: Validate Soundtrack Metadata
+
+on:
+  push:
+    paths:
+      - 'audio/soundtrack/**'
+      - '.github/workflows/soundtrack.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate soundtrack.json
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('audio/soundtrack/soundtrack.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+
+          if not isinstance(data, dict):
+              raise SystemExit('soundtrack.json must contain an object')
+          if not isinstance(data.get('soundtracks'), list):
+              raise SystemExit('soundtracks must be an array')
+
+          required = {'id', 'type', 'context', 'title', 'artist', 'audio'}
+          ids = set()
+
+          for item in data['soundtracks']:
+              if not isinstance(item, dict):
+                  raise SystemExit('Each soundtrack entry must be an object')
+              missing = required - set(item)
+              if missing:
+                  raise SystemExit(f'Missing fields: {sorted(missing)}')
+              if item['type'] != 'soundtrack':
+                  raise SystemExit(f"Invalid type for {item.get('id')}: {item.get('type')}")
+              if item['context'] != 'moment':
+                  raise SystemExit(f"Invalid context for {item.get('id')}: {item.get('context')}")
+              if item['id'] in ids:
+                  raise SystemExit(f"Duplicate soundtrack id: {item['id']}")
+              ids.add(item['id'])
+
+          print(f'[OK] soundtrack.json valid | {len(data["soundtracks"])} soundtrack(s)')
+          for item in data['soundtracks']:
+              print(f"[OK] {item['id']} -> {item['audio']}")
+          PY
