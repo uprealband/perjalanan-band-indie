@@ -26,6 +26,19 @@
       "cover": null,
       "relatedStory": null,
       "featured": false
+    },
+    {
+      "id": "sersan-serius-tapi-santai-alur-tersasar",
+      "type": "soundtrack",
+      "context": "moment",
+      "title": "Sersan Serius Tapi Santai Alur Tersasar",
+      "artist": "Uprealband",
+      "year": null,
+      "description": "Soundtrack yang ditetapkan untuk momen Sersan Serius Tapi Santai Alur Tersasar dalam dokumentasi perjalanan UprealBand.",
+      "audio": "archive/2026/audio/Sersan%20Serius%20Tapi%20Santai%20Alur%20Tersasar.mp3",
+      "cover": null,
+      "relatedStory": null,
+      "featured": false
     }
   ]
 }
