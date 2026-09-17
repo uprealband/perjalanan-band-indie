@@ -1,5 +1,9 @@
 name: Build Soundtrack Playlist
 
+concurrency:
+  group: music-index-build
+  cancel-in-progress: false
+
 on:
   push:
     paths:
@@ -59,7 +63,7 @@ jobs:
               if item['context'] != 'moment':
                   raise SystemExit(f"Invalid context for {item.get('id')}: {item.get('context')}")
               if item['id'] in ids:
-                  raise SystemExit(f"Duplicate soundtrack id: {item['id']}")
+                  raise SystemExit(f"Duplicate soundtrack id: {item.get('id')}")
               ids.add(item['id'])
 
           print(f'[OK] soundtrack.json valid | {len(data["soundtracks"])} soundtrack(s)')
@@ -74,7 +78,25 @@ jobs:
           git add audio/soundtrack/soundtrack.json
           if git diff --cached --quiet; then
             echo 'No soundtrack changes.'
-          else
-            git commit -m 'chore: update soundtrack playlist'
-            git push
+            exit 0
           fi
+
+          git commit -m 'chore: update soundtrack playlist'
+
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then
+                echo "Soundtrack push succeeded on attempt $attempt."
+                exit 0
+              fi
+            else
+              echo 'Soundtrack rebase failed because the playlist conflicts with a newer main.'
+              exit 1
+            fi
+            echo "Push raced with another commit. Retrying in 3 seconds..."
+            sleep 3
+          done
+
+          echo 'Soundtrack push failed after 5 attempts.'
+          exit 1
