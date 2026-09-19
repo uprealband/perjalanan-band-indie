@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-17T18:03:39.585311+00:00",
+  "generatedAt": "2026-09-19T10:37:47.748092+00:00",
   "items": [
     {
       "year": "2004",
@@ -3669,6 +3669,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Cover Ku Menantimu - Electro Pop AI Version.mp3",
+      "path": "archive/2026/audio/Cover Ku Menantimu - Electro Pop AI Version.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Dari jualan kaos sablon hingga bangun studio rekaman sendiri juga album CD.mp3",
       "path": "archive/2026/audio/Dari jualan kaos sablon hingga bangun studio rekaman sendiri juga album CD.mp3"
     },
@@ -3983,7 +3990,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 49
+      "audio": 50
     }
   }
 }
