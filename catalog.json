@@ -159,6 +159,23 @@
       "addedAt": "2026-09-15T17:25:27+07:00"
     },
     {
+      "id": "ku-menantimu-cover-ai-version-ku-menantimu-cover-alternative-rock-ai-version",
+      "type": "cover",
+      "title": "Ku menantimu (cover AI VERSION)",
+      "artist": "Uprealband",
+      "album": "COVER",
+      "year": "2026",
+      "genre": "Alternative Rock",
+      "version": "Ku menantimu (cover alternative rock AI VERSION)",
+      "universe": "COVER",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/ku-menantimu-cover-ai-version-ku-menantimu-cover-alternative-rock-ai-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Ku%20menantimu%20%28cover%20alternative%20rock%20AI%20VERSION%29.mp3",
+      "duration": "1:49",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-09-19T21:17:49+07:00"
+    },
+    {
       "id": "ku-menantimu-akustik-hybrid",
       "type": "music",
       "title": "Ku Menantimu",
