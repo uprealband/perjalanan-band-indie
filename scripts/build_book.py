@@ -50,7 +50,7 @@ def page_slug(filename):
 
 
 def relpath_for(num, slug):
-    return f"bab/{num:02d}-{slug}/"
+    return f"{num:02d}-{slug}/"
 
 
 def normalize_asset_urls(md):
