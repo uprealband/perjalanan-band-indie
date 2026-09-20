@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bab.perjalanan.uprealband.com/sitemap.xml
