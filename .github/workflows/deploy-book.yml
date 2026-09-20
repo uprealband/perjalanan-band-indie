@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -35,6 +35,20 @@ jobs:
 
       - name: Build book
         run: python scripts/build_book.py
+
+      - name: Publish static site to repository root
+        run: |
+          cp -a book-site/. .
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No generated site changes to commit."
+            exit 0
+          fi
+          git commit -m "Publish generated Perjalanan book"
+          git push
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
