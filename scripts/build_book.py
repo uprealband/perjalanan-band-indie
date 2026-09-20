@@ -55,8 +55,8 @@ def relpath_for(num, slug):
 
 def normalize_asset_urls(md):
     raw_base = "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/"
-    md = re.sub(r'(!\[[^\]]*\]\()\.\./Photo/', r'\\1' + raw_base + 'Photo/', md)
-    md = re.sub(r'(!\[[^\]]*\]\()Photo/', r'\\1' + raw_base + 'Photo/', md)
+    md = re.sub(r'(!\[[^\]]*\]\()\.\./Photo/', r'\1' + raw_base + 'Photo/', md)
+    md = re.sub(r'(!\[[^\]]*\]\()Photo/', r'\1' + raw_base + 'Photo/', md)
     return md
 
 
