@@ -9,8 +9,8 @@ import markdown
 ROOT = Path(__file__).resolve().parents[1]
 TRACK_DIR = ROOT / "track"
 OUT_DIR = ROOT / "book-site"
-BASE_URL = "https://perjalanan.uprealband.com"
-BOOK_PATH = "/bab/"
+BASE_URL = "https://bab.perjalanan.uprealband.com"
+BOOK_PATH = "/"
 
 
 def title_from_md(text, fallback):
@@ -51,6 +51,13 @@ def page_slug(filename):
 
 def relpath_for(num, slug):
     return f"bab/{num:02d}-{slug}/"
+
+
+def normalize_asset_urls(md):
+    raw_base = "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/"
+    md = re.sub(r'(!\[[^\]]*\]\()\.\./Photo/', r'\\1' + raw_base + 'Photo/', md)
+    md = re.sub(r'(!\[[^\]]*\]\()Photo/', r'\\1' + raw_base + 'Photo/', md)
+    return md
 
 
 def render_page(item, prev_item, next_item):
@@ -147,7 +154,7 @@ def build():
         text = path.read_text(encoding="utf-8")
         title = title_from_md(text, path.stem)
         slug = page_slug(path.name)
-        source_body = remove_leading_book_headings(text)
+        source_body = normalize_asset_urls(remove_leading_book_headings(text))
         body = markdown.markdown(source_body, extensions=["extra", "sane_lists"])
         items.append((idx, path.name, title, slug, body))
 
@@ -170,7 +177,7 @@ def build():
     book_toc.mkdir(parents=True, exist_ok=True)
     (book_toc / "index.html").write_text(toc_html, encoding="utf-8")
 
-    (OUT_DIR / "CNAME").write_text("perjalanan.uprealband.com\n", encoding="utf-8")
+    (OUT_DIR / "CNAME").write_text("bab.perjalanan.uprealband.com\n", encoding="utf-8")
 
     urls = [BASE_URL + BOOK_PATH] + [BASE_URL + "/" + relpath_for(i, slug) for i, _, _, slug, _ in items]
     sitemap = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n" + "".join(f"  <url><loc>{html.escape(u)}</loc></url>\n" for u in urls) + "</urlset>\n"
