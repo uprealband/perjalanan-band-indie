@@ -227,6 +227,23 @@
       "addedAt": "2026-09-19T17:36:09+07:00"
     },
     {
+      "id": "cover-ku-menantimu-alternative-rock-ai-version-cover-ku-menantimu-alternative-rock-ai-version",
+      "type": "cover",
+      "title": "Cover Ku Menantimu - Alternative Rock - AI Version",
+      "artist": "Uprealband",
+      "album": "AI VERSION",
+      "year": "2026",
+      "genre": "Alternative Rock",
+      "version": "Cover Ku Menantimu   Alternative Rock   AI Version",
+      "universe": "COVER",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/cover-ku-menantimu-alternative-rock-ai-version-cover-ku-menantimu-alternative-rock-ai-version.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Cover%20Ku%20Menantimu%20-%20Alternative%20Rock%20-%20AI%20Version.mp3",
+      "duration": "2:40",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-09-21T21:39:22+07:00"
+    },
+    {
       "id": "biarkan-cintamu-funk-soul-hybrid",
       "type": "music",
       "title": "Biarkan Cintamu",

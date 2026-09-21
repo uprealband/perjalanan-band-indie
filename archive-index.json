@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-21T14:37:30.244241+00:00",
+  "generatedAt": "2026-09-21T14:41:20.013622+00:00",
   "items": [
     {
       "year": "2004",
@@ -3669,6 +3669,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Cover Ku Menantimu - Alternative Rock - AI Version.mp3",
+      "path": "archive/2026/audio/Cover Ku Menantimu - Alternative Rock - AI Version.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Cover Ku Menantimu - Electro Pop AI Version.mp3",
       "path": "archive/2026/audio/Cover Ku Menantimu - Electro Pop AI Version.mp3"
     },
@@ -4004,7 +4011,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 52
+      "audio": 53
     }
   }
 }
