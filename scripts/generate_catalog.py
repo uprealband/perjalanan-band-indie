@@ -212,21 +212,36 @@ def make_track(path, previous=None):
     version = version_from_filename(path, title)
 
     # Karya universe is metadata, not folder structure.
-    universe = (
+    # Explicit UNIVERSE metadata always wins.
+    explicit_universe = (
         txxx(tags, "UNIVERSE") or
-        txxx(tags, "KARYA_UNIVERSE") or
-        clean((previous or {}).get("universe"))
+        txxx(tags, "KARYA_UNIVERSE")
     ).strip().upper()
+    previous_universe = clean((previous or {}).get("universe")).strip().upper()
+    universe = explicit_universe
 
-    # Deterministic legacy/production mappings for known UprealBand releases.
-    # Explicit UNIVERSE metadata and preserved previous metadata always win.
+    # RE-EVOLUTION is the release universe for AI-assisted variants.
+    # "HYBRID" is reserved for versions explicitly marked Hybrid.
+    # This prevents an old auto-generated HYBRID value from contaminating
+    # a newly tagged AI version.
     if not universe:
         version_probe = version.lower()
         album_probe = album.lower()
-        genre_probe = genre.lower()
-        if album_probe == "re-evolution" and re.search(r"ai", version_probe):
-            universe = "HYBRID"
-        elif album_probe == "evolution" and re.search(r"original", version_probe):
+        if album_probe == "re-evolution":
+            if re.search(r"\\bhybrid\\b", version_probe):
+                universe = "HYBRID"
+            elif re.search(r"\\bai\\b", version_probe):
+                universe = "RE-EVOLUTION"
+            elif previous_universe:
+                universe = previous_universe
+        elif previous_universe:
+            universe = previous_universe
+
+    # Deterministic legacy/production mapping for original Evolution releases.
+    if not universe:
+        album_probe = album.lower()
+        version_probe = version.lower()
+        if album_probe == "evolution" and re.search(r"original", version_probe):
             universe = "ALBUM"
 
     # Transitional fallback only for genuinely new files.
