@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-20T11:17:37.738971+00:00",
+  "generatedAt": "2026-09-21T13:58:17.283669+00:00",
   "items": [
     {
       "year": "2004",
@@ -3732,6 +3732,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Ku Menantimu - Alternative Rock - AI Version.mp3",
+      "path": "archive/2026/audio/Ku Menantimu - Alternative Rock - AI Version.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Lagu uprealband lepaslah teruji dikalangan pakar audio.mp3",
       "path": "archive/2026/audio/Lagu uprealband lepaslah teruji dikalangan pakar audio.mp3"
     },
@@ -4004,7 +4011,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 52
+      "audio": 53
     }
   }
 }

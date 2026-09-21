@@ -193,6 +193,23 @@
       "addedAt": "2026-09-15T17:18:45+07:00"
     },
     {
+      "id": "ku-menantiku-alternative-rock-ai-version-ku-menantimu-alternative-rock-ai-version",
+      "type": "music",
+      "title": "Ku Menantiku Alternative Rock (AI Version)",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Alternative Rock",
+      "version": "Ku Menantimu   Alternative Rock   AI Version",
+      "universe": "HYBRID",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/ku-menantiku-alternative-rock-ai-version-ku-menantimu-alternative-rock-ai-version.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Ku%20Menantimu%20-%20Alternative%20Rock%20-%20AI%20Version.mp3",
+      "duration": "2:40",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-09-21T20:56:10+07:00"
+    },
+    {
       "id": "cover-ku-menantimu-gothic-post-punk-ai-version-cover-ku-menantimu-gothic-post-punk-ai-version",
       "type": "cover",
       "title": "cover Ku Menantimu - Gothic Post Punk Ai Version",
