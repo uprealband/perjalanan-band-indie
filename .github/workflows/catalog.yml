@@ -1,7 +1,7 @@
 name: Build Music Hub Catalog
 
 concurrency:
-  group: music-index-build
+  group: archive-catalog-build
   cancel-in-progress: false
 
 on:
