@@ -1,7 +1,14 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-21T14:41:20.013622+00:00",
+  "generatedAt": "2026-09-22T09:28:15.165004+00:00",
   "items": [
+    {
+      "year": "2004",
+      "category": "documents",
+      "type": "file",
+      "name": "2004-CD-data-konsep-mini album-video.jpg",
+      "path": "archive/2004/documents/2004-CD-data-konsep-mini album-video.jpg"
+    },
     {
       "year": "2004",
       "category": "documents",
@@ -3949,7 +3956,7 @@
   "years": {
     "2004": {
       "photos": 0,
-      "documents": 1,
+      "documents": 2,
       "videos": 1,
       "audio": 0
     },
