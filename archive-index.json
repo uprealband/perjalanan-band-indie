@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-24T10:35:44.506662+00:00",
+  "generatedAt": "2026-09-24T10:41:57.741759+00:00",
   "items": [
     {
       "year": "2004",
@@ -3541,8 +3541,78 @@
       "year": "2012",
       "category": "photos",
       "type": "dir",
+      "name": "band-on-the-street-margonda-depok",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "dir",
       "name": "uprealband perform at members cafe cimanggis depok - unity music magazine",
       "path": "archive/2012/photos/uprealband perform at members cafe cimanggis depok - unity music magazine"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Ahenk-Iyung.jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Ahenk-Iyung.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Aryo-Fahmi-Shandy-Rowra.jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Aryo-Fahmi-Shandy-Rowra.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Gerry-Jon.jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Gerry-Jon.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Gerry.jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Gerry.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon (2).jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon (2).jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon (3).jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon (3).jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon-Bany-Derry-Gerry.jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon-Bany-Derry-Gerry.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon-Bany-Derry.jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Jon-Bany-Derry.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-jon.jpg",
+      "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-jon.jpg"
     },
     {
       "year": "2012",
@@ -3716,8 +3786,22 @@
       "year": "2012",
       "category": "documents",
       "type": "file",
+      "name": "2012-flyer-event-uprealband.jpg",
+      "path": "archive/2012/documents/2012-flyer-event-uprealband.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
       "name": "2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png",
       "path": "archive/2012/documents/2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "2012-Uprealband-merayakan-ulang-tahun-sederhana.jpg",
+      "path": "archive/2012/documents/2012-Uprealband-merayakan-ulang-tahun-sederhana.jpg"
     },
     {
       "year": "2012",
@@ -4276,8 +4360,8 @@
       "audio": 7
     },
     "2012": {
-      "photos": 23,
-      "documents": 5,
+      "photos": 32,
+      "documents": 7,
       "videos": 0,
       "audio": 0
     },
