@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-24T12:23:40.810833+00:00",
+  "generatedAt": "2026-09-24T12:26:58.464333+00:00",
   "items": [
     {
       "year": "2004",
@@ -3962,6 +3962,13 @@
     {
       "year": "2013",
       "category": "photos",
+      "type": "dir",
+      "name": "event-soeltan-coffee-cafe-jakarta",
+      "path": "archive/2013/photos/event-soeltan-coffee-cafe-jakarta"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
       "type": "file",
       "name": "01.jpg",
       "path": "archive/2013/photos/01.jpg"
@@ -4126,6 +4133,34 @@
       "type": "file",
       "name": "Plaza Depok, 7 April 2013-jon.jpg",
       "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-jon.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry (1).jpg",
+      "path": "archive/2013/photos/event-soeltan-coffee-cafe-jakarta/2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry (1).jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry (2).jpg",
+      "path": "archive/2013/photos/event-soeltan-coffee-cafe-jakarta/2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry (2).jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry.jpg",
+      "path": "archive/2013/photos/event-soeltan-coffee-cafe-jakarta/2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-gerry-putra-jon.jpg",
+      "path": "archive/2013/photos/event-soeltan-coffee-cafe-jakarta/2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-gerry-putra-jon.jpg"
     },
     {
       "year": "2013",
@@ -4618,7 +4653,7 @@
       "audio": 0
     },
     "2013": {
-      "photos": 24,
+      "photos": 28,
       "documents": 4,
       "videos": 0,
       "audio": 0
