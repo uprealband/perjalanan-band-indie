@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-24T10:41:57.741759+00:00",
+  "generatedAt": "2026-09-24T10:44:45.961495+00:00",
   "items": [
     {
       "year": "2004",
@@ -3555,6 +3555,34 @@
       "year": "2012",
       "category": "photos",
       "type": "file",
+      "name": "2012-Derry-Additional-Drummer-Recording-Session-Markas-Studio-Depok.jpg",
+      "path": "archive/2012/photos/2012-Derry-Additional-Drummer-Recording-Session-Markas-Studio-Depok.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Harvi-Crew-Markas-Studio-Menikah.jpg",
+      "path": "archive/2012/photos/2012-Harvi-Crew-Markas-Studio-Menikah.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Jon-Aqeqah-Kelahiran-Puteranya.jpg",
+      "path": "archive/2012/photos/2012-Jon-Aqeqah-Kelahiran-Puteranya.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "2012-Uprealband-recording-session-album-ke-2.jpg",
+      "path": "archive/2012/photos/2012-Uprealband-recording-session-album-ke-2.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
       "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Ahenk-Iyung.jpg",
       "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-Ahenk-Iyung.jpg"
     },
@@ -3793,8 +3821,22 @@
       "year": "2012",
       "category": "documents",
       "type": "file",
+      "name": "2012-report-kunjungan-website-uprealband-com.jpg",
+      "path": "archive/2012/documents/2012-report-kunjungan-website-uprealband-com.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
       "name": "2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png",
       "path": "archive/2012/documents/2012-UPREALBAND bekerjasama dengan Eterno Lucro dalam penjualan CD Album Uprealband-jon-markas-studio-depok.png"
+    },
+    {
+      "year": "2012",
+      "category": "documents",
+      "type": "file",
+      "name": "2012-Uprealband-memulai-album-ke-2.jpg",
+      "path": "archive/2012/documents/2012-Uprealband-memulai-album-ke-2.jpg"
     },
     {
       "year": "2012",
@@ -4360,8 +4402,8 @@
       "audio": 7
     },
     "2012": {
-      "photos": 32,
-      "documents": 7,
+      "photos": 36,
+      "documents": 9,
       "videos": 0,
       "audio": 0
     },
