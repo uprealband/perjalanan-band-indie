@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-24T10:44:45.961495+00:00",
+  "generatedAt": "2026-09-24T10:49:27.816950+00:00",
   "items": [
     {
       "year": "2004",
@@ -3548,6 +3548,13 @@
       "year": "2012",
       "category": "photos",
       "type": "dir",
+      "name": "class-mild-cinere-mall-29-april-2012",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "dir",
       "name": "uprealband perform at members cafe cimanggis depok - unity music magazine",
       "path": "archive/2012/photos/uprealband perform at members cafe cimanggis depok - unity music magazine"
     },
@@ -3641,6 +3648,76 @@
       "type": "file",
       "name": "2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-jon.jpg",
       "path": "archive/2012/photos/band-on-the-street-margonda-depok/2012-Band-On-The-Street-Jalan-Margonda-Raya-Depok-jon.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-aga (2).jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-aga (2).jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-aga.jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-aga.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-bany (2).jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-bany (2).jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-bany-gerry-jon.jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-bany-gerry-jon.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-bany-jon.jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-bany-jon.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-bany.jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-bany.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-gerry.jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-gerry.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-jon (2).jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-jon (2).jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-jon-bany.jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-jon-bany.jpg"
+    },
+    {
+      "year": "2012",
+      "category": "photos",
+      "type": "file",
+      "name": "class mild cinere mall 29 april 2012-jon.jpg",
+      "path": "archive/2012/photos/class-mild-cinere-mall-29-april-2012/class mild cinere mall 29 april 2012-jon.jpg"
     },
     {
       "year": "2012",
@@ -4402,7 +4479,7 @@
       "audio": 7
     },
     "2012": {
-      "photos": 36,
+      "photos": 46,
       "documents": 9,
       "videos": 0,
       "audio": 0
