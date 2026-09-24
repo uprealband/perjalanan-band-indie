@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-24T12:11:50.682161+00:00",
+  "generatedAt": "2026-09-24T12:20:35.806981+00:00",
   "items": [
     {
       "year": "2004",
@@ -4128,6 +4128,34 @@
       "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-jon.jpg"
     },
     {
+      "year": "2013",
+      "category": "documents",
+      "type": "file",
+      "name": "2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry.jpg",
+      "path": "archive/2013/documents/2013-12-20-event Soeltan Coffee Cafe Jakarta-bany-jon-aga-gerry.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "documents",
+      "type": "file",
+      "name": "2013-free-past-manggung-infoeventband.com.jpg",
+      "path": "archive/2013/documents/2013-free-past-manggung-infoeventband.com.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "documents",
+      "type": "file",
+      "name": "556703049_10230972238630696_6643480233920937783_n.jpg",
+      "path": "archive/2013/documents/556703049_10230972238630696_6643480233920937783_n.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "documents",
+      "type": "file",
+      "name": "Progress-Recording-Album-ke-2.jpg",
+      "path": "archive/2013/documents/Progress-Recording-Album-ke-2.jpg"
+    },
+    {
       "year": "2026",
       "category": "documents",
       "type": "file",
@@ -4591,7 +4619,7 @@
     },
     "2013": {
       "photos": 24,
-      "documents": 0,
+      "documents": 4,
       "videos": 0,
       "audio": 0
     },
