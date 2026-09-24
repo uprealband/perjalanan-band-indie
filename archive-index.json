@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-24T11:57:36.362109+00:00",
+  "generatedAt": "2026-09-24T12:11:50.682161+00:00",
   "items": [
     {
       "year": "2004",
@@ -3955,6 +3955,13 @@
     {
       "year": "2013",
       "category": "photos",
+      "type": "dir",
+      "name": "event-plaza-depok-7-april-2013",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
       "type": "file",
       "name": "01.jpg",
       "path": "archive/2013/photos/01.jpg"
@@ -4021,6 +4028,104 @@
       "type": "file",
       "name": "10.jpg",
       "path": "archive/2013/photos/10.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-aga (2).jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-aga (2).jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-aga.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-aga.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-bany (2).jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-bany (2).jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-bany (3).jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-bany (3).jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-bany-endah-istri.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-bany-endah-istri.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-bany-gerry.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-bany-gerry.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-bany.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-bany.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-derry.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-derry.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-gerry-jon-bany.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-gerry-jon-bany.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-gerry.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-gerry.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-jon-bany (2).jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-jon-bany (2).jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-jon-bany-gerry.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-jon-bany-gerry.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-jon-bany.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-jon-bany.jpg"
+    },
+    {
+      "year": "2013",
+      "category": "photos",
+      "type": "file",
+      "name": "Plaza Depok, 7 April 2013-jon.jpg",
+      "path": "archive/2013/photos/event-plaza-depok-7-april-2013/Plaza Depok, 7 April 2013-jon.jpg"
     },
     {
       "year": "2026",
@@ -4485,7 +4590,7 @@
       "audio": 0
     },
     "2013": {
-      "photos": 10,
+      "photos": 24,
       "documents": 0,
       "videos": 0,
       "audio": 0
