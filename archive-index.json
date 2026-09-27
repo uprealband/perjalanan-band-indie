@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-27T19:47:16.731684+00:00",
+  "generatedAt": "2026-09-27T19:57:07.361041+00:00",
   "items": [
     {
       "year": "2004",
@@ -3499,6 +3499,13 @@
       "year": "2011",
       "category": "audio",
       "type": "file",
+      "name": "Janji Kita - Jon Fadly-Ihda-wedding moment-2011.mp3",
+      "path": "archive/2011/audio/Janji Kita - Jon Fadly-Ihda-wedding moment-2011.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
       "name": "latihan lagu Nyatakan Cinta 2011 with derry drummer Edelweis Band Depok.mp3",
       "path": "archive/2011/audio/latihan lagu Nyatakan Cinta 2011 with derry drummer Edelweis Band Depok.mp3"
     },
@@ -4679,7 +4686,7 @@
       "photos": 146,
       "documents": 7,
       "videos": 0,
-      "audio": 9
+      "audio": 10
     },
     "2012": {
       "photos": 46,
