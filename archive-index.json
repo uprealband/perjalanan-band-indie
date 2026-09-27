@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-27T13:07:29.593581+00:00",
+  "generatedAt": "2026-09-27T19:20:14.932281+00:00",
   "items": [
     {
       "year": "2004",
@@ -134,6 +134,13 @@
       "type": "file",
       "name": "2005-Terbang-Melayang-Uprealband-Video-Klip.mp4",
       "path": "archive/2005/videos/2005-Terbang-Melayang-Uprealband-Video-Klip.mp4"
+    },
+    {
+      "year": "2005",
+      "category": "audio",
+      "type": "file",
+      "name": "RINDU – LIVE 2005  - manggung perdana uprealband formasi baru.mp3",
+      "path": "archive/2005/audio/RINDU – LIVE 2005  - manggung perdana uprealband formasi baru.mp3"
     },
     {
       "year": "2006",
@@ -4629,7 +4636,7 @@
       "photos": 15,
       "documents": 0,
       "videos": 1,
-      "audio": 0
+      "audio": 1
     },
     "2006": {
       "photos": 16,
