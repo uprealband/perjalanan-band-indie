@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-27T19:20:14.932281+00:00",
+  "generatedAt": "2026-09-27T19:47:16.731684+00:00",
   "items": [
     {
       "year": "2004",
@@ -3506,6 +3506,13 @@
       "year": "2011",
       "category": "audio",
       "type": "file",
+      "name": "Nyatakan Cinta Akustik Live IRO radio.mp3",
+      "path": "archive/2011/audio/Nyatakan Cinta Akustik Live IRO radio.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
       "name": "Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3",
       "path": "archive/2011/audio/Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3"
     },
@@ -4672,7 +4679,7 @@
       "photos": 146,
       "documents": 7,
       "videos": 0,
-      "audio": 8
+      "audio": 9
     },
     "2012": {
       "photos": 46,
