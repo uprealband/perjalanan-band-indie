@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-26T13:45:05.016316+00:00",
+  "generatedAt": "2026-09-27T13:07:29.593581+00:00",
   "items": [
     {
       "year": "2004",
@@ -3492,6 +3492,13 @@
       "year": "2011",
       "category": "audio",
       "type": "file",
+      "name": "latihan lagu Nyatakan Cinta 2011 with derry drummer Edelweis Band Depok.mp3",
+      "path": "archive/2011/audio/latihan lagu Nyatakan Cinta 2011 with derry drummer Edelweis Band Depok.mp3"
+    },
+    {
+      "year": "2011",
+      "category": "audio",
+      "type": "file",
       "name": "Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3",
       "path": "archive/2011/audio/Pemutaran Lagu Melati di indiemania.com Feb 2011.mp3"
     },
@@ -4658,7 +4665,7 @@
       "photos": 146,
       "documents": 7,
       "videos": 0,
-      "audio": 7
+      "audio": 8
     },
     "2012": {
       "photos": 46,
