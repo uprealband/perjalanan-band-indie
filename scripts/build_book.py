@@ -100,7 +100,7 @@ def render_page(item, prev_item, next_item):
 }, ensure_ascii=False)}</script>
 </head>
 <body>
-<header class="top"><a href="/">PERJALANAN UPREALBAND</a><span>DOCUMENTATION · DEPOK · SINCE 2004</span></header>
+<header class="top"><a href="/">PERJALANAN UPREALBAND</a><span><a href="/corpus/">CORPUS</a> · DEPOK · SINCE 2004</span></header>
 <main>
 <div class="book-meta"><span>BAB {num:02d} / 31</span><span>PERJALANAN UPREALBAND</span></div>
 <article class="book-page">
@@ -198,7 +198,7 @@ def render_index(items):
 <style>{CSS}</style><script type="application/ld+json">{index_jsonld}</script></head>
 <body><header class="top"><a href="/">PERJALANAN UPREALBAND</a><span>DOCUMENTATION · DEPOK · SINCE 2004</span></header>
 <main><section class="intro"><div class="chapter-label">BUKU PERJALANAN</div><h1>Perjalanan UprealBand</h1><p>Dokumentasi perjalanan band indie asal Depok sejak 2004, disusun dalam 31 bab.</p></section>
-<section class="toc-wrap"><div class="book-meta"><span>DAFTAR ISI</span><span>31 BAB</span></div><ol class="toc-list">{links}</ol></section></main>
+<section class="toc-wrap"><div class="book-meta"><span>DAFTAR ISI</span><span>31 BAB</span></div><p class="source-link"><a href="/corpus/">Buka Corpus Teks Lengkap 31 Bab →</a></p><ol class="toc-list">{links}</ol></section></main>
 <footer>Perjalanan UprealBand · Dokumentasi perjalanan band indie asal Depok sejak 2004.</footer></body></html>'''
 
 
@@ -241,7 +241,7 @@ def build():
 
     (OUT_DIR / "CNAME").write_text("bab.perjalanan.uprealband.com\n", encoding="utf-8")
 
-    urls = [BASE_URL + BOOK_PATH] + [BASE_URL + "/" + relpath_for(i, slug) for i, _, _, slug, _ in items]
+    urls = [BASE_URL + BOOK_PATH, BASE_URL + "/corpus/"] + [BASE_URL + "/" + relpath_for(i, slug) for i, _, _, slug, _ in items]
     sitemap = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n" + "".join(f"  <url><loc>{html.escape(u)}</loc></url>\n" for u in urls) + "</urlset>\n"
     (OUT_DIR / "sitemap.xml").write_text(sitemap, encoding="utf-8")
     (OUT_DIR / "robots.txt").write_text("User-agent: *\nAllow: /\nSitemap: " + BASE_URL + "/sitemap.xml\n", encoding="utf-8")
