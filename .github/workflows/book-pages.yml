@@ -5,6 +5,7 @@ on:
     paths:
       - 'track/**'
       - 'scripts/build_book.py'
+      - 'scripts/build_knowledge.py'
       - '.github/workflows/book-pages.yml'
   workflow_dispatch:
 
@@ -34,6 +35,9 @@ jobs:
 
       - name: Build static book
         run: python scripts/build_book.py
+
+      - name: Build knowledge layer
+        run: python scripts/build_knowledge.py
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
