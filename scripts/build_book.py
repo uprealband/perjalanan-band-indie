@@ -65,15 +65,21 @@ def normalize_asset_urls(md):
 
 
 def remove_source_navigation(md):
-    # The Markdown source contains its own Track navigation using .md links.
-    # The static HTML generator already provides canonical Previous/Next links.
-    marker = "## Navigasi Track"
-    pos = md.find(marker)
-    if pos != -1:
-        md = md[:pos].rstrip()
-        if md.endswith("---"):
-            md = md[:-3].rstrip()
-    return md
+    # Source files may contain several legacy navigation formats.
+    # The static HTML generator provides the canonical Previous/Next navigation,
+    # so all source-level Track navigation must be removed from the rendered page.
+    md = re.sub(
+        r"(?ms)\n#{1,6}\s*(?:Navigasi Track|Track Berikutnya|Track Sebelumnya)\b.*\Z",
+        "",
+        md,
+    )
+    # Older files sometimes used navigation without a heading.
+    md = re.sub(
+        r"(?ms)\n(?:⬅️|➡️|🏠).*?(?:\.md|README\.md)\s*\Z",
+        "",
+        md,
+    )
+    return md.rstrip()
 
 
 def normalize_internal_track_links(md):
