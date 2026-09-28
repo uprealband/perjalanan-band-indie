@@ -16,10 +16,14 @@ BOOK_PATH = "/"
 def title_from_md(text, fallback):
     headings = re.findall(r"^#\s+(.+?)\s*$", text, flags=re.M)
     for heading in headings:
-        if not re.match(r"TRACK\s+\d+", heading.strip(), flags=re.I):
-            return heading.strip()
-    return fallback
-
+        clean = heading.strip()
+        if re.match(r"TRACK\s+\d+", clean, flags=re.I):
+            continue
+        if re.match(r"track[-_]\d+[-_]", clean, flags=re.I):
+            continue
+        return clean
+    stem = re.sub(r"^track-\d+-", "", fallback, flags=re.I)
+    return re.sub(r"[-_]+", " ", stem).strip().title()
 
 def remove_leading_book_headings(text):
     lines = text.splitlines()
