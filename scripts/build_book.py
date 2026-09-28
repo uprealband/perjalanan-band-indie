@@ -74,8 +74,15 @@ def remove_source_navigation(md):
         md,
     )
     # Older files sometimes used navigation without a heading.
+    # Once a navigation marker appears, everything after it is legacy source navigation.
     md = re.sub(
-        r"(?ms)\n(?:⬅️|➡️|🏠).*?(?:\.md|README\.md)\s*\Z",
+        r"(?ms)\n(?:⬅️\s*Track\s*Sebelumnya|➡️\s*Track\s*Berikutnya|🏠\s*Daftar\s*Track)\b.*\Z",
+        "",
+        md,
+    )
+    # Also remove any remaining standalone legacy home/source links at the end.
+    md = re.sub(
+        r"(?ms)\n🏠\s*\[.*?\]\([^)]*README\.md\)\s*\Z",
         "",
         md,
     )
