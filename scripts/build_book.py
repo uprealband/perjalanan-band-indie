@@ -78,14 +78,14 @@ def normalize_internal_track_links(md):
     def repl(match):
         label = match.group(1)
         filename = match.group(2)
-        stem = re.sub(r"\\.md$", "", filename, flags=re.I)
-        m = re.match(r"track-(\\d+)-(.+)$", stem, flags=re.I)
+        stem = re.sub(r"\.md$", "", filename, flags=re.I)
+        m = re.match(r"track-(\d+)-(.+)$", stem, flags=re.I)
         if not m:
             return match.group(0)
         num = int(m.group(1))
         slug = m.group(2).lower()
         return f"[{label}](/" + relpath_for(num, slug) + ")"
-    return re.sub(r"\\[([^\\]]+)\\]\\((track-\\d+-[^)]+\\.md)\\)", repl, md, flags=re.I)
+    return re.sub(r"\[([^\]]+)\]\((track-\d+-[^)]+\.md)\)", repl, md, flags=re.I)
 
 
 def render_page(item, prev_item, next_item):
