@@ -438,7 +438,9 @@ def build():
         text = path.read_text(encoding="utf-8")
         title = title_from_md(text, path.stem)
         slug = page_slug(path.name)
-        source_body = normalize_asset_urls(remove_leading_book_headings(text))
+        source_body = remove_source_navigation(remove_leading_book_headings(text))
+        source_body = normalize_asset_urls(source_body)
+        source_body = normalize_internal_track_links(source_body)
         body = markdown.markdown(source_body, extensions=["extra", "sane_lists"])
         items.append((idx, path.name, title, slug, body))
 
