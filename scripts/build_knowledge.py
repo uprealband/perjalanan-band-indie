@@ -97,7 +97,7 @@ def human_title(path):
 
 
 def replace_internal_links(text):
-    pattern = r'href="(?:https://raw\.githubusercontent\.com/uprealband/perjalanan-band-indie/main/)?track/track-(\d+)-([^"]+)\.md(?:#([^"]+))?"'
+    pattern = r'href="(?:https://raw\\.githubusercontent\\.com/uprealband/perjalanan-band-indie/main/)?(?:track/)?track-(\\d+)-([^"]+)\\.md(?:#([^"]+))?"'
 
     def repl(m):
         num = int(m.group(1))
