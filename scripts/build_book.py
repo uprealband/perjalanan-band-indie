@@ -120,6 +120,64 @@ def render_page(item, prev_item, next_item):
 </html>'''
 
 
+def render_corpus(items):
+    sections = []
+    for num, filename, title, slug, body_html in items:
+        url = f"{BASE_URL}/{relpath_for(num, slug)}"
+        sections.append(
+            f'<article class="corpus-chapter" id="bab-{num:02d}">'
+            f'<div class="chapter-label">BAB {num:02d}</div>'
+            f'<h2>{html.escape(title)}</h2>'
+            f'<p class="source-link"><a href="{url}">Buka halaman bab {num:02d} →</a></p>'
+            f'<div class="content">{body_html}</div>'
+            f'</article>'
+        )
+    jump_links = "".join(
+        f'<a href="#bab-{num:02d}">Bab {num:02d}: {html.escape(title)}</a>'
+        for num, _, title, _, _ in items
+    )
+    return f'''<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Corpus Perjalanan UprealBand | Teks Lengkap 31 Bab</title>
+<meta name="description" content="Corpus teks lengkap 31 bab Perjalanan UprealBand, dokumentasi perjalanan band indie asal Depok sejak 2004.">
+<link rel="canonical" href="{BASE_URL}/corpus/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="book">
+<meta property="og:title" content="Corpus Perjalanan UprealBand | Teks Lengkap 31 Bab">
+<meta property="og:description" content="Corpus teks lengkap 31 bab Perjalanan UprealBand.">
+<meta property="og:url" content="{BASE_URL}/corpus/">
+<style>{CSS}</style>
+<script type="application/ld+json">{json.dumps({
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Perjalanan UprealBand",
+    "url": BASE_URL + "/",
+    "about": "UprealBand, band indie asal Depok sejak 2004",
+    "hasPart": [
+        {"@type": "Chapter", "name": title, "url": f"{BASE_URL}/{relpath_for(num, slug)}"}
+        for num, _, title, slug, _ in items
+    ],
+}, ensure_ascii=False)}</script>
+</head>
+<body>
+<header class="top"><a href="/">PERJALANAN UPREALBAND</a><span>CORPUS · 31 BAB · SINCE 2004</span></header>
+<main>
+<section class="intro">
+<div class="chapter-label">KNOWLEDGE CORPUS</div>
+<h1>Perjalanan UprealBand</h1>
+<p>Corpus teks lengkap 31 bab. Halaman ini menyediakan satu dokumen HTML yang memuat narasi perjalanan UprealBand secara utuh, dengan setiap bab tetap memiliki halaman tersendiri.</p>
+</section>
+<nav class="corpus-jump" aria-label="Daftar bab corpus">{jump_links}</nav>
+{''.join(sections)}
+</main>
+<footer>Perjalanan UprealBand · Corpus dokumentasi perjalanan band indie asal Depok sejak 2004.</footer>
+</body>
+</html>'''
+
+
 def render_index(items):
     links = "\n".join(
         f'<li><a href="/{relpath_for(i, slug)}"><span>Bab {i:02d}</span><strong>{html.escape(title)}</strong></a></li>'
@@ -176,6 +234,10 @@ def build():
     book_toc = OUT_DIR / "bab"
     book_toc.mkdir(parents=True, exist_ok=True)
     (book_toc / "index.html").write_text(toc_html, encoding="utf-8")
+    corpus_html = render_corpus(items)
+    corpus_dir = OUT_DIR / "corpus"
+    corpus_dir.mkdir(parents=True, exist_ok=True)
+    (corpus_dir / "index.html").write_text(corpus_html, encoding="utf-8")
 
     (OUT_DIR / "CNAME").write_text("bab.perjalanan.uprealband.com\n", encoding="utf-8")
 
@@ -187,7 +249,7 @@ def build():
 
 CSS = r'''
 @font-face{font-family:Space;src:url("https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/SpaceGrotesk%5Bwght%5D.woff2") format("woff2");font-weight:100 900;font-display:swap}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f5f2ec;color:#171717;font-family:Space,Arial,sans-serif}.top{height:64px;padding:0 5vw;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #171717;background:#fff}.top a{font-weight:800;letter-spacing:.08em;text-decoration:none;color:#171717}.top span{font-size:11px;letter-spacing:.1em}.book-meta{display:flex;justify-content:space-between;gap:20px;font-size:11px;letter-spacing:.12em;font-weight:700;padding:28px 0 14px;border-bottom:1px solid #bbb}main{max-width:920px;margin:auto;padding:0 24px}.book-page{background:#fff;min-height:72vh;margin:28px 0 20px;padding:clamp(28px,6vw,70px);box-shadow:0 8px 30px rgba(0,0,0,.07)}.chapter-label{font-size:12px;letter-spacing:.16em;font-weight:800}.book-page h1,.intro h1{font-size:clamp(34px,6vw,64px);line-height:1.02;margin:18px 0 24px;letter-spacing:-.045em}.rule{width:64px;height:5px;background:#f47b20;margin-bottom:40px}.content{font-family:Georgia,serif;font-size:18px;line-height:1.82}.content h1{font-family:Space,Arial,sans-serif;font-size:30px;margin-top:42px}.content h2{font-family:Space,Arial,sans-serif;font-size:25px;margin-top:42px}.content h3{font-family:Space,Arial,sans-serif}.content p{margin:0 0 1.15em}.content blockquote{margin:28px 0;padding:8px 24px;border-left:4px solid #f47b20;color:#444}.content img{max-width:100%;height:auto}.content a{color:#d95f00}.book-nav{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:stretch;margin:0 0 70px}.nav-link,.toc{background:#171717;color:#fff;text-decoration:none;padding:15px 18px;display:flex;align-items:center;gap:10px}.nav-link{justify-content:space-between}.nav-link small,.toc small{font-size:10px;letter-spacing:.12em}.nav-link strong{font-size:13px}.toc{background:#f47b20;color:#171717;flex-direction:column;justify-content:center;min-width:110px}.disabled{opacity:.25}.intro{padding:70px 0 45px}.intro p{font-size:20px;max-width:650px;line-height:1.6}.toc-wrap{padding-bottom:70px}.toc-list{list-style:none;padding:0;margin:0}.toc-list li{border-bottom:1px solid #bbb}.toc-list a{display:grid;grid-template-columns:80px 1fr;gap:15px;padding:18px 0;text-decoration:none;color:#171717}.toc-list span{font-size:12px;letter-spacing:.1em;font-weight:700}.toc-list strong{font-size:17px}footer{text-align:center;padding:28px 20px;border-top:1px solid #171717;background:#fff;font-size:11px;letter-spacing:.05em}@media(max-width:650px){.top{height:auto;min-height:60px;padding:15px 20px;display:block}.top span{display:block;margin-top:5px;font-size:9px}.book-meta{font-size:9px}.book-page{padding:28px 22px;margin-top:18px}.content{font-size:17px;line-height:1.75}.book-nav{grid-template-columns:1fr 1fr}.toc{grid-column:1/-1;grid-row:1;min-height:45px}.nav-link{grid-row:2}.intro{padding:50px 0 30px}.toc-list a{grid-template-columns:62px 1fr}.toc-list strong{font-size:15px}}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f5f2ec;color:#171717;font-family:Space,Arial,sans-serif}.top{height:64px;padding:0 5vw;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #171717;background:#fff}.top a{font-weight:800;letter-spacing:.08em;text-decoration:none;color:#171717}.top span{font-size:11px;letter-spacing:.1em}.book-meta{display:flex;justify-content:space-between;gap:20px;font-size:11px;letter-spacing:.12em;font-weight:700;padding:28px 0 14px;border-bottom:1px solid #bbb}main{max-width:920px;margin:auto;padding:0 24px}.book-page{background:#fff;min-height:72vh;margin:28px 0 20px;padding:clamp(28px,6vw,70px);box-shadow:0 8px 30px rgba(0,0,0,.07)}.chapter-label{font-size:12px;letter-spacing:.16em;font-weight:800}.book-page h1,.intro h1{font-size:clamp(34px,6vw,64px);line-height:1.02;margin:18px 0 24px;letter-spacing:-.045em}.rule{width:64px;height:5px;background:#f47b20;margin-bottom:40px}.content{font-family:Georgia,serif;font-size:18px;line-height:1.82}.content h1{font-family:Space,Arial,sans-serif;font-size:30px;margin-top:42px}.content h2{font-family:Space,Arial,sans-serif;font-size:25px;margin-top:42px}.content h3{font-family:Space,Arial,sans-serif}.content p{margin:0 0 1.15em}.content blockquote{margin:28px 0;padding:8px 24px;border-left:4px solid #f47b20;color:#444}.content img{max-width:100%;height:auto}.content a{color:#d95f00}.book-nav{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:stretch;margin:0 0 70px}.nav-link,.toc{background:#171717;color:#fff;text-decoration:none;padding:15px 18px;display:flex;align-items:center;gap:10px}.nav-link{justify-content:space-between}.nav-link small,.toc small{font-size:10px;letter-spacing:.12em}.nav-link strong{font-size:13px}.toc{background:#f47b20;color:#171717;flex-direction:column;justify-content:center;min-width:110px}.disabled{opacity:.25}.intro{padding:70px 0 45px}.intro p{font-size:20px;max-width:650px;line-height:1.6}.toc-wrap{padding-bottom:70px}.toc-list{list-style:none;padding:0;margin:0}.toc-list li{border-bottom:1px solid #bbb}.toc-list a{display:grid;grid-template-columns:80px 1fr;gap:15px;padding:18px 0;text-decoration:none;color:#171717}.toc-list span{font-size:12px;letter-spacing:.1em;font-weight:700}.toc-list strong{font-size:17px}.corpus-jump{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 55px}.corpus-jump a{border:1px solid #bbb;background:#fff;color:#171717;text-decoration:none;padding:9px 12px;font-size:12px}.corpus-chapter{padding:55px 0;border-top:2px solid #171717;scroll-margin-top:20px}.corpus-chapter h2{font-family:Space,Arial,sans-serif;font-size:clamp(28px,4vw,44px);line-height:1.05;margin:12px 0}.source-link{font-family:Space,Arial,sans-serif;font-size:12px;margin:0 0 30px}.source-link a{color:#d95f00;text-decoration:none}footer{text-align:center;padding:28px 20px;border-top:1px solid #171717;background:#fff;font-size:11px;letter-spacing:.05em}@media(max-width:650px){.top{height:auto;min-height:60px;padding:15px 20px;display:block}.top span{display:block;margin-top:5px;font-size:9px}.book-meta{font-size:9px}.book-page{padding:28px 22px;margin-top:18px}.content{font-size:17px;line-height:1.75}.book-nav{grid-template-columns:1fr 1fr}.toc{grid-column:1/-1;grid-row:1;min-height:45px}.nav-link{grid-row:2}.intro{padding:50px 0 30px}.toc-list a{grid-template-columns:62px 1fr}.toc-list strong{font-size:15px}}
 '''
 
 if __name__ == "__main__":
