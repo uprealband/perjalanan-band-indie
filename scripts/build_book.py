@@ -66,9 +66,13 @@ def normalize_asset_urls(md):
 
 def remove_source_navigation(md):
     # The Markdown source contains its own Track navigation using .md links.
-    # The static HTML generator already provides canonical Previous/Next links,
-    # so remove the source navigation block to avoid broken relative .md URLs.
-    md = re.sub(r'\n---\s*\n\s*## Navigasi Track[\\s\\S]*\Z', '', md)
+    # The static HTML generator already provides canonical Previous/Next links.
+    marker = "## Navigasi Track"
+    pos = md.find(marker)
+    if pos != -1:
+        md = md[:pos].rstrip()
+        if md.endswith("---"):
+            md = md[:-3].rstrip()
     return md
 
 
