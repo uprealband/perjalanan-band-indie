@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-30T17:51:31.861903+00:00",
+  "generatedAt": "2026-09-30T18:07:27.749545+00:00",
   "items": [
     {
       "year": "2004",
@@ -4341,6 +4341,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Cover Antara Kita - Uprealband (AI English Version).mp3",
+      "path": "archive/2026/audio/Cover Antara Kita - Uprealband (AI English Version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Cover DARI DULU AKU BILANG UPREALBAND (Al Version).mp3",
       "path": "archive/2026/audio/Cover DARI DULU AKU BILANG UPREALBAND (Al Version).mp3"
     },
@@ -4739,7 +4746,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 61
+      "audio": 62
     }
   }
 }
