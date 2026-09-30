@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-30T16:34:40.508534+00:00",
+  "generatedAt": "2026-09-30T17:02:55.372810+00:00",
   "items": [
     {
       "year": "2004",
@@ -4390,6 +4390,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "COVER LEPASLAH - UPREALBAND (KPOP English Version).mp3",
+      "path": "archive/2026/audio/COVER LEPASLAH - UPREALBAND (KPOP English Version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Dari jualan kaos sablon hingga bangun studio rekaman sendiri juga album CD.mp3",
       "path": "archive/2026/audio/Dari jualan kaos sablon hingga bangun studio rekaman sendiri juga album CD.mp3"
     },
@@ -4718,7 +4725,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 58
+      "audio": 59
     }
   }
 }
