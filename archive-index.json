@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-27T19:57:07.361041+00:00",
+  "generatedAt": "2026-09-30T16:28:12.753346+00:00",
   "items": [
     {
       "year": "2004",
@@ -4348,6 +4348,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Cover kala malam uprealband (Guitar Electric Instrumental - AI version).mp3",
+      "path": "archive/2026/audio/Cover kala malam uprealband (Guitar Electric Instrumental - AI version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Cover Ku Menantimu - Alternative Rock - AI Version.mp3",
       "path": "archive/2026/audio/Cover Ku Menantimu - Alternative Rock - AI Version.mp3"
     },
@@ -4704,7 +4711,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 56
+      "audio": 57
     }
   }
 }
