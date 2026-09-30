@@ -125,6 +125,23 @@
       "addedAt": "2026-09-15T17:18:45+07:00"
     },
     {
+      "id": "lepaslah-uprealband-reggae-hybrid-version-lepaslah-uprealband-reggae-hybrid-version",
+      "type": "music",
+      "title": "Lepaslah - Uprealband (Reggae Hybrid Version)",
+      "artist": "Uprealband",
+      "album": "EVOLUTION",
+      "year": "2026",
+      "genre": "reggae",
+      "version": "Lepaslah   Uprealband (Reggae Hybrid Version)",
+      "universe": "HYBRID",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/lepaslah-uprealband-reggae-hybrid-version-lepaslah-uprealband-reggae-hybrid-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Lepaslah%20-%20Uprealband%20%28Reggae%20Hybrid%20Version%29.mp3",
+      "duration": "3:27",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-10-01T00:16:23+07:00"
+    },
+    {
       "id": "lepaslah-ai-edm-version",
       "type": "music",
       "title": "Lepaslah",

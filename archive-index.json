@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-30T17:15:38.090720+00:00",
+  "generatedAt": "2026-09-30T17:51:31.861903+00:00",
   "items": [
     {
       "year": "2004",
@@ -4467,6 +4467,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Lepaslah - Uprealband (Reggae Hybrid Version).mp3",
+      "path": "archive/2026/audio/Lepaslah - Uprealband (Reggae Hybrid Version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Misi Mangga Dua Dan Kedatangan Dari Weleri.mp3",
       "path": "archive/2026/audio/Misi Mangga Dua Dan Kedatangan Dari Weleri.mp3"
     },
@@ -4732,7 +4739,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 60
+      "audio": 61
     }
   }
 }
