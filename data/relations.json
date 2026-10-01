@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "relations": [
+    {"id":"UPR-REL-001","from":"UPR-EVT-2004-EP-COMPLETE","type":"preceded","to":"UPR-EVT-2004-ISMANU-LEAVES","status":"temporal","evidence":"TRACK-01"},
+    {"id":"UPR-REL-002","from":"UPR-EVT-2004-ISMANU-LEAVES","type":"resulted_in","to":"UPR-EVT-2004-EKA-JOINS","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-003","from":"UPR-EVT-2004-EKA-JOINS","type":"participated_in","to":"UPR-EVT-2004-BETAWI-FESTIVAL","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-004","from":"UPR-EVT-2004-BETAWI-FESTIVAL","type":"resulted_in","to":"UPR-WORK-VIDEO-KLIP-2004","status":"narrative_sequence","evidence":"TRACK-01"},
+    {"id":"UPR-REL-005","from":"UPR-EVT-2004-EKA-DEPARTS","type":"resulted_in","to":"UPR-EVT-2004-BASS-VACANCY-2","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-006","from":"UPR-EVT-2004-BASS-VACANCY-2","type":"motivated","to":"UPR-EVT-2004-GERRY-IDEA","status":"narrative_causal","evidence":"TRACK-01"},
+    {"id":"UPR-REL-007","from":"UPR-EVT-2004-GERRY-IDEA","type":"led_to","to":"UPR-EVT-2004-MERAYU-GERRY","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-008","from":"UPR-EVT-2004-MERAYU-GERRY","type":"resulted_in","to":"UPR-EVT-2004-ROXY-TEST","status":"explicit","evidence":"TRACK-01;TRACK-02"},
+    {"id":"UPR-REL-009","from":"UPR-EVT-2004-MANGGA-DUA","type":"enabled","to":"UPR-EVT-2004-ANUS-OFFERS-APOY","status":"explicit","evidence":"TRACK-02"},
+    {"id":"UPR-REL-010","from":"UPR-EVT-2004-ANUS-OFFERS-APOY","type":"led_to","to":"UPR-EVT-2004-ROXY-TEST","status":"explicit","evidence":"TRACK-02"},
+    {"id":"UPR-REL-011","from":"UPR-EVT-2004-ROXY-TEST","type":"resulted_in","to":"UPR-EVT-2004-APOY-JOINS","status":"explicit","evidence":"TRACK-02"},
+    {"id":"UPR-REL-012","from":"UPR-EVT-2004-APOY-JOINS","type":"preceded","to":"UPR-EVT-2004-APOY-MUDIK","status":"temporal","evidence":"TRACK-02"},
+    {"id":"UPR-REL-013","from":"UPR-PERSON-GLEN","type":"played_on","to":"UPR-WORK-EP-2004","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-014","from":"UPR-PERSON-GERRY","type":"played_on","to":"UPR-WORK-EP-2004","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-015","from":"UPR-PERSON-EKA","type":"appears_in","to":"UPR-WORK-VIDEO-KLIP-2004","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-016","from":"UPR-PERSON-GLEN","type":"appears_on_audio_of","to":"UPR-WORK-VIDEO-KLIP-2004","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-017","from":"UPR-PERSON-GERRY","type":"appears_on_audio_of","to":"UPR-WORK-VIDEO-KLIP-2004","status":"explicit","evidence":"TRACK-01"},
+    {"id":"UPR-REL-018","from":"UPR-PERSON-OBHIK","type":"processed_audio_for","to":"UPR-WORK-VIDEO-KLIP-2004","status":"explicit","evidence":"TRACK-01"}
+  ]
+}
