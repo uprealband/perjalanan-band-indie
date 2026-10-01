@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "benchmarkId": "UPREALBAND-HISTORICAL-REASONING-BENCHMARK-0.1",
+  "scope": [
+    "TRACK-01",
+    "TRACK-02"
+  ],
+  "purpose": "Mengukur apakah struktur machine-readable meningkatkan factual, temporal, entity, relation, causal, source attribution, unknown handling, dan resistance terhadap hallucination.",
+  "rules": [
+    "Jawaban harus dibatasi pada sumber yang tersedia.",
+    "Jangan mengubah urutan waktu menjadi sebab-akibat tanpa bukti.",
+    "Jika informasi tidak tersedia, jawaban yang benar adalah menyatakan tidak diketahui dari sumber.",
+    "Untuk pertanyaan jebakan, skor penuh diberikan jika model menolak premis yang tidak didukung."
+  ],
+  "questions": [
+    {
+      "id": "Q001",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa yang membantu mengisi permainan bass pada rekaman EP?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q002",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa yang menjadi bassist setelah Ismanu tidak melanjutkan?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q003",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa yang menjadi drummer setelah Gerry pindah ke bass?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q004",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa yang menawarkan Apoy kepada Bany?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q005",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa yang menjadi juri festival yang diikuti Uprealband?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q006",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa yang membantu makeup dan pakaian saat festival?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q007",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa yang memproses permainan drum pada audio video klip?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q008",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Apa nama bass bekas berwarna hijau yang dibawa Jon?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q009",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Lagu Benyamin Sueb apa yang dimainkan di festival?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q010",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Di mana video klip awal dibuat?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q011",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Di mana latihan perdana Gerry bass dan Apoy drum berlangsung?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q012",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Ke mana Apoy mudik setelah bergabung?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q013",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Apa hasil Uprealband di festival Betawi?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q014",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Tahun berapa rangkaian peristiwa Track 01-02 berlangsung?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q015",
+      "category": "factual",
+      "question": "factual",
+      "expected": "Siapa saja yang terlihat dalam visual video klip menurut narasi?",
+      "type": "supported",
+      "scoring": "factual"
+    },
+    {
+      "id": "Q016",
+      "category": "temporal",
+      "question": "Kapan EP selesai dibandingkan dengan keluarnya Ismanu?",
+      "expected": "EP selesai lebih dahulu",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q017",
+      "category": "temporal",
+      "question": "Apa yang terjadi setelah Ismanu tidak melanjutkan?",
+      "expected": "Eka bergabung sebagai bassist",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q018",
+      "category": "temporal",
+      "question": "Apa yang terjadi setelah Eka tidak lagi diajak melanjutkan?",
+      "expected": "Posisi bassist kembali kosong",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q019",
+      "category": "temporal",
+      "question": "Apa yang terjadi setelah muncul ide Gerry menjadi bassist?",
+      "expected": "Bany dan Jon mendatangi rumah Gerry untuk membujuknya",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q020",
+      "category": "temporal",
+      "question": "Apa yang terjadi setelah Gerry menyetujui mencoba bass?",
+      "expected": "Pencarian drummer berlanjut",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q021",
+      "category": "temporal",
+      "question": "Apa yang terjadi setelah Anus menawarkan keponakannya?",
+      "expected": "Uprealband menjadwalkan latihan dengan formasi baru",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q022",
+      "category": "temporal",
+      "question": "Apa yang terjadi setelah latihan di Roxy Studio?",
+      "expected": "Apoy resmi diangkat menjadi drummer",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q023",
+      "category": "temporal",
+      "question": "Apa yang terjadi setelah Apoy bergabung?",
+      "expected": "Apoy mudik ke Weleri",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q024",
+      "category": "temporal",
+      "question": "Apakah video dibuat sebelum atau sesudah Eka bergabung?",
+      "expected": "Sesudah Eka bergabung",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q025",
+      "category": "temporal",
+      "question": "Apakah audio video klip berasal dari rekaman yang dibuat sebelumnya?",
+      "expected": "Ya",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q026",
+      "category": "temporal",
+      "question": "Apakah Apoy sudah mudik sebelum latihan Roxy?",
+      "expected": "Tidak, mudik terjadi setelah latihan dan setelah ia diangkat menjadi drummer",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q027",
+      "category": "temporal",
+      "question": "Apakah Gerry sudah menjadi bassist ketika Apoy menjalani latihan perdana di Roxy?",
+      "expected": "Ya",
+      "type": "supported",
+      "scoring": "temporal"
+    },
+    {
+      "id": "Q028",
+      "category": "entity",
+      "question": "Siapa yang berperan sebagai bassist senior non-personel tetap?",
+      "expected": "UPR-PERSON-GLEN",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q029",
+      "category": "entity",
+      "question": "Siapa yang berperan sebagai bassist sebelum Eka?",
+      "expected": "UPR-PERSON-ISMANU",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q030",
+      "category": "entity",
+      "question": "Siapa yang kemudian menjadi bassist setelah Eka tidak melanjutkan?",
+      "expected": "UPR-PERSON-GERRY",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q031",
+      "category": "entity",
+      "question": "Siapa yang berpindah dari drum ke bass?",
+      "expected": "UPR-PERSON-GERRY",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q032",
+      "category": "entity",
+      "question": "Siapa yang menjadi drummer setelah perpindahan Gerry?",
+      "expected": "UPR-PERSON-APOY",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q033",
+      "category": "entity",
+      "question": "Siapa yang membawa hubungan keluarga dengan Eka melalui Ikah?",
+      "expected": "UPR-PERSON-AGA-MAULANA",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q034",
+      "category": "entity",
+      "question": "Siapa teman sekolah Obhik yang mengantar ke Mangga Dua?",
+      "expected": "UPR-PERSON-ANUS",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q035",
+      "category": "entity",
+      "question": "Siapa yang tinggal di Gang Rinjani dan kemudian bergabung sebagai bassist?",
+      "expected": "UPR-PERSON-EKA",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q036",
+      "category": "entity",
+      "question": "Siapa paman Bany yang rumahnya dipakai membuat video?",
+      "expected": "UPR-PERSON-PAMAN-KAWIT",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q037",
+      "category": "entity",
+      "question": "Siapa musisi yang kemudian dikenal sebagai Mbah Surip?",
+      "expected": "UPR-PERSON-MBAH-SURIP",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q038",
+      "category": "entity",
+      "question": "Apa organisasi/band yang menjadi konteks seluruh peristiwa?",
+      "expected": "UPR-BAND-UPREALBAND",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q039",
+      "category": "entity",
+      "question": "Apa hubungan Gerry dengan EP selain kemudian menjadi bassist?",
+      "expected": "Gerry memainkan drum pada EP",
+      "type": "supported",
+      "scoring": "entity"
+    },
+    {
+      "id": "Q040",
+      "category": "relation",
+      "question": "Apa hubungan EP selesai dengan Ismanu keluar?",
+      "expected": "temporal: EP selesai mendahului Ismanu keluar",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q041",
+      "category": "relation",
+      "question": "Apa hubungan Ismanu keluar dengan Eka bergabung?",
+      "expected": "resulted_in, status explicit",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q042",
+      "category": "relation",
+      "question": "Apa hubungan Eka bergabung dengan festival Betawi?",
+      "expected": "participated_in",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q043",
+      "category": "relation",
+      "question": "Apa status hubungan festival Betawi dengan pembuatan video?",
+      "expected": "narrative_sequence, bukan sebab-akibat pasti",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q044",
+      "category": "relation",
+      "question": "Apa hubungan Eka tidak melanjutkan dengan posisi bassist kosong?",
+      "expected": "resulted_in, status explicit",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q045",
+      "category": "relation",
+      "question": "Apa hubungan bassist kosong dengan ide Gerry?",
+      "expected": "motivated, status narrative_causal",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q046",
+      "category": "relation",
+      "question": "Apa hubungan ide Gerry dengan operasi merayu Gerry?",
+      "expected": "led_to, status explicit",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q047",
+      "category": "relation",
+      "question": "Apa hubungan operasi merayu Gerry dengan latihan Roxy?",
+      "expected": "resulted_in",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q048",
+      "category": "relation",
+      "question": "Apa hubungan perjalanan Mangga Dua dengan tawaran Apoy?",
+      "expected": "enabled",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q049",
+      "category": "relation",
+      "question": "Apa hubungan tawaran Apoy dengan latihan Roxy?",
+      "expected": "led_to",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q050",
+      "category": "relation",
+      "question": "Apa hubungan latihan Roxy dengan Apoy bergabung?",
+      "expected": "resulted_in",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q051",
+      "category": "relation",
+      "question": "Apa hubungan Apoy bergabung dengan Apoy mudik?",
+      "expected": "temporal: preceded",
+      "type": "supported",
+      "scoring": "relation"
+    },
+    {
+      "id": "Q052",
+      "category": "causal",
+      "question": "Apakah Eka yang memainkan bass pada audio video klip?",
+      "expected": "Tidak. Audio berasal dari rekaman sebelumnya dan bass dimainkan Glen.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q053",
+      "category": "causal",
+      "question": "Apakah visual dan audio video klip dibuat pada waktu yang sama?",
+      "expected": "Tidak didukung. Narasi menyebut visual dibuat kemudian memakai audio rekaman sebelumnya.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q054",
+      "category": "causal",
+      "question": "Apakah Eka dikeluarkan karena bertengkar dengan personel lain?",
+      "expected": "Tidak ada bukti pertengkaran; narasi justru menyatakan tidak ada pertengkaran atau rapat pengeluaran.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q055",
+      "category": "causal",
+      "question": "Apakah Eka mengundurkan diri secara resmi?",
+      "expected": "Tidak ada surat pengunduran diri; narasi menyatakan Eka tidak lagi diajak melanjutkan.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q056",
+      "category": "causal",
+      "question": "Apakah Gerry awalnya adalah bassist tetap?",
+      "expected": "Tidak. Gerry sebelumnya drummer.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q057",
+      "category": "causal",
+      "question": "Apakah Apoy langsung tetap tinggal di Depok setelah bergabung?",
+      "expected": "Tidak. Ia segera pamit mudik ke Weleri untuk waktu cukup lama.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q058",
+      "category": "causal",
+      "question": "Apakah Glen merupakan personel tetap Uprealband?",
+      "expected": "Tidak. Narasi menyebut Glen bukan personel tetap.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q059",
+      "category": "causal",
+      "question": "Apakah kemenangan festival secara eksplisit menyebabkan pembuatan video?",
+      "expected": "Tidak dipastikan sebagai sebab; data menandainya narrative_sequence.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q060",
+      "category": "causal",
+      "question": "Apakah posisi bassist kosong merupakan satu-satunya alasan yang secara eksplisit diberikan untuk ide Gerry?",
+      "expected": "Narasi mengaitkan kekosongan bassist dengan munculnya ide tersebut, tetapi status relasinya narrative_causal.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q061",
+      "category": "causal",
+      "question": "Apakah kita tahu tanggal pasti Ismanu keluar?",
+      "expected": "Tidak. Dataset hanya memberi tahun 2004.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q062",
+      "category": "causal",
+      "question": "Apakah kita tahu tanggal pasti Eka tidak lagi diajak?",
+      "expected": "Tidak. Dataset hanya memberi tahun 2004.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q063",
+      "category": "causal",
+      "question": "Apakah kita tahu berapa lama tepatnya Apoy mudik?",
+      "expected": "Tidak. Narasi hanya menyebut waktu yang terhitung cukup lama.",
+      "type": "supported",
+      "scoring": "causal"
+    },
+    {
+      "id": "Q064",
+      "category": "source",
+      "question": "Sumber apa yang mendukung klaim Glen memainkan bass pada EP?",
+      "expected": "TRACK-01",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q065",
+      "category": "source",
+      "question": "Sumber apa yang mendukung klaim Apoy ditemukan melalui Anus?",
+      "expected": "TRACK-02",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q066",
+      "category": "source",
+      "question": "Sumber apa yang mendukung klaim latihan Gerry bass dan Apoy drum di Roxy?",
+      "expected": "TRACK-02",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q067",
+      "category": "source",
+      "question": "Sumber apa yang mendukung klaim video klip memiliki visual Eka dan audio Glen/Gerry/Obhik?",
+      "expected": "TRACK-01 dan SRC-VIDEO-2004",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q068",
+      "category": "source",
+      "question": "Sumber apa yang mendukung klaim Ismanu keluar lalu Eka bergabung?",
+      "expected": "TRACK-01",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q069",
+      "category": "source",
+      "question": "Apakah video YouTube merupakan sumber naratif atau primary media?",
+      "expected": "primary_media",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q070",
+      "category": "source",
+      "question": "Apa URL artefak video yang dicatat dalam sources.json?",
+      "expected": "https://www.youtube.com/watch?v=2_cIB5c5EEg",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q071",
+      "category": "source",
+      "question": "Apakah Track 02 mendukung klaim tentang festival Betawi?",
+      "expected": "Tidak, Track 02 berfokus pada Mangga Dua, Apoy, dan Roxy.",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q072",
+      "category": "source",
+      "question": "Apakah Track 01 mendukung klaim tentang Apoy ditemukan oleh Anus?",
+      "expected": "Tidak secara langsung; rangkaian itu berada di Track 02.",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q073",
+      "category": "source",
+      "question": "Apakah source field pada events membedakan Track 01 dan Track 02?",
+      "expected": "Ya",
+      "type": "supported",
+      "scoring": "source"
+    },
+    {
+      "id": "Q074",
+      "category": "epistemic",
+      "question": "Jika sumber hanya menyebut '2004', bolehkah model menjawab 'Maret 2004'?",
+      "expected": "Tidak",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q075",
+      "category": "epistemic",
+      "question": "Jika dua peristiwa berurutan dalam narasi, bolehkah model otomatis menyebut peristiwa pertama sebagai penyebab kedua?",
+      "expected": "Tidak",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q076",
+      "category": "epistemic",
+      "question": "Jika Eka terlihat dalam video dan Glen bermain pada audio, apakah itu kontradiksi?",
+      "expected": "Tidak. Visual dan audio berasal dari konteks periode yang berbeda.",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q077",
+      "category": "epistemic",
+      "question": "Jika Gerry terlihat/terlibat dalam video, apakah otomatis ia memainkan drum saat visual direkam?",
+      "expected": "Tidak. Audio menggunakan rekaman sebelumnya.",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q078",
+      "category": "epistemic",
+      "question": "Apakah status 'remembered' berarti peristiwa sudah memiliki tanggal arsip independen?",
+      "expected": "Tidak",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q079",
+      "category": "epistemic",
+      "question": "Apakah semua relasi dalam relations.json bersifat kausal?",
+      "expected": "Tidak",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q080",
+      "category": "epistemic",
+      "question": "Apakah 'preceded' sama dengan 'resulted_in'?",
+      "expected": "Tidak",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q081",
+      "category": "epistemic",
+      "question": "Apakah 'narrative_causal' sama tingkat kepastiannya dengan 'explicit'?",
+      "expected": "Tidak",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q082",
+      "category": "epistemic",
+      "question": "Apakah sumber yang tidak ditemukan boleh dibuat-buat agar jawaban terlihat lengkap?",
+      "expected": "Tidak",
+      "type": "supported",
+      "scoring": "epistemic"
+    },
+    {
+      "id": "Q083",
+      "category": "epistemic",
+      "question": "Jika dataset tidak memuat alasan pribadi Eka, apa respons yang benar?",
+      "expected": "Nyatakan bahwa alasan tersebut tidak diketahui dari sumber yang tersedia.",
+      "type": "supported",
+      "scoring": "epistemic"
+    }
+  ]
+}
