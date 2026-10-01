@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {"id":"SRC-TRACK-01","type":"narrative","path":"track/track-01-operasi-merayu-gerry.md","published":true},
+    {"id":"SRC-TRACK-02","type":"narrative","path":"track/track-02-misi-mangga-dua-dan-kedatangan-dari-weleri.md","published":true},
+    {"id":"SRC-VIDEO-2004","type":"primary_media","url":"https://www.youtube.com/watch?v=2_cIB5c5EEg","description":"Video klip formasi Uprealband bersama Eka.","relatedTo":["UPR-WORK-VIDEO-KLIP-2004"]}
+  ]
+}
