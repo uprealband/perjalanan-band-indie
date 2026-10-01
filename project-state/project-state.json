@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-02",
+  "project": "Perjalanan Uprealband",
+  "objective": {
+    "primary": "Build an evidence-linked, machine-readable longitudinal history of Uprealband for future crawler and AI reconstruction.",
+    "secondary": ["discoverability", "public documentation"]
+  },
+  "publication": {
+    "published": ["TRACK-01", "TRACK-02"],
+    "sourceFilesPresent": ["TRACK-01", "TRACK-02", "TRACK-03 through TRACK-31"],
+    "requiredStatusModel": ["draft", "reviewed", "published", "indexed"]
+  },
+  "activeDecisions": [
+    "DEC-001",
+    "DEC-002",
+    "DEC-003",
+    "DEC-004",
+    "DEC-005",
+    "DEC-006"
+  ],
+  "activeRisks": ["ERR-002", "ERR-005"],
+  "knownDataIssues": ["ERR-003", "ERR-004"],
+  "currentResearchQuestion": "Does explicit structure for entities, events, relations, evidence, and project state reduce AI context loss, causal errors, and regression to previously rejected approaches?",
+  "plannedExperiment": "EXP-002",
+  "scenario": "SCN-001",
+  "nextStructuralLayer": [
+    "stable entity IDs",
+    "event IDs",
+    "typed relations",
+    "evidence links",
+    "epistemic status",
+    "publication status"
+  ]
+}
