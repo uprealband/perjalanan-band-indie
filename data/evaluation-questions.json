@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "scope": ["TRACK-01","TRACK-02"],
+  "questions": [
+    {"id":"Q01","question":"Siapa yang membantu mengisi bass pada rekaman EP awal Uprealband?","expected":["UPR-PERSON-GLEN"]},
+    {"id":"Q02","question":"Apa yang terjadi setelah Ismanu tidak melanjutkan perjalanan?","expected":["UPR-EVT-2004-EKA-JOINS"]},
+    {"id":"Q03","question":"Mengapa posisi bassist kembali kosong untuk kedua kalinya?","expected":["UPR-EVT-2004-EKA-DEPARTS","UPR-EVT-2004-BASS-VACANCY-2"]},
+    {"id":"Q04","question":"Mengapa Gerry kemudian dipertimbangkan menjadi bassist?","expected":["UPR-EVT-2004-BASS-VACANCY-2","UPR-EVT-2004-GERRY-IDEA"]},
+    {"id":"Q05","question":"Siapa yang menjadi drummer setelah Gerry berpindah ke bass?","expected":["UPR-PERSON-APOY"]},
+    {"id":"Q06","question":"Bagaimana Apoy ditemukan?","expected":["UPR-EVT-2004-MANGGA-DUA","UPR-EVT-2004-ANUS-OFFERS-APOY"]},
+    {"id":"Q07","question":"Di mana latihan pertama Gerry sebagai bassist dan Apoy sebagai drummer berlangsung?","expected":["UPR-PLACE-ROXY-STUDIO","UPR-EVT-2004-ROXY-TEST"]},
+    {"id":"Q08","question":"Apakah audio video klip bersama Eka direkam pada saat visual video dibuat?","expected":["UPR-WORK-VIDEO-KLIP-2004"]},
+    {"id":"Q09","question":"Siapa yang memainkan bass pada audio yang digunakan dalam video klip tersebut?","expected":["UPR-PERSON-GLEN"]},
+    {"id":"Q10","question":"Apa hubungan Gerry dengan rekaman audio video klip tersebut?","expected":["UPR-PERSON-GERRY","UPR-PERSON-OBHIK"]},
+    {"id":"Q11","question":"Mana yang merupakan fakta temporal dan mana yang merupakan hubungan sebab-akibat dalam rangkaian Ismanu -> Eka?","expected":["UPR-REL-001","UPR-REL-002"]},
+    {"id":"Q12","question":"Apakah semua hubungan antarperistiwa di dataset ini boleh dianggap sebagai sebab-akibat yang pasti?","expected":["temporal relation is not automatically causal"]}
+  ],
+  "scoring": {
+    "factual": "0-1",
+    "temporal": "0-1",
+    "entity": "0-1",
+    "relation": "0-1",
+    "source": "0-1",
+    "causal": "0-1",
+    "hallucination": "0-1"
+  }
+}
