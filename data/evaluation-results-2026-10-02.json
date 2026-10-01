@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "experimentId": "EXP-2026-10-02-STRUCTURED-QA-01",
+  "date": "2026-10-02",
+  "scope": [
+    "TRACK-01",
+    "TRACK-02"
+  ],
+  "method": "Simulasi tanya-jawab terhadap machine-readable layer entities/events/relations/sources tanpa menambah fakta di luar dataset.",
+  "questions": [
+    {
+      "id": "Q01",
+      "answer": "Glen membantu mengisi bass pada rekaman EP awal.",
+      "evidence": [
+        "UPR-REL-013"
+      ],
+      "score": {
+        "factual": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q02",
+      "answer": "Setelah Ismanu tidak melanjutkan, Eka bergabung sebagai bassist baru.",
+      "evidence": [
+        "UPR-REL-002"
+      ],
+      "score": {
+        "factual": 1,
+        "temporal": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q03",
+      "answer": "Eka tidak lagi diajak melanjutkan perjalanan, sehingga posisi bassist kembali kosong untuk kedua kalinya.",
+      "evidence": [
+        "UPR-EVT-2004-EKA-DEPARTS",
+        "UPR-REL-005",
+        "UPR-EVT-2004-BASS-VACANCY-2"
+      ],
+      "score": {
+        "factual": 1,
+        "temporal": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q04",
+      "answer": "Karena posisi bassist kembali kosong, Bany dan Jon mengusulkan Gerry berpindah dari drum ke bass.",
+      "evidence": [
+        "UPR-REL-006",
+        "UPR-EVT-2004-GERRY-IDEA"
+      ],
+      "score": {
+        "factual": 1,
+        "entity": 1,
+        "relation": 1,
+        "causal": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q05",
+      "answer": "Apoy menjadi drummer setelah Gerry berpindah ke bass.",
+      "evidence": [
+        "UPR-EVT-2004-APOY-JOINS",
+        "UPR-REL-011"
+      ],
+      "score": {
+        "factual": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q06",
+      "answer": "Apoy ditemukan melalui Anus. Dalam perjalanan ke Mangga Dua, Anus menawarkan keponakannya dari Weleri sebagai calon drummer.",
+      "evidence": [
+        "UPR-EVT-2004-MANGGA-DUA",
+        "UPR-EVT-2004-ANUS-OFFERS-APOY",
+        "UPR-REL-009"
+      ],
+      "score": {
+        "factual": 1,
+        "temporal": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q07",
+      "answer": "Latihan perdana formasi Gerry sebagai bassist dan Apoy sebagai drummer berlangsung di Roxy Studio.",
+      "evidence": [
+        "UPR-EVT-2004-ROXY-TEST"
+      ],
+      "score": {
+        "factual": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q08",
+      "answer": "Tidak. Dataset menyatakan visual video dibuat dengan audio dari rekaman sebelumnya, jadi audio dan visual bukan direkam pada saat yang sama.",
+      "evidence": [
+        "UPR-EVT-2004-VIDEO"
+      ],
+      "score": {
+        "factual": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q09",
+      "answer": "Glen memainkan bass pada audio yang digunakan dalam video klip tersebut.",
+      "evidence": [
+        "UPR-REL-016"
+      ],
+      "score": {
+        "factual": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q10",
+      "answer": "Gerry ikut bermain pada audio video klip, sementara Obhik memproses audio tersebut.",
+      "evidence": [
+        "UPR-REL-017",
+        "UPR-REL-018"
+      ],
+      "score": {
+        "factual": 1,
+        "entity": 1,
+        "relation": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q11",
+      "answer": "UPR-REL-001 adalah hubungan temporal: EP selesai mendahului Ismanu keluar. UPR-REL-002 adalah hubungan sebab/hasil yang ditulis eksplisit: Ismanu tidak melanjutkan lalu Eka bergabung.",
+      "evidence": [
+        "UPR-REL-001",
+        "UPR-REL-002"
+      ],
+      "score": {
+        "temporal": 1,
+        "relation": 1,
+        "causal": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    },
+    {
+      "id": "Q12",
+      "answer": "Tidak. Dataset secara eksplisit membedakan temporal, explicit, narrative_sequence, dan narrative_causal. Urutan waktu tidak otomatis berarti sebab-akibat.",
+      "evidence": [
+        "UPR-REL-001",
+        "UPR-REL-004",
+        "UPR-REL-006",
+        "data/README.md"
+      ],
+      "score": {
+        "relation": 1,
+        "causal": 1,
+        "source": 1,
+        "hallucination": 1
+      }
+    }
+  ],
+  "aggregate": {
+    "questions": 12,
+    "factual_answers_supported": 12,
+    "temporal_answers_supported": 4,
+    "entity_answers_supported": 10,
+    "relation_answers_supported": 12,
+    "source_answers_supported": 12,
+    "causal_answers_supported": 3,
+    "hallucination_free": 12
+  },
+  "finding": "Machine-readable layer berhasil merekonstruksi rangkaian personel, lokasi, urutan peristiwa, serta sebagian hubungan sebab-akibat dari Track 01-02. Namun ini baru menunjukkan bahwa schema dapat menjawab pertanyaan yang memang sudah dimodelkan. Belum membuktikan keunggulan dibanding narasi mentah.",
+  "nextExperiment": "Ulangi 12 pertanyaan yang sama pada baseline narasi saja, blind terhadap data/relations, lalu bandingkan factual, temporal, entity, relation, source, causal, dan hallucination."
+}
