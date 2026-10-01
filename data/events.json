@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "events": [
+    {"id":"UPR-EVT-2004-EP-COMPLETE","year":2004,"type":"milestone","status":"remembered","description":"EP selesai direkam.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-ISMANU-LEAVES","year":2004,"type":"personnel_change","status":"remembered","description":"Ismanu tidak melanjutkan perjalanan bersama Uprealband.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-EKA-JOINS","year":2004,"type":"personnel_change","status":"remembered","description":"Eka bergabung sebagai bassist baru.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-BETAWI-FESTIVAL","year":2004,"type":"performance","status":"remembered","description":"Uprealband mengikuti festival musik tingkat kelurahan bertema Betawi dan mendapat Juara II.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-VIDEO","year":2004,"type":"production","status":"remembered","description":"Video klip sederhana dibuat di rumah Paman Kawit dengan visual formasi bersama Eka dan audio dari rekaman sebelumnya.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-EKA-DEPARTS","year":2004,"type":"personnel_change","status":"remembered","description":"Eka tidak lagi diajak melanjutkan perjalanan setelah persoalan jadwal latihan terkait promo servis motor gratis.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-BASS-VACANCY-2","year":2004,"type":"personnel_change","status":"remembered","description":"Posisi bassist kembali kosong untuk kedua kalinya.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-GERRY-IDEA","year":2004,"type":"decision","status":"remembered","description":"Bany dan Jon mengusulkan Gerry berpindah dari drum ke bass.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-MERAYU-GERRY","year":2004,"type":"personnel_change","status":"remembered","description":"Gerry menyetujui untuk mencoba menjadi bassist.","source":["TRACK-01"]},
+    {"id":"UPR-EVT-2004-MANGGA-DUA","year":2004,"type":"trip","status":"remembered","description":"Obhik, Anus, dan Bany pergi ke Mangga Dua untuk urusan PC/software musik.","source":["TRACK-02"]},
+    {"id":"UPR-EVT-2004-ANUS-OFFERS-APOY","year":2004,"type":"introduction","status":"remembered","description":"Anus menawarkan keponakannya dari Weleri sebagai calon drummer.","source":["TRACK-02"]},
+    {"id":"UPR-EVT-2004-ROXY-TEST","year":2004,"type":"rehearsal","status":"remembered","description":"Latihan perdana formasi Gerry bass dan Apoy drum di Roxy Studio.","source":["TRACK-02"]},
+    {"id":"UPR-EVT-2004-APOY-JOINS","year":2004,"type":"personnel_change","status":"remembered","description":"Apoy diangkat menjadi drummer baru Uprealband.","source":["TRACK-02"]},
+    {"id":"UPR-EVT-2004-APOY-MUDIK","year":2004,"type":"personnel_change","status":"remembered","description":"Apoy pamit mudik ke Weleri setelah bergabung.","source":["TRACK-02"]}
+  ]
+}
