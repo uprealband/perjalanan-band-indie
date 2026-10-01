@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-30T18:07:27.749545+00:00",
+  "generatedAt": "2026-10-01T17:48:05.438056+00:00",
   "items": [
     {
       "year": "2004",
@@ -4579,6 +4579,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Uprealband - Biarkan Cintamu  I'M NOT GOOOOD!! (English - AI Version).mp3",
+      "path": "archive/2026/audio/Uprealband - Biarkan Cintamu  I'M NOT GOOOOD!! (English - AI Version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Uprealband Comeback Diam-Diam… Lagu Barunya Bikin Ayah Nahan Nangis 😭 ｜ Rinjani Radio Depok.mp3",
       "path": "archive/2026/audio/Uprealband Comeback Diam-Diam… Lagu Barunya Bikin Ayah Nahan Nangis 😭 ｜ Rinjani Radio Depok.mp3"
     },
@@ -4746,7 +4753,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 62
+      "audio": 63
     }
   }
 }
