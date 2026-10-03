@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-02T11:26:59.497993+00:00",
+  "generatedAt": "2026-10-03T05:30:57.614146+00:00",
   "items": [
     {
       "year": "2004",
@@ -4509,6 +4509,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband.m4a",
+      "path": "archive/2026/audio/Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband.m4a"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Rahasia Kenapa Uprealband Masih Bertahan ｜ Kisah Band Indie yang Menolak Bubar.mp3",
       "path": "archive/2026/audio/Rahasia Kenapa Uprealband Masih Bertahan ｜ Kisah Band Indie yang Menolak Bubar.mp3"
     },
@@ -4760,7 +4767,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 64
+      "audio": 65
     }
   }
 }
