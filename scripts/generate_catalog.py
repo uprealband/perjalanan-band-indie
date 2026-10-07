@@ -152,7 +152,7 @@ def audio_candidates():
             if not audio_dir.exists():
                 continue
             for path in sorted(audio_dir.rglob("*")):
-                if path.is_file() and path.suffix.lower() == ".mp3":
+                if path.is_file() and path.suffix.lower() in (".mp3", ".m4a", ".wav", ".aac", ".flac", ".ogg", ".oga"):
                     candidates.append(path)
                     archive_names.add(path.name.lower())
 
@@ -597,7 +597,7 @@ def main():
             print(f"[ERROR] Invalid audio: {path}: {exc}")
 
     if audio_errors:
-        print("[ERROR] Catalog generation aborted because one or more MP3 files are invalid.")
+        print("[ERROR] Catalog generation aborted because one or more archive audio files are invalid.")
         for error in audio_errors:
             print(f" - {error}")
         raise SystemExit(1)
