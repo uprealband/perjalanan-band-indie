@@ -193,8 +193,8 @@ def read_common(path):
     audio = File(path, easy=False)
     if audio is None:
         raise ValueError("invalid or unreadable audio file")
-    if not getattr(audio, "info", None) or not getattr(audio.info, "length", None):
-        raise ValueError("audio has no valid duration/frame information")
+    if audio is None or not getattr(audio, "info", None):
+        raise ValueError("audio format is unreadable")
     tags = audio.tags or {}
     title = first(tags, "TIT2", "title") or re.sub(
         r"^Uprealband-", "", path.stem, flags=re.I
