@@ -703,23 +703,6 @@
       "addedAt": "2026-10-03T12:28:37+07:00"
     },
     {
-      "id": "podcast-meretas-ai-gratisan-ala-bany-uprealband-podcast-meretas-ai-gratisan-ala-bany-uprealband",
-      "type": "music",
-      "title": "podcast meretas AI gratisan ala Bany Uprealband",
-      "artist": "Uprealband",
-      "album": "",
-      "year": "",
-      "genre": "",
-      "version": "podcast meretas AI gratisan ala Bany Uprealband",
-      "universe": "",
-      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-meretas-ai-gratisan-ala-bany-uprealband-podcast-meretas-ai-gratisan-ala-bany-uprealband.jpg",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/podcast%20meretas%20AI%20gratisan%20ala%20Bany%20Uprealband.m4a",
-      "duration": "",
-      "releaseDate": "",
-      "featured": false,
-      "addedAt": "2026-10-07T21:20:12+07:00"
-    },
-    {
       "id": "operasi-merayu-gerry-track-01-operasi-merayu-gerry",
       "type": "music",
       "title": "Operasi Merayu Gerry",
@@ -1149,6 +1132,21 @@
     }
   ],
   "podcasts": [
+    {
+      "id": "podcast-podcast-meretas-ai-gratisan-ala-bany-uprealband",
+      "type": "podcast",
+      "title": "podcast meretas AI gratisan ala Bany Uprealband",
+      "description": "",
+      "artist": "Uprealband",
+      "album": "",
+      "year": "",
+      "genre": "",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-podcast-meretas-ai-gratisan-ala-bany-uprealband.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/podcast%20meretas%20AI%20gratisan%20ala%20Bany%20Uprealband.m4a",
+      "duration": "",
+      "releaseDate": "",
+      "addedAt": "2026-10-07T21:20:12+07:00"
+    },
     {
       "id": "podcast-air-play-pop-fm-103-jakarta-raya-lepaslah",
       "type": "podcast",
