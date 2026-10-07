@@ -605,7 +605,7 @@ def main():
                 or explicit_type == "podcast"
                 or album == "podcast"
                 or genre == "podcast"
-                or bool(re.search(r"\\bpodcast\\b", legacy_text, flags=re.I))
+                or bool(re.search(r"\bpodcast\b", legacy_text, flags=re.I))
                 or is_radio_archive
             )
 
