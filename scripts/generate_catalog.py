@@ -90,6 +90,7 @@ def cover_for(item_id, audio=None, explicit_cover=""):
             return RAW_BASE + p.relative_to(ROOT).as_posix()
 
     if audio is not None and getattr(audio, "tags", None):
+        # ID3 artwork (MP3).
         for key in audio.tags.keys():
             if str(key).upper().startswith("APIC:"):
                 pic = audio.tags[key]
@@ -103,6 +104,25 @@ def cover_for(item_id, audio=None, explicit_cover=""):
                     "webp" if mime == "image/webp" else
                     "jpg"
                 )
+                ARTWORK_ROOT.mkdir(parents=True, exist_ok=True)
+                out = ARTWORK_ROOT / f"{item_id}.{ext}"
+                out.write_bytes(data)
+                return RAW_BASE + out.relative_to(ROOT).as_posix()
+
+        # MP4/M4A artwork is stored in the "covr" atom, not APIC.
+        covr = audio.tags.get("covr")
+        if covr:
+            pictures = covr if isinstance(covr, list) else [covr]
+            for pic in pictures:
+                data = bytes(pic)
+                if not data:
+                    continue
+                if data.startswith(b"\\x89PNG\\r\\n\\x1a\\n"):
+                    ext = "png"
+                elif data.startswith(b"RIFF") and data[8:12] == b"WEBP":
+                    ext = "webp"
+                else:
+                    ext = "jpg"
                 ARTWORK_ROOT.mkdir(parents=True, exist_ok=True)
                 out = ARTWORK_ROOT / f"{item_id}.{ext}"
                 out.write_bytes(data)
