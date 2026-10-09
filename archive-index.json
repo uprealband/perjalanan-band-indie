@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-08T12:22:10.174062+00:00",
+  "generatedAt": "2026-10-09T17:55:36.251324+00:00",
   "items": [
     {
       "year": "2004",
@@ -4516,6 +4516,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Podcast, masalah pembuatan AI lokal untuk bikin Buku Digital Perjalanan Uprealband sejak 2004.mp3",
+      "path": "archive/2026/audio/Podcast, masalah pembuatan AI lokal untuk bikin Buku Digital Perjalanan Uprealband sejak 2004.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband.m4a",
       "path": "archive/2026/audio/Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband.m4a"
     },
@@ -4781,7 +4788,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 67
+      "audio": 68
     }
   }
 }
