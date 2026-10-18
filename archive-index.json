@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T17:55:36.251324+00:00",
+  "generatedAt": "2026-10-18T23:54:50.513522+00:00",
   "items": [
     {
       "year": "2004",
@@ -4621,6 +4621,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Uprealband - Mantra Cinta (Hybrid Akustik GIG MODE Version).mp3",
+      "path": "archive/2026/audio/Uprealband - Mantra Cinta (Hybrid Akustik GIG MODE Version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Uprealband Comeback Diam-Diam… Lagu Barunya Bikin Ayah Nahan Nangis 😭 ｜ Rinjani Radio Depok.mp3",
       "path": "archive/2026/audio/Uprealband Comeback Diam-Diam… Lagu Barunya Bikin Ayah Nahan Nangis 😭 ｜ Rinjani Radio Depok.mp3"
     },
@@ -4788,7 +4795,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 68
+      "audio": 69
     }
   }
 }
