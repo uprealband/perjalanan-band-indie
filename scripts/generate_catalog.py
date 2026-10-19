@@ -613,7 +613,8 @@ def main():
             ))
 
             is_podcast = (
-                bool(previous and previous.get("type") == "podcast")
+                path.name.strip().lower().startswith("podcast")
+                or bool(previous and previous.get("type") == "podcast")
                 or explicit_type == "podcast"
                 or album == "podcast"
                 or genre == "podcast"
