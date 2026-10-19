@@ -227,6 +227,23 @@
       "addedAt": "2026-09-24T15:19:18+07:00"
     },
     {
+      "id": "ku-menantimu-hybrid-akustik-gig-mode-version-ku-menantimu-hybrid-akustik-gig-mode-version",
+      "type": "music",
+      "title": "Ku Menantimu (Hybrid Akustik Gig Mode Version)",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "",
+      "version": "Ku Menantimu (Hybrid Akustik Gig Mode Version)",
+      "universe": "HYBRID",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/ku-menantimu-hybrid-akustik-gig-mode-version-ku-menantimu-hybrid-akustik-gig-mode-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Ku%20Menantimu%20%28Hybrid%20Akustik%20Gig%20Mode%20Version%29.mp3",
+      "duration": "4:10",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-10-19T07:14:16+07:00"
+    },
+    {
       "id": "ku-menantimu-cover-ai-version-ku-menantimu-cover-alternative-rock-ai-version",
       "type": "cover",
       "title": "Ku menantimu (cover AI VERSION)",
