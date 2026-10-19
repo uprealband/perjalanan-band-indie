@@ -604,7 +604,7 @@ def main():
             # interview recordings whose old files have no podcast tag.
             title_raw = clean(read_common(path)[2])
             version_raw = clean(read_common(path)[3])
-            legacy_text = " ".join((title_raw, version_raw, clean(read_common(path)[4]), clean(read_common(path)[5]))).lower()
+            legacy_text = " ".join((path.stem, title_raw, version_raw, clean(read_common(path)[4]), clean(read_common(path)[5]))).lower()
 
             is_radio_archive = bool(re.search(
                 r"wawancara|indie radio|indiemania|madu fm|djwirya|radio asia|pop fm|air ?play|airplay",
