@@ -156,7 +156,10 @@
       "duration": "4:30",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-10-19T06:52:11+07:00"
+      "addedAt": "2026-10-19T06:52:11+07:00",
+      "formats": [
+        "GIG MODE"
+      ]
     },
     {
       "id": "lepaslah-uprealband-reggae-hybrid-version-lepaslah-uprealband-reggae-hybrid-version",
@@ -241,7 +244,10 @@
       "duration": "4:10",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-10-19T07:14:16+07:00"
+      "addedAt": "2026-10-19T07:14:16+07:00",
+      "formats": [
+        "GIG MODE"
+      ]
     },
     {
       "id": "ku-menantimu-cover-ai-version-ku-menantimu-cover-alternative-rock-ai-version",
