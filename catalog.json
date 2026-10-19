@@ -325,7 +325,9 @@
       "genre": "Blues",
       "version": "Version",
       "universe": "HYBRID",
-      "formats": [],
+      "formats": [
+        "GIG MODE"
+      ],
       "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/hanya-bisa-rindu-hybrid-gig-mode-version.jpg",
       "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Hanya%20Bisa%20Rindu%20-%20Hybrid%20Gig%20Mode%20Version.mp3",
       "duration": "4:25",
