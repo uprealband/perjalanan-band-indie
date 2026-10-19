@@ -156,10 +156,24 @@
       "duration": "4:30",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-10-19T06:52:11+07:00",
-      "formats": [
-        "GIG MODE"
-      ]
+      "addedAt": "2026-10-19T06:52:11+07:00"
+    },
+    {
+      "id": "let-it-flow-biarkan-cinta-mengalir-ai-jazz-live-english-version-let-it-flow-biarkan-cinta-mengalir-ai-jazz-live-english-version",
+      "type": "music",
+      "title": "Let It Flow - Biarkan Cinta Mengalir (AI Jazz Live English Version)",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Jazz",
+      "version": "Let It Flow   Biarkan Cinta Mengalir (AI Jazz Live English Version)",
+      "universe": "ALBUM",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/let-it-flow-biarkan-cinta-mengalir-ai-jazz-live-english-version-let-it-flow-biarkan-cinta-mengalir-ai-jazz-live-english-version.png",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Let%20It%20Flow%20-%20Biarkan%20Cinta%20Mengalir%20%28AI%20Jazz%20Live%20English%20Version%29.mp3",
+      "duration": "3:38",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-10-19T10:19:03+07:00"
     },
     {
       "id": "lepaslah-uprealband-reggae-hybrid-version-lepaslah-uprealband-reggae-hybrid-version",
@@ -244,10 +258,7 @@
       "duration": "4:10",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-10-19T07:14:16+07:00",
-      "formats": [
-        "GIG MODE"
-      ]
+      "addedAt": "2026-10-19T07:14:16+07:00"
     },
     {
       "id": "ku-menantimu-cover-ai-version-ku-menantimu-cover-alternative-rock-ai-version",
