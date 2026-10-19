@@ -290,7 +290,7 @@ def make_track(path, previous=None):
     if isinstance(previous_formats, str):
         previous_formats = [previous_formats] if previous_formats.strip() else []
     formats = [str(value).strip() for value in previous_formats if str(value).strip()]
-    if not formats and re.search(r"\\bgig\\s*mode\\b", f"{title} {version}", flags=re.I):
+    if not formats and re.search(r"\bgig\s*mode\b", f"{title} {version}", flags=re.I):
         formats = ["GIG MODE"]
 
     return {
