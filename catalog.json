@@ -1695,21 +1695,6 @@
       "addedAt": "2026-09-15T17:20:31+07:00"
     },
     {
-      "id": "podcast-dari-sejarah-band-ke-ai-lokal-komik-2010-rilis-lagu-eksperimen-jakarta-depok-jurnal-uprealband",
-      "type": "podcast",
-      "title": "Dari Sejarah Band ke AI Lokal! Komik 2010, Rilis Lagu & Eksperimen Jakarta–Depok | Jurnal Uprealband",
-      "description": "www.uprealband.com",
-      "artist": "Uprealband",
-      "album": "PODCAST",
-      "year": "2026",
-      "genre": "",
-      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-dari-sejarah-band-ke-ai-lokal-komik-2010-rilis-lagu-eksperimen-jakarta-depok-jurnal-uprealband.jpg",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Podcast%2C%20masalah%20pembuatan%20AI%20lokal%20untuk%20bikin%20Buku%20Digital%20Perjalanan%20Uprealband%20sejak%202004.mp3",
-      "duration": "18:06",
-      "releaseDate": "2026-01-01",
-      "addedAt": "2026-10-10T00:53:12+07:00"
-    },
-    {
       "id": "podcast-gerry-uprealband-skill-bukan-segalanya-ini-yang-lebih-penting",
       "type": "podcast",
       "title": "Gerry Uprealband: Skill Bukan Segalanya… Ini yang Lebih Penting!",
@@ -1858,6 +1843,21 @@
       "duration": "6:19",
       "releaseDate": "2026-01-01",
       "addedAt": "2026-09-15T17:20:31+07:00"
+    },
+    {
+      "id": "podcast-podcast-masalah-pembuatan-ai-lokal-untuk-bikin-buku-digital-perjalanan-uprealband-sejak-2004",
+      "type": "podcast",
+      "title": "Podcast, masalah pembuatan AI lokal untuk bikin Buku Digital Perjalanan Uprealband sejak 2004",
+      "description": "www.uprealband.com",
+      "artist": "Uprealband",
+      "album": "PODCAST",
+      "year": "2026",
+      "genre": "",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-podcast-masalah-pembuatan-ai-lokal-untuk-bikin-buku-digital-perjalanan-uprealband-sejak-2004.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Podcast%2C%20masalah%20pembuatan%20AI%20lokal%20untuk%20bikin%20Buku%20Digital%20Perjalanan%20Uprealband%20sejak%202004.mp3",
+      "duration": "18:06",
+      "releaseDate": "2026-01-01",
+      "addedAt": "2026-10-10T00:53:12+07:00"
     },
     {
       "id": "podcast-rahasia-kenapa-uprealband-masih-bertahan-kisah-band-indie-yang-menolak-bubar",
