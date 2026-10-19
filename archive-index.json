@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-18T23:54:50.513522+00:00",
+  "generatedAt": "2026-10-19T00:09:54.798551+00:00",
   "items": [
     {
       "year": "2004",
@@ -4481,6 +4481,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Mantra Cinta (Hybrid Pop Rock Version).mp3",
+      "path": "archive/2026/audio/Mantra Cinta (Hybrid Pop Rock Version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Misi Mangga Dua Dan Kedatangan Dari Weleri.mp3",
       "path": "archive/2026/audio/Misi Mangga Dua Dan Kedatangan Dari Weleri.mp3"
     },
@@ -4795,7 +4802,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 69
+      "audio": 70
     }
   }
 }

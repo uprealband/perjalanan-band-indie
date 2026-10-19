@@ -125,6 +125,23 @@
       "addedAt": "2026-09-15T17:18:45+07:00"
     },
     {
+      "id": "mantra-cinta-hybrid-pop-rock-version",
+      "type": "music",
+      "title": "Mantra Cinta (Hybrid Pop Rock",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Slow Rock",
+      "version": "Version",
+      "universe": "HYBRID",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/mantra-cinta-hybrid-pop-rock-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Mantra%20Cinta%20%28Hybrid%20Pop%20Rock%20Version%29.mp3",
+      "duration": "2:39",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-10-19T07:08:20+07:00"
+    },
+    {
       "id": "mantra-cinta-hybrid-akustik-gig-mode-version-uprealband-mantra-cinta-hybrid-akustik-gig-mode-version",
       "type": "music",
       "title": "Mantra Cinta (Hybrid Akustik GIG MODE Version)",
@@ -139,10 +156,7 @@
       "duration": "4:30",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-10-19T06:52:11+07:00",
-      "formats": [
-        "GIG MODE"
-      ]
+      "addedAt": "2026-10-19T06:52:11+07:00"
     },
     {
       "id": "lepaslah-uprealband-reggae-hybrid-version-lepaslah-uprealband-reggae-hybrid-version",
