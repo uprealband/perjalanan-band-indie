@@ -1293,6 +1293,21 @@
   ],
   "podcasts": [
     {
+      "id": "podcast-podcast-awal-mula-eksperimen-gig-mode-uprealband",
+      "type": "podcast",
+      "title": "Podcast Awal Mula Eksperimen Gig Mode Uprealband",
+      "description": "",
+      "artist": "Uprealband",
+      "album": "",
+      "year": "",
+      "genre": "",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-podcast-awal-mula-eksperimen-gig-mode-uprealband.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Podcast%20Awal%20Mula%20Eksperimen%20Gig%20Mode%20Uprealband.m4a",
+      "duration": "",
+      "releaseDate": "",
+      "addedAt": "2026-10-19T12:21:11+07:00"
+    },
+    {
       "id": "podcast-podcast-meretas-ai-gratisan-ala-bany-uprealband",
       "type": "podcast",
       "title": "podcast meretas AI gratisan ala Bany Uprealband",
