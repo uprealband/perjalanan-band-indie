@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-19T03:21:32.809314+00:00",
+  "generatedAt": "2026-10-19T04:59:24.937606+00:00",
   "items": [
     {
       "year": "2004",
@@ -4432,6 +4432,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Hanya Bisa Rindu - Hybrid Gig Mode Version.mp3",
+      "path": "archive/2026/audio/Hanya Bisa Rindu - Hybrid Gig Mode Version.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3",
       "path": "archive/2026/audio/Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3"
     },
@@ -4816,7 +4823,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 72
+      "audio": 73
     }
   }
 }

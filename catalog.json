@@ -301,6 +301,23 @@
       "addedAt": "2026-09-15T17:18:45+07:00"
     },
     {
+      "id": "hanya-bisa-rindu-hybrid-gig-mode-version",
+      "type": "music",
+      "title": "Hanya Bisa Rindu (Hybrid Gig Mode)",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Blues",
+      "version": "Version",
+      "universe": "HYBRID",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/hanya-bisa-rindu-hybrid-gig-mode-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Hanya%20Bisa%20Rindu%20-%20Hybrid%20Gig%20Mode%20Version.mp3",
+      "duration": "4:25",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-10-19T11:56:29+07:00"
+    },
+    {
       "id": "cover-lepaslah-uprealband-k-pop-gilrs-band-ai-version-cover-lepaslah-uprealband-k-pop-gilrs-band-ai-version",
       "type": "cover",
       "title": "COVER LEPASLAH - Uprealband (K-POP GILRS BAND AI VERSION)",
