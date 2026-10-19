@@ -840,24 +840,6 @@
       "addedAt": "2026-09-18T00:35:41+07:00"
     },
     {
-      "id": "podcast-kekuatan-jeda-dan-filosofi-rem-bany-uprealband-podcast-kekuatan-jeda-dan-filosofi-rem-bany-uprealband",
-      "type": "music",
-      "title": "Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband",
-      "artist": "Uprealband",
-      "album": "",
-      "year": "",
-      "genre": "",
-      "version": "Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband",
-      "universe": "",
-      "formats": [],
-      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-kekuatan-jeda-dan-filosofi-rem-bany-uprealband-podcast-kekuatan-jeda-dan-filosofi-rem-bany-uprealband.jpg",
-      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband.m4a",
-      "duration": "16:32",
-      "releaseDate": "",
-      "featured": false,
-      "addedAt": "2026-10-03T12:28:37+07:00"
-    },
-    {
       "id": "operasi-merayu-gerry-track-01-operasi-merayu-gerry",
       "type": "music",
       "title": "Operasi Merayu Gerry",
@@ -1321,6 +1303,21 @@
       "duration": "",
       "releaseDate": "",
       "addedAt": "2026-10-07T21:20:12+07:00"
+    },
+    {
+      "id": "podcast-podcast-kekuatan-jeda-dan-filosofi-rem-bany-uprealband",
+      "type": "podcast",
+      "title": "Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband",
+      "description": "",
+      "artist": "Uprealband",
+      "album": "",
+      "year": "",
+      "genre": "",
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/podcast-podcast-kekuatan-jeda-dan-filosofi-rem-bany-uprealband.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Podcast_Kekuatan_Jeda_dan_Filosofi_Rem_Bany_Uprealband.m4a",
+      "duration": "16:32",
+      "releaseDate": "",
+      "addedAt": "2026-10-03T12:28:37+07:00"
     },
     {
       "id": "podcast-air-play-pop-fm-103-jakarta-raya-lepaslah",
