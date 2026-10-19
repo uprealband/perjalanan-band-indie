@@ -282,6 +282,17 @@ def make_track(path, previous=None):
                 break
 
     track_id = slug(f"{title}-{version}") or slug(path.stem)
+
+    # Preserve editorial format labels from the previous catalog when regenerating
+    # the catalog after a new audio upload. Infer GIG MODE for clearly named files
+    # as a fallback so a fresh upload cannot silently erase the format label.
+    previous_formats = (previous or {}).get("formats", [])
+    if isinstance(previous_formats, str):
+        previous_formats = [previous_formats] if previous_formats.strip() else []
+    formats = [str(value).strip() for value in previous_formats if str(value).strip()]
+    if not formats and re.search(r"\\bgig\\s*mode\\b", f"{title} {version}", flags=re.I):
+        formats = ["GIG MODE"]
+
     return {
         "id": track_id,
         "type": "music",
@@ -292,6 +303,7 @@ def make_track(path, previous=None):
         "genre": genre,
         "version": version,
         "universe": universe,
+        "formats": formats,
         "cover": cover_for(track_id, audio, clean((previous or {}).get("cover"))),
         "audio": RAW_BASE + rel,
         "duration": duration_of(audio),
