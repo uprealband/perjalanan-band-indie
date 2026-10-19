@@ -329,9 +329,15 @@ def make_podcast(path, previous=None):
         comment or
         ""
     )
+    # This archived MP3 inherited an unrelated title tag from an earlier edit.
+    # Use its actual filename so it receives the correct title, ID, and artwork.
+    if path.name.lower() == "podcast, masalah pembuatan ai lokal untuk bikin buku digital perjalanan uprealband sejak 2004.mp3":
+        title = path.stem
+
     podcast_id = slug(f"podcast-{title}") or slug(path.stem)
 
-    # No S01 / EP01 generation. Podcast identity comes from its metadata.
+    # No S01 / EP01 generation. Podcast identity comes from its metadata,
+    # with the explicit filename correction above for this known bad tag.
     return {
         "id": podcast_id,
         "type": "podcast",
