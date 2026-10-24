@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-24T20:48:45.474861+00:00",
+  "generatedAt": "2026-10-24T21:00:20.089330+00:00",
   "items": [
     {
       "year": "2004",
@@ -4327,6 +4327,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "Biarkan Cinta Mengalir (BCM) (Indie Pop Remix AI Version).mp3",
+      "path": "archive/2026/audio/Biarkan Cinta Mengalir (BCM) (Indie Pop Remix AI Version).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Biarkan Cinta Mengalir (BCM) - (Gig Mode - Opening Olimpiade Bahasa Indonesia Version).m4a",
       "path": "archive/2026/audio/Biarkan Cinta Mengalir (BCM) - (Gig Mode - Opening Olimpiade Bahasa Indonesia Version).m4a"
     },
@@ -4851,7 +4858,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 77
+      "audio": 78
     }
   }
 }
