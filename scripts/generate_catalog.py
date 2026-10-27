@@ -592,7 +592,7 @@ def make_archive_photos():
 def main():
     tracks = make_archive_photos()
     podcasts = []
-    stories = load_stories()
+    stories = []  # Legacy 31-chapter stories are no longer published in the public catalog.
     previous_index = previous_audio_index()
     audio_errors = []
 
