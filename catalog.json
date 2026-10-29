@@ -52,7 +52,8 @@
       "duration": "3:41",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:25:27+07:00"
+      "addedAt": "2026-09-15T17:25:27+07:00",
+      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
     },
     {
       "id": "sambutlah-anthem-rock-ai-version",
@@ -70,7 +71,8 @@
       "duration": "3:56",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:25:27+07:00"
+      "addedAt": "2026-09-15T17:25:27+07:00",
+      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
     },
     {
       "id": "sambutlah-groove-hybrid",
@@ -93,7 +95,8 @@
       "videoType": "official",
       "videoTitle": "Sambutlah (Hybrid Version)",
       "videoLocation": "Museum Fatahillah, Kota Tua Jakarta",
-      "youtube": "https://www.youtube.com/watch?v=_P-Go5mGcZQ"
+      "youtube": "https://www.youtube.com/watch?v=_P-Go5mGcZQ",
+      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
     },
     {
       "id": "sambutlah-house-ai-version",
@@ -111,7 +114,8 @@
       "duration": "4:54",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:25:27+07:00"
+      "addedAt": "2026-09-15T17:25:27+07:00",
+      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
     },
     {
       "id": "sambutlah-reggae-hybrid",
@@ -129,7 +133,8 @@
       "duration": "2:20",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:18:45+07:00"
+      "addedAt": "2026-09-15T17:18:45+07:00",
+      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
     },
     {
       "id": "mantra-cinta-hybrid-pop-rock-version",
@@ -693,7 +698,8 @@
       "duration": "3:29",
       "releaseDate": "2010-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:14:23+07:00"
+      "addedAt": "2026-09-15T17:14:23+07:00",
+      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
     },
     {
       "id": "lepaslah-original-lepaslah-original",
