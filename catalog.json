@@ -52,8 +52,7 @@
       "duration": "3:41",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:25:27+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
+      "addedAt": "2026-09-15T17:25:27+07:00"
     },
     {
       "id": "sambutlah-anthem-rock-ai-version",
@@ -71,8 +70,7 @@
       "duration": "3:56",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:25:27+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
+      "addedAt": "2026-09-15T17:25:27+07:00"
     },
     {
       "id": "sambutlah-groove-hybrid",
@@ -95,8 +93,7 @@
       "videoType": "official",
       "videoTitle": "Sambutlah (Hybrid Version)",
       "videoLocation": "Museum Fatahillah, Kota Tua Jakarta",
-      "youtube": "https://www.youtube.com/watch?v=_P-Go5mGcZQ",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
+      "youtube": "https://www.youtube.com/watch?v=_P-Go5mGcZQ"
     },
     {
       "id": "sambutlah-house-ai-version",
@@ -114,8 +111,7 @@
       "duration": "4:54",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:25:27+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
+      "addedAt": "2026-09-15T17:25:27+07:00"
     },
     {
       "id": "sambutlah-reggae-hybrid",
@@ -133,8 +129,7 @@
       "duration": "2:20",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:18:45+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
+      "addedAt": "2026-09-15T17:18:45+07:00"
     },
     {
       "id": "mantra-cinta-hybrid-pop-rock-version",
@@ -245,6 +240,24 @@
       "releaseDate": "2026-01-01",
       "featured": false,
       "addedAt": "2026-09-15T17:25:27+07:00"
+    },
+    {
+      "id": "ku-pergi-hybrid-akustik-version-ku-pergi-hybrid-akustik-version",
+      "type": "music",
+      "title": "Ku Pergi (hybrid Akustik Version)",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "AKUSTIK",
+      "version": "Ku Pergi (hybrid Akustik Version)",
+      "universe": "HYBRID",
+      "formats": [],
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/ku-pergi-hybrid-akustik-version-ku-pergi-hybrid-akustik-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Ku%20Pergi%20%28hybrid%20Akustik%20Version%29.mp3",
+      "duration": "3:08",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-11-01T20:47:58+07:00"
     },
     {
       "id": "ku-menantimu-alternative-rock-post-punk-hybrid-version-ku-menantimu-alternative-rock-post-punk-hybrid-version",
@@ -698,8 +711,7 @@
       "duration": "3:29",
       "releaseDate": "2010-01-01",
       "featured": false,
-      "addedAt": "2026-09-15T17:14:23+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/sambutlah.txt"
+      "addedAt": "2026-09-15T17:14:23+07:00"
     },
     {
       "id": "lepaslah-original-lepaslah-original",
