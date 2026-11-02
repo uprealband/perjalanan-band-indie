@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-01T13:50:02.096737+00:00",
+  "generatedAt": "2026-11-02T17:54:13.151866+00:00",
   "items": [
     {
       "year": "2004",
@@ -4453,6 +4453,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "I'm Leaving (Cover Ku Pergi - Uprealband).mp3",
+      "path": "archive/2026/audio/I'm Leaving (Cover Ku Pergi - Uprealband).mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3",
       "path": "archive/2026/audio/Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3"
     },
@@ -4865,7 +4872,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 79
+      "audio": 80
     }
   }
 }
