@@ -343,14 +343,17 @@
       "genre": "",
       "version": "I'm Leaving (Cover Ku Pergi   Uprealband)",
       "universe": "COVER",
-      "formats": [],
+      "formats": [
+        "GIG MODE"
+      ],
       "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/i-m-leaving-cover-ku-pergi-uprealband-i-m-leaving-cover-ku-pergi-uprealband.jpg",
       "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/I%27m%20Leaving%20%28Cover%20Ku%20Pergi%20-%20Uprealband%29.mp3",
       "duration": "3:31",
       "releaseDate": "2026-01-01",
       "featured": false,
       "addedAt": "2026-11-03T00:51:36+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/im-leaving.txt"
+      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/im-leaving.txt",
+      "detailsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/details/im-leaving.md"
     },
     {
       "id": "hanya-bisa-rindu-hybrid-gig-mode-version",
