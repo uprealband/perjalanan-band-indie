@@ -351,9 +351,7 @@
       "duration": "3:31",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-11-03T00:51:36+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/im-leaving.txt",
-      "detailsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/details/im-leaving.md"
+      "addedAt": "2026-11-03T00:51:36+07:00"
     },
     {
       "id": "hanya-bisa-rindu-hybrid-gig-mode-version",
@@ -464,6 +462,26 @@
       "releaseDate": "2026-01-01",
       "featured": false,
       "addedAt": "2026-09-21T21:39:22+07:00"
+    },
+    {
+      "id": "cover-ku-menantimu-gig-mode-campur-sari-jawa-version-cover-ku-menantimu-gig-mode-campur-sari-jawa-version",
+      "type": "cover",
+      "title": "Cover ku menantimu (Gig Mode Campur Sari-Jawa Version)",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Campur Sari",
+      "version": "Cover ku menantimu (Gig Mode Campur Sari Jawa Version)",
+      "universe": "COVER",
+      "formats": [
+        "GIG MODE"
+      ],
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/cover-ku-menantimu-gig-mode-campur-sari-jawa-version-cover-ku-menantimu-gig-mode-campur-sari-jawa-version.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Cover%20ku%20menantimu%20%28Gig%20Mode%20Campur%20Sari-Jawa%20Version%29.mp3",
+      "duration": "4:33",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-11-06T23:03:13+07:00"
     },
     {
       "id": "cover-kala-malam-uprealband-ai-version-cover-kala-malam-uprealband-ai-version",
