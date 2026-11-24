@@ -334,6 +334,24 @@
       "addedAt": "2026-09-15T17:18:45+07:00"
     },
     {
+      "id": "i-m-leaving-ku-pergi-intro-kizuna-band-bahasa-japan-mp3-i-m-leaving-ku-pergi-intro-kizuna-band-bahasa-japan-mp3",
+      "type": "music",
+      "title": "I'm Leaving (Ku Pergi) Intro Kizuna Band - bahasa Japan.mp3",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "",
+      "version": "I'm Leaving (Ku Pergi) Intro Kizuna Band   bahasa Japan.mp3",
+      "universe": "",
+      "formats": [],
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/i-m-leaving-ku-pergi-intro-kizuna-band-bahasa-japan-mp3-i-m-leaving-ku-pergi-intro-kizuna-band-bahasa-japan-mp3.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/I%27m%20Leaving%20%28Ku%20Pergi%29%20Intro%20Kizuna%20Band%20-%20bahasa%20Japan.mp3.mp3",
+      "duration": "4:33",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-11-24T21:22:01+07:00"
+    },
+    {
       "id": "i-m-leaving-cover-ku-pergi-uprealband-i-m-leaving-cover-ku-pergi-uprealband",
       "type": "cover",
       "title": "I'm Leaving (Cover Ku Pergi - Uprealband)",
@@ -351,9 +369,7 @@
       "duration": "3:31",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-11-03T00:51:36+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/im-leaving.txt",
-      "detailsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/details/im-leaving.md"
+      "addedAt": "2026-11-03T00:51:36+07:00"
     },
     {
       "id": "hanya-bisa-rindu-hybrid-gig-mode-version",

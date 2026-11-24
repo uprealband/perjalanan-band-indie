@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-06T17:46:59.959891+00:00",
+  "generatedAt": "2026-11-24T14:26:46.671166+00:00",
   "items": [
     {
       "year": "2004",
@@ -4474,6 +4474,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "I'm Leaving (Ku Pergi) Intro Kizuna Band - bahasa Japan.mp3.mp3",
+      "path": "archive/2026/audio/I'm Leaving (Ku Pergi) Intro Kizuna Band - bahasa Japan.mp3.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3",
       "path": "archive/2026/audio/Ini awkward, Serius？ Band 2004 baru bikin Instagram.mp3"
     },
@@ -4886,7 +4893,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 82
+      "audio": 83
     }
   }
 }
