@@ -37,6 +37,24 @@
       "addedAt": "2026-09-15T17:18:45+07:00"
     },
     {
+      "id": "slamet-kentjur-kangen-campur-sari-cover-rindu-uprealband-slamet-kentjur-kangen-campur-sari-cover-rindu-uprealband",
+      "type": "cover",
+      "title": "Slamet Kentjur - Kangen Campur Sari (Cover Rindu Uprealband)",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "Campur Sari",
+      "version": "Slamet Kentjur   Kangen Campur Sari (Cover Rindu Uprealband)",
+      "universe": "COVER",
+      "formats": [],
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/slamet-kentjur-kangen-campur-sari-cover-rindu-uprealband-slamet-kentjur-kangen-campur-sari-cover-rindu-uprealband.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/Slamet%20Kentjur%20-%20Kangen%20Campur%20Sari%20%28Cover%20Rindu%20Uprealband%29.mp3",
+      "duration": "4:41",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-11-25T15:03:01+07:00"
+    },
+    {
       "id": "sambutlah-ai-orkestra-version",
       "type": "music",
       "title": "Sambutlah",
@@ -349,8 +367,7 @@
       "duration": "4:33",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-11-24T21:22:01+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/im-leaving-japanese.txt"
+      "addedAt": "2026-11-24T21:22:01+07:00"
     },
     {
       "id": "i-m-leaving-cover-ku-pergi-uprealband-i-m-leaving-cover-ku-pergi-uprealband",
