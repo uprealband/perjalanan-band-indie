@@ -52,8 +52,7 @@
       "duration": "4:41",
       "releaseDate": "2026-01-01",
       "featured": false,
-      "addedAt": "2026-11-25T15:03:01+07:00",
-      "lyricsUrl": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/lyrics/slamet-kentjur-kangen-campur-sari-cover-rindu-uprealband.txt"
+      "addedAt": "2026-11-25T15:03:01+07:00"
     },
     {
       "id": "sambutlah-ai-orkestra-version",
@@ -389,6 +388,26 @@
       "releaseDate": "2026-01-01",
       "featured": false,
       "addedAt": "2026-11-03T00:51:36+07:00"
+    },
+    {
+      "id": "i-miss-u-gig-mode-rindu-uprealband-cover-edm-english-version-rainy-i-miss-u-gig-mode-rindu-uprealband-cover-edm-english-version-rainy",
+      "type": "cover",
+      "title": "I Miss U  GIG MODE - Rindu (Uprealband Cover) EDM English Version  Rainy",
+      "artist": "Uprealband",
+      "album": "RE-EVOLUTION",
+      "year": "2026",
+      "genre": "EDM",
+      "version": "I Miss U GIG MODE Rindu Uprealband Cover EDM English Version Rainy",
+      "universe": "COVER",
+      "formats": [
+        "GIG MODE"
+      ],
+      "cover": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/artwork/i-miss-u-gig-mode-rindu-uprealband-cover-edm-english-version-rainy-i-miss-u-gig-mode-rindu-uprealband-cover-edm-english-version-rainy.jpg",
+      "audio": "https://raw.githubusercontent.com/uprealband/perjalanan-band-indie/main/archive/2026/audio/I%20Miss%20U%20GIG%20MODE%20Rindu%20Uprealband%20Cover%20EDM%20English%20Version%20Rainy.mp3",
+      "duration": "6:00",
+      "releaseDate": "2026-01-01",
+      "featured": false,
+      "addedAt": "2026-11-25T23:41:14+07:00"
     },
     {
       "id": "hanya-bisa-rindu-hybrid-gig-mode-version",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-25T08:05:47.277417+00:00",
+  "generatedAt": "2026-11-25T16:42:58.251572+00:00",
   "items": [
     {
       "year": "2004",
@@ -4467,6 +4467,13 @@
       "year": "2026",
       "category": "audio",
       "type": "file",
+      "name": "I Miss U GIG MODE Rindu Uprealband Cover EDM English Version Rainy.mp3",
+      "path": "archive/2026/audio/I Miss U GIG MODE Rindu Uprealband Cover EDM English Version Rainy.mp3"
+    },
+    {
+      "year": "2026",
+      "category": "audio",
+      "type": "file",
       "name": "I'm Leaving (Cover Ku Pergi - Uprealband).mp3",
       "path": "archive/2026/audio/I'm Leaving (Cover Ku Pergi - Uprealband).mp3"
     },
@@ -4900,7 +4907,7 @@
       "photos": 0,
       "documents": 1,
       "videos": 3,
-      "audio": 84
+      "audio": 85
     }
   }
 }
